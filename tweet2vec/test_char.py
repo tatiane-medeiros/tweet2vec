@@ -106,5 +106,8 @@ def main(args):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1:])
-    evaluate.main(sys.argv[3],sys.argv[2])
+    #main(sys.argv[1:])
+    args = ["../data/test.txt", "best_model", "result"]
+    main(args)
+    #evaluate.main(sys.argv[3],sys.argv[2])
+    evaluate.main("result", "best_model")

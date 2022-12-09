@@ -95,7 +95,7 @@ def build_dictionary(text):
 
     chardict = OrderedDict()
     for idx, sidx in enumerate(sorted_idx):
-        chardict[chars[sidx]] = idx + 1
+        chardict[list(chars)[sidx]] = idx + 1
 
     return chardict, charcount
 
@@ -103,7 +103,7 @@ def save_dictionary(worddict, wordcount, loc):
     """
     Save a dictionary to the specified location 
     """
-    with open(loc, 'w') as f:
+    with open(loc, 'wb') as f:
         pkl.dump(worddict, f)
         pkl.dump(wordcount, f)
 
@@ -123,7 +123,7 @@ def build_label_dictionary(targets):
 
     labeldict = OrderedDict()
     for idx, sidx in enumerate(sorted_idx):
-        labeldict[labels[sidx]] = idx + 1
+        labeldict[list(labels)[sidx]] = idx + 1
 
     return labeldict, labelcount
 

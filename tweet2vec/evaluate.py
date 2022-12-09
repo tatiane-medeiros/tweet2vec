@@ -72,13 +72,13 @@ def main(result_path, dict_path):
         t = pkl.load(f)
     with open('%s/data.pkl'%result_path,'r') as f:
         d = pkl.load(f)
-    with open('%s/embeddings.npy'%result_path,'r') as f:
+    with open('%s/embeddings.npy'%result_path,'rb') as f:
         e = np.load(f)
     with open('%s/label_dict.pkl'%dict_path,'r') as f:
         labeldict = pkl.load(f)
 
     readable = readable_predictions(p, t, d, 10, labeldict)
-    with io.open('%s/readable.txt'%result_path,'w') as f:
+    with io.open('%s/readable.txt'%result_path,'w', encoding='utf-8') as f:
         for line in readable:
             f.write(line)
 
@@ -96,4 +96,5 @@ def main(result_path, dict_path):
         plt.show()
 
 if __name__ == '__main__':
-    main(sys.argv[1],sys.argv[2])
+    # main(sys.argv[1],sys.argv[2])
+    main("result", "best_model")
