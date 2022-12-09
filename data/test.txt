@@ -1,0 +1,346 @@
+grama	bisc  c  cracker vitarella trad 9 g
+kg	versatil clor bd 9 kg
+grama	macarrao tipo espaquete 9 g
+grama	bolacha crean ckacer 9 gr
+kit	kit cor pin corr hda nxr 9 bros premium
+grama	colorifico dona clara 9 g
+unidade	unid proc dig peq cap unid proc dig hp d
+unidade	nutrison 9 energy tetra 9 ml cx c 9 lot 9 fab  val 
+comp	diosmin 9 mg cx 9 comp
+kg	polpa cong de frutas canaa caja 9 kg
+grama	cafe nordestino 9 g
+caixa	kabiven peripheral 9 kcal 9 ml cx 9 br 9 lot 9 if 9 val  fab 
+litro	 gua sanit ria 9 lt
+caixa	glyvenol 9 mg drg cx 9 bl x 9
+unidade	agulha desc 9 x 9 9 und
+ampola	agua bidestilada cx c 9 amp x 9 ml farmace lt 9 e 9 fab  val 
+comp	olcadil 9 mg c 9 cpr
+caixa	agua sanitaria cx c 9
+unidade	g glimepirida 9 mg c 9 sandoz
+comp	sustrate c 9 cp
+caixa	dexametasona inj 9 mg ml 9 ml cx c  9 lote t 9/9
+comp	gardenal 9 mg 9 cp
+comp	depakote er 9 mg 9 cpr c 9 
+unidade	ovo branco medio 9 und
+litro	carrinho metalosa 9 x 9 verm 9 l c 9 un
+unidade	compressa gaze 9 x 9 9 fios 9 und
+unidade	lapis grafite n 9 sem ponteira pacote c 9 und
+unidade	papel toalha c 9 caprice 
+metro	copo desc copobras transp 9 ml
+grama	achocolatado em po 9 g
+grama	extrato de tomate 9 g
+grama	biscoito doce maria 9 gr
+ampola	furosemida 9 mg inj c 9 amp gen hosp  teuto hospitalar 
+caixa	hidralazina 9 mg ml cx 9 amp
+ampola	complexo b im iv inj 9 ml amp
+ampola	fenocris 9 mg fenobarbital amp b 9 
+caixa	teicoplanina 9 mg injetavel cx 9
+unidade	hioscina composta sol inj  c 9 imposto ibpt nacional 9 
+kg	sal campeao 9 kg comum iodado
+grama	margarina vegetal 9 g
+kg	maca gala grande kg
+kg	costela congelada kg
+grama	cafe santa clara 9 g
+grama	coentro acond  g
+kg	sal mimosal 9 kg
+frasco	agua bidestilada f a 9 ml isofarma 
+frasco	metilergometrina 9 mg f a 9 ml uniao qu
+ampola	complexo b amp im iv l 9 q 9 f  v 
+ampola	complexo b amp im iv l 9 q 9 f  v 
+frasco	vitamina c 9 mg f a 9 ml farmace 
+ampola	atropina 9 mg sol inj amp 9 ml isofarma p
+ampola	sulfa trimetoprima 9 ml amp neo quimica 
+frasco	agua bidestilada f a 9 ml isofarma 
+frasco	glicose 9 f a 9 ml isofarma 
+comp	enalapril 9 mg cpr
+comp	metronidazol 9 mg c 9 comp imposto ibpt nacional 9 
+comp	 levomepromazina 9 mg comp cristalia lote 9
+comp	captopril 9 mg cpr
+comp	sulfato ferroso 9 mg c 9 comp
+grama	metronidazol 9 mg gel vag apl 9 g imposto ibpt nacional 9 
+grama	9 cola branca fix 9 g polycart
+grama	nistatina creme vag  aplic  9 g
+comp	vitergyl c 9 g c 9 comp eferv
+grama	esperson n pomada 9 gr
+grama	balsamo bengue gel 9 g
+grama	trinulox cr derm c 9 g
+grama	nebaciderme 9 g pomada mult
+grama	miconazol 9 mg g cr  vag 9 g
+grama	dexa 9 g creme 9 mg g
+litro	agua mineral 9 litros
+frasco	cefalexina 9 ml ml po o  susp oral fr 9 ml
+frasco	compexo b liquido  fr 9 ml medqu 
+frasco	annita 9 mg sus fr 9 ml
+frasco	ambroxol xarope 9 ml 9 ml cx 9 fr 9 ml
+metro	frillon 9 9 x 9 mt acrilon
+metro	cer 9 x 9 icapui bco a cx 9 m cerbras
+metro	pelicula g 9 9 mts chacoal grafite flex 
+metro	tubo de latex n  9 pct c  9 m 9 r latex lote 9 
+metro	papel higienico personal lavanda 9 r 9 m
+metro	fita isolante 9 m display amanco
+litro	tinta extralux esm sint 9 l azul del rey 9 lux
+grama	leite em po ninho integral nestle 9 g
+metro	papel grau cirurgico medio 9 mm x 9 m lote 9 
+metro	filme para ultrasom typi i normal upp 9 s 9 mm 9 m cx com 9 sony lote 9 
+metro	tecido tnt cor div 9 x 9 m 9 p polipropilento
+metro	tecido tnt cor div 9 x 9 m 9 p polipropilento
+metro	lencol papel hosp 9 x 9 mts creme recicl
+grama	algodao hidrofilo 9 gr
+grama	algodao em rolo hidrofilo 9 gr marca melhor med 
+metro	papel grau cirurgico grande 9 mm x 9 m lote m 9 
+comp	carbamazepina 9 mg cx 9 comp c 9 uniao quimica
+comp	diazepan 9 mg cx 9 comp b 9 santisa
+comp	omeprazol 9 mg comp lt 9 i 9
+comp	sulfato ferroso 9 ng comp  lt 9 f 9 m
+unidade	compressa 9 x 9 9 fios c 9 esteril
+unidade	lacto purga env c 9 comp 
+m3	oxigenio medicinal cil t 9 m 9  
+m3	ar medicinal cil k 9 m 9  
+m3	oxigenio medicinal cil 9 m 9  
+m3	oxigenio medicinal cil t 9 m 9  
+m3	oxigenio medicinal cil t 9 m 9
+litro	oxig nio med  cil om 9 l
+cilindro	oxigenio medicinal cil pp  
+metro	sapucaia serr em linha 9 m 9/9
+grama	metronidazol 9 mg g gel vaginal 9 bg 9
+grama	neomicina bacitracina pom  9 g
+grama	pratiglos pom 9 gr pratidonad
+grama	dexametasona 9 mgg bis 9 g dt validade 9
+grama	cetoconazol dip betamet pom 9 g g 
+grama	neomicina bacit pom nebactrina 9 gr
+grama	metronidazol gel ginecologico 9 mg 9 g
+grama	estriol creme vaginal 9 mg 9 g
+grama	kollagenase c cloraf bisn 9 g cx 9
+grama	miconazol creme vaginal 9 g prati donad
+conjunto	jg pastilha freio
+conjunto	jg pastilha freio traseiro
+conjunto	jg reparo pinca
+conjunto	jg pastilha freio
+conjunto	jg lona d t 9/9 dm 9 dna 9 9 9
+conjunto	jg pastilha freio dianteiro
+comp	alivium 9 ts 9 mg c 9 comp 
+frasco	amoxacilina 9 mg susp fr 9 ml imposto ibpt nacional 9 
+caixa	cx gordura tigre dn 9
+metro	fita isolante tigre 9 x 9 mts
+rolo	rolo de la 9 cm atlas
+kit	kit contrato 9 am
+comp	dipirona 9 mg apres  cx c 9 cpr sobral pi 
+comp	halo 9 mg haloperidol 9 cpr c 9 
+comp	paroxetina 9 mg c 9 cx  9 comp aurobindo pharma 
+comp	clonazepam 9 mg c 9 cpr s zilepam b 9 geolab go 
+comp	diazepam 9 mg cx 9 comp b 9 
+comp	atenolol 9 mg cx 9 comp  vitamedic 
+comp	captopril 9 mg cpr
+comp	ibuprofeno 9 mg cpr teuto hospitalar 
+comp	norfloxacino 9 mg cpr
+comp	captopril 9 mg cprs sanval 
+comp	sulfametoxazol trimetoprima 9/9 mg cx 9 cpr
+comp	nimesulida 9 mg cx 9 comp  vitamedic 
+comp	amitriptilina 9 mg via oral cpr brainfarma 
+litro	pintalar 9 lt areia iquine
+litro	tinta luxcril 9 l branco neve lux
+litro	tinta luxcril 9 l branco gelo lux
+grama	almondegas ao molho de tomate 9 g
+litro	tinta decora sb 9 lts branco gelo coral
+kg	milho verde em conserva com 9 kg
+litro	tinta lux luxcril acrilica 9 lts  azul p
+litro	extralatex verde limao 9 l
+litro	veda bem impermeabilizante azul 9 lt
+litro	iquine delanil acril fo  9 lt bco gelo
+litro	tinta rende muito 9 lts ceramica
+rolo	gaze em rolo 9 fios biotextil
+rolo	atadura crepom 9 x 9 9 fios pct 9 rls biote 
+metro	papel grau cir ph 9 mmx 9 mt
+metro	fita adesiva autoclave 9 mm x 9 m                 
+metro	papel grau cirurgico 9 mmx 9 m
+metro	gaze hidrofila 9 cmx 9 m 9 fios stander nataly
+metro	papel grau cirurgico 9 cm x 9 mt imposto ibpt nacional 9 
+rolo	gaze rolo 9 x 9 9 f std
+rolo	lencol descartavel de papel em rolo 9 x 9 m dumbo marca sapporo
+metro	cabo flexivel 9 mm c 9 m megacampos
+metro	gaze queijo 9 f 9 mts clean
+metro	fita adesiva autoclave 9 mm x 9 m                 
+cilindro	oxigenio med  em cil  9 m 9 tq 9 na 9 onu
+m3	oxigenio 9 m 9
+m3	oxigenio 9 m 9
+m3	oxigenio 9 m 9
+cilindro	ar med  cil 9 m 9 om 9 l onu 9 na 9 9
+m3	ar comprimido 9 m 9
+m3	oxigenio 9 m 
+m3	ar comprimido 9 m 9
+unidade	oxigenio med em cil 9 m 9 tg 9 na un 9
+cilindro	oxig nio med  em cil  9 m 9 9 9 na 9 onu
+m3	oxig nio med  em cil  9 m 9 9 9 na 9 onu
+m3	oxig nio med cil om 9 m 9 onu 9 9 9 9
+cilindro	oxigenio ppu
+m3	oxigenio 9 m 9
+cilindro	oxigenio ppu
+m3	oxigenio 9 m 9
+grama	sab o em p guarani sach 9 x 9 g
+metro	papel higienico angel soft 9 x 9 9 m
+kg	arroz tipo 9 parborizado 9 x 9 kg
+grama	flocao sao braz 9 x 9 g
+grama	leite em po integral italac 9 x 9 g
+kg	f trigo esp  r  branca 9 x 9 kg c  ferm 
+grama	sab o em p guarani sach 9 x 9 g
+grama	sabao em po 9 g c 9 und mr marilux
+metro	papel hig  institu  lorde verde bco 9 celulose c 9 m fd c 9 rl lorde
+litro	diatex acrilico vanilla 9 l
+frasco	 clor cefepima 9 g po p sol inj cx 9 f cefepima  cloridrato aurobindo
+frasco	 actilyse 9 mg cx 9 f a dil 9 ml canu alteplase boehringer
+frasco	teicoplanina 9 mg koplan cx 9 f a dil novafarma
+caixa	ceftriaxona 9 gr iv cx 9 fa celltriaxon fab  cellofarm
+frasco	meropenem 9 g c 9 fa generico abl antibioticos do bras 
+kit	kit pnld
+kit	kit pnld
+conjunto	conjunto para circulacao extracorporea neonato
+kit	9 s 9/ 9/e   kit alarme
+conjunto	coloracao panotico rapido conj  9 x 9 ml
+kit	toxoplasmose igm atraves da metodologia elisa kit
+caixa	giranda cx 9 tiros ouro
+metro	oxigenio 9 mts
+comp	fluoxetina 9 mg cx 9 caps g c 9
+frasco	bio latex fr completo quibasa
+frasco	fr latex 9 ml marca biotecnica lote 9 h 9 a
+kit	kit papa nicolau tam m
+unidade	syphilis ice c 9 t lote d 9 marca diasorin
+unidade	triglicerideo enzimatico c 9 testes lt 9
+comp	levonorg etinilest 9 caps
+kg	argamassa quart  aci 9 kg
+comp	metformina 9 mg 9 cp
+comp	diazepam 9 mg 9 cp b 9 
+comp	diazepam 9 mg 9 cp b 9 
+comp	enalapril 9 mg 9 cp
+comp	ranitidina 9 mg 9 cp
+comp	diazepam 9 mg 9 cp b 9 
+comp	metformina 9 mg 9 cp
+comp	biperideno 9 mg 9 cp c 9 
+comp	propranolol 9 mg 9 cp
+unidade	ovos c 9 und
+unidade	bandeja de ovos c  9 und
+unidade	ovos c 9 und
+unidade	hf ovo bco gd pvc bdj 9 x 9 9 und
+unidade	ovos de galinha emb c 9 und
+kg	massa pva hidracor balde 9 kg
+kg	liex mix 9 kg detergente em p p  lavagem de tecidos
+litro	tintas lux duramais bd 9 l branco gelo
+litro	plaxmatic 9 9 l alvejante l quido
+litro	lubrax top turbo 9 w 9 9 l
+kg	petrol carflex c 9 kg bd
+unidade	ovos granja mauricea c 9
+kg	graxa chassis golden 9 9 kg
+litro	arla 9 9 lt
+litro	liex soft 9 l amaciante a base de quatern rio
+litro	oleo hidraulico 9 c  9 lt
+litro	oleo 9 w 9 9 l brutu
+litro	massa corrida 9 l balde
+unidade	sabonete infantil c 9
+metro	atadura de crepom 9 f 9 cm x 9 m pct c  9 lote 9
+unidade	atadura de crepom 9 cm x 9 9 fios c 9
+unidade	atad  de crepom 9 cm c 9
+kg	cal supercal 9 kg
+kg	equinos 9 ma 9 kg
+kg	tinta po cal megao 9 kg
+kg	cimento cimpor cpii z 9 sc 9 kg
+kg	cimento 9 kg zebu cinza
+grama	extrato de tomate 9 g quero
+kg	argamassa itatiunga aci 9 kg
+kg	cimento portland composto apodi cp ii e 9 9 kg 
+kg	farelo de soja 9 kg
+kg	cal extra massa 9 kg
+kg	cimento cpii z 9 rs nbr 9 nbr 9 9 kg cf 9
+litro	shine dry 9 lt
+litro	removed cera becker tira facil c 9 lt 9
+litro	liex 9 9 l detergente neutro uso geral
+litro	primax dt 9 lt
+litro	spar ht 9 bb 9 lts
+litro	saco p  lixo infectante 9 lts
+unidade	pilha rayovac media c 9
+unidade	ovos vermelho cascavel c 9
+caixa	metformina 9 mg cx 9
+comp	dorene 9 mg cps 9 x 9 c 9 etico pn
+caixa	caldo knorr carne cxa 9 x 9 9 g
+litro	saco para lixo branco hospitalar 9 lt
+unidade	luva procedim top quality tam p 9 un medix 
+m3	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
+m3	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
+m3	oxido nitroso cil linde 9 l 9 kg vz onu 9 oxido nitroso  comprimido 9 9 9
+m3	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
+caixa	luva de procedimento m cx 9
+ampola	hyplex b inj cx 9 amp complexo b 
+caixa	luva de procedimento p cx 9
+caixa	luva de procedimento p cx 9
+comp	cabergolina 9 mg ct 9 fr c  9 cp
+grama	pastilha sanitaria disoflor lavanda 9 g
+litro	alcool gel 9 9 litros
+litro	extralux 9 l branco
+litro	duramais 9 l branco neve lux
+litro	selador acrilico iquine delanil 9 l
+litro	coralar acr gl 9 l branco
+litro	fixador p raio x galao c  9 litros p preparar 9 l marca hexa fotoq
+kg	tinta esmalte branco gelo kg
+litro	iquine dialine esm 9 l cinza medio bri 
+litro	tinta iquine pintalar vinil acr 9 l perola
+galao	dialine esm  platina gl gl 9 x 9
+litro	esm extralux 9 l cinza medio
+galao	thinner galao
+litro	extralatex branco neve 9 lt hidracor
+litro	solvente natrielli gl 9 lt
+litro	thinner galao 9 lt 9
+litro	tinta acril pintapiso 9 lt cz medio coral
+litro	saco p  lixo comum 9 l pr
+litro	saco para lixo branco hospitalar 9 lt
+litro	saco para lixo branco hospitalar 9 lt
+litro	creme protetor solar fps 9 9 l
+grama	doce de leite pastoso sem corante embal  c  9 gr marca triangulo
+grama	margarina produzida excl  de gordura vegetal adicao de sal com gordura trans embal  c 9 gr marca deline
+comp	fluxon 9 mg c 9 comp neo hosp neo hospitalar 
+comp	afolic 9 mg c 9 comp hosp natulab hosp 
+comp	predcort 9 mg c 9 comp vitapan 
+unidade	lapis hidrocor c 9 neopen compactor
+kit	kit estabilizador diant 9
+unidade	fosforo maco c  9 cx
+unidade	hidrocortisona 9 mg c 9 inj
+caixa	ceftriaxona 9 gr iv im s dil cx  9 f a biochimico 
+frasco	lidocaina 9 s v cx c 9 f a
+caixa	ceftriaxona 9 g iv im s dil cx 9 amplospec 
+frasco	omeprazol 9 mg 9 ml dil  cx 9 f a  blausiegel 
+unidade	papel sulfite a 9 bco c 9 fls
+grama	papel a 9 9 g
+comp	atenolol 9 mg cx 9 cps  gen
+comp	nitrofurantoina 9 mg cx 9 caps gen 
+comp	cefalexina 9 mg c 9 cpr teuto teuto 
+grama	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9 
+kit	kit faco 9 mm laureate lote 9 h val 9 9 
+metro	veda rosca 9 x 9 mts polytubes
+unidade	caneta esferografica azul 9 c 9 und
+unidade	copo descart vel caixa c  9 unid copobras
+caixa	omeprazol 9 mg injetavel cx 9 ampolas oprazon 
+unidade	papel oficio c 9
+unidade	papel oficio a 9 report 9 x 9 c 9 fls
+unidade	papel chamex mult a 9 c 9 fls 9 x 9
+unidade	papel oficio a 9 report 9 x 9 c 9 fls
+unidade	papel oficio a 9 report 9 x 9 c 9 fls
+conjunto	conj pagao para maternidade  9 par de sapato  9 par de luvas  9 pano de chupeta e 9 lencol de xixi  9 algodao
+grama	marreta oitavada 9 g forjada ref 9/9
+ampola	butilescopolamina dipirona sodica 9 ml cx 9 amp
+caixa	benzilpenicilina 9 cx 9
+ampola	ondansetrona 9 mg 9 ml sol inj cx 9 ampolas
+grama	ceftriaxona 9 g po sol inj im iv cx 9
+ampola	dexametasona 9 mg ml amp x 9 ml cx 9 amp
+unidade	papel a 9 copimax 9 x 9 c 9 fls 9 x 9
+ampola	omeprazol 9 mg injetavel cx 9 ampolas cristalia 
+frasco	duovent aer fr 9 ml
+comp	gamax com 9 cpr
+kg	varao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+metro	barra chata 9/9 x 9/9 a 9 9 m
+kg	varao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+unidade	algodao 9 9 c ag 9 cm cx c 9
+caixa	nylon 9 9 c ag 9 cm cx 9
+kg	cimento sc 9 k cimpor
+m3	cilindro de oxig nio de 9 m 9
+litro	tirreno arla 9 9 l
+unidade	pilha alcalina pequena aa lr 9   cartela c  9 und
+kg	glp em botijao de 9 kg
+grama	caldo de carne galinha 9 x 9 gr knnor
+conjunto	cj potes de vidro 9 pcs
