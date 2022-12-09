@@ -1,5 +1,6 @@
 import numpy as np
 import _pickle as pkl
+import pandas as pd
 
 ##f = open('data.pkl', 'rb')
 ##data = pkl.load(f)
