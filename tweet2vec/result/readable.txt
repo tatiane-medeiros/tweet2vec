@@ -1,346 +1,346 @@
-grama	unidade,frasco,caixa,grama,comp,kg,litro,metro,ampola,m3	ceftriaxona 9 g po sol inj im iv cx 9
-m3	m3,caixa,metro,kg,comp,unidade,frasco,grama,litro,cilindro	oxigenio 9 m 9
-comp	comp,grama,unidade,frasco,metro,litro,caixa,ampola,conjunto,kg	metronidazol 9 mg c 9 comp imposto ibpt nacional 9 
-frasco	litro,unidade,comp,conjunto,grama,caixa,frasco,ampola,metro,rolo	 clor cefepima 9 g po p sol inj cx 9 f cefepima  cloridrato aurobindo
-rolo	litro,unidade,comp,grama,conjunto,galao,metro,rolo,caixa,frasco	gaze em rolo 9 fios biotextil
-litro	litro,unidade,comp,grama,galao,metro,conjunto,ampola,caixa,rolo	plaxmatic 9 9 l alvejante l quido
-litro	litro,unidade,frasco,comp,grama,conjunto,metro,caixa,m3,kit	oxig nio med  cil om 9 l
-galao	metro,comp,litro,frasco,ampola,kit,caixa,kg,rolo,unidade	thinner galao
-conjunto	comp,grama,frasco,metro,caixa,kg,unidade,litro,ampola,rolo	jg reparo pinca
-m3	m3,comp,unidade,litro,caixa,grama,conjunto,frasco,metro,ampola	ar comprimido 9 m 9
-comp	metro,unidade,comp,ampola,grama,kg,caixa,litro,frasco,galao	sulfato ferroso 9 ng comp  lt 9 f 9 m
-kit	metro,comp,frasco,kit,litro,unidade,caixa,grama,ampola,kg	kit cor pin corr hda nxr 9 bros premium
-litro	litro,unidade,comp,frasco,grama,metro,ampola,conjunto,caixa,m3	tinta extralux esm sint 9 l azul del rey 9 lux
-comp	comp,ampola,unidade,kit,grama,metro,litro,caixa,kg,galao	nitrofurantoina 9 mg cx 9 caps gen 
-unidade	unidade,comp,litro,metro,caixa,frasco,grama,kg,ampola,galao	atadura de crepom 9 cm x 9 9 fios c 9
-unidade	unidade,litro,conjunto,comp,grama,metro,m3,caixa,frasco,cilindro	ovo branco medio 9 und
-ampola	comp,unidade,grama,frasco,ampola,metro,caixa,litro,kg,m3	sulfa trimetoprima 9 ml amp neo quimica 
-litro	litro,unidade,comp,grama,conjunto,metro,caixa,frasco,rolo,ampola	lubrax top turbo 9 w 9 9 l
-kg	grama,kg,litro,ampola,m3,galao,caixa,kit,metro,unidade	milho verde em conserva com 9 kg
-litro	litro,grama,comp,unidade,conjunto,metro,rolo,frasco,ampola,caixa	 gua sanit ria 9 lt
-ampola	frasco,comp,grama,unidade,metro,caixa,conjunto,kg,litro,ampola	omeprazol 9 mg injetavel cx 9 ampolas cristalia 
-ampola	comp,metro,grama,unidade,caixa,kg,litro,conjunto,ampola,rolo	complexo b im iv inj 9 ml amp
-ampola	comp,frasco,unidade,grama,metro,litro,caixa,ampola,kg,rolo	atropina 9 mg sol inj amp 9 ml isofarma p
-grama	comp,litro,unidade,metro,grama,conjunto,caixa,kit,rolo,cilindro	extrato de tomate 9 g quero
-metro	metro,m3,comp,litro,caixa,kg,unidade,frasco,ampola,grama	oxigenio 9 mts
-m3	m3,grama,ampola,comp,conjunto,caixa,litro,kit,kg,unidade	oxigenio medicinal cil t 9 m 9  
-caixa	litro,grama,comp,conjunto,metro,unidade,frasco,rolo,ampola,kit	giranda cx 9 tiros ouro
-caixa	caixa,unidade,litro,metro,m3,conjunto,comp,grama,cilindro,ampola	luva de procedimento m cx 9
-grama	litro,comp,grama,metro,unidade,kg,caixa,m3,conjunto,cilindro	nebaciderme 9 g pomada mult
-unidade	unidade,comp,litro,grama,metro,frasco,conjunto,caixa,kg,rolo	agulha desc 9 x 9 9 und
-litro	litro,unidade,comp,grama,metro,galao,ampola,caixa,kg,rolo	selador acrilico iquine delanil 9 l
-litro	litro,comp,unidade,grama,metro,frasco,caixa,conjunto,rolo,cilindro	extralatex verde limao 9 l
-litro	litro,metro,frasco,comp,unidade,grama,rolo,m3,kg,caixa	primax dt 9 lt
-kg	kg,grama,metro,litro,m3,comp,caixa,ampola,kit,unidade	graxa chassis golden 9 9 kg
-unidade	unidade,grama,comp,litro,metro,frasco,conjunto,caixa,m3,kg	bandeja de ovos c  9 und
-grama	comp,grama,unidade,litro,metro,frasco,conjunto,ampola,kg,rolo	esperson n pomada 9 gr
-kg	kg,grama,m3,litro,kit,galao,unidade,caixa,ampola,conjunto	cimento cimpor cpii z 9 sc 9 kg
-grama	kg,grama,kit,litro,ampola,galao,metro,comp,conjunto,unidade	bisc  c  cracker vitarella trad 9 g
-kg	grama,caixa,comp,kg,metro,conjunto,litro,unidade,frasco,ampola	cimento 9 kg zebu cinza
-litro	litro,comp,unidade,frasco,metro,caixa,ampola,grama,rolo,conjunto	tinta acril pintapiso 9 lt cz medio coral
-grama	grama,comp,litro,kit,unidade,frasco,metro,ampola,conjunto,kg	biscoito doce maria 9 gr
-kg	kg,grama,unidade,litro,ampola,metro,comp,galao,caixa,kit	polpa cong de frutas canaa caja 9 kg
-unidade	comp,litro,unidade,grama,metro,ampola,caixa,conjunto,frasco,m3	fosforo maco c  9 cx
-grama	grama,kg,comp,unidade,litro,metro,m3,kit,caixa,galao	estriol creme vaginal 9 mg 9 g
-grama	grama,comp,unidade,kg,litro,frasco,m3,metro,ampola,caixa	achocolatado em po 9 g
-comp	comp,unidade,litro,metro,grama,caixa,conjunto,frasco,ampola,kg	levonorg etinilest 9 caps
-caixa	frasco,comp,grama,unidade,conjunto,caixa,metro,ampola,m3,litro	omeprazol 9 mg injetavel cx 9 ampolas oprazon 
-cilindro	m3,comp,unidade,kg,metro,kit,litro,cilindro,caixa,frasco	oxigenio ppu
-ampola	grama,comp,kg,ampola,metro,unidade,m3,conjunto,litro,frasco	complexo b amp im iv l 9 q 9 f  v 
-comp	comp,m3,unidade,metro,caixa,grama,ampola,kg,litro,cilindro	alivium 9 ts 9 mg c 9 comp 
-kit	metro,comp,grama,litro,kg,ampola,caixa,m3,frasco,rolo	kit contrato 9 am
-litro	litro,unidade,comp,metro,galao,grama,ampola,caixa,kg,frasco	saco para lixo branco hospitalar 9 lt
-kg	grama,kg,litro,comp,ampola,m3,metro,unidade,conjunto,frasco	cal extra massa 9 kg
-comp	comp,litro,unidade,grama,ampola,conjunto,caixa,metro,frasco,m3	enalapril 9 mg 9 cp
-comp	comp,grama,unidade,metro,ampola,frasco,litro,kg,m3,kit	diazepam 9 mg 9 cp b 9 
-litro	litro,comp,unidade,grama,frasco,metro,conjunto,caixa,ampola,rolo	liex soft 9 l amaciante a base de quatern rio
-litro	litro,comp,unidade,frasco,metro,grama,ampola,kit,caixa,kg	iquine delanil acril fo  9 lt bco gelo
-metro	litro,comp,metro,unidade,grama,caixa,cilindro,conjunto,kit,ampola	frillon 9 9 x 9 mt acrilon
-grama	grama,comp,kg,unidade,litro,m3,metro,ampola,caixa,frasco	balsamo bengue gel 9 g
-litro	litro,unidade,comp,grama,metro,galao,conjunto,caixa,rolo,kit	saco p  lixo infectante 9 lts
-metro	comp,metro,frasco,grama,unidade,litro,ampola,m3,caixa,kit	filme para ultrasom typi i normal upp 9 s 9 mm 9 m cx com 9 sony lote 9 
-metro	unidade,metro,comp,ampola,grama,litro,frasco,kg,caixa,kit	cer 9 x 9 icapui bco a cx 9 m cerbras
-grama	grama,kg,comp,m3,caixa,metro,cilindro,ampola,litro,unidade	miconazol 9 mg g cr  vag 9 g
-grama	unidade,comp,grama,litro,metro,conjunto,caixa,frasco,rolo,kit	margarina produzida excl  de gordura vegetal adicao de sal com gordura trans embal  c 9 gr marca deline
-metro	comp,unidade,metro,frasco,ampola,grama,litro,conjunto,caixa,m3	tubo de latex n  9 pct c  9 m 9 r latex lote 9 
-m3	m3,caixa,metro,kg,comp,unidade,frasco,grama,litro,cilindro	oxigenio 9 m 9
-unidade	unidade,m3,caixa,frasco,litro,grama,comp,metro,ampola,kg	oxigenio med em cil 9 m 9 tg 9 na un 9
-comp	comp,litro,ampola,metro,unidade,grama,conjunto,caixa,frasco,kg	diosmin 9 mg cx 9 comp
-frasco	litro,comp,unidade,grama,conjunto,caixa,metro,ampola,frasco,rolo	duovent aer fr 9 ml
-conjunto	conjunto,litro,comp,grama,frasco,caixa,metro,ampola,unidade,rolo	conjunto para circulacao extracorporea neonato
-metro	unidade,grama,comp,metro,litro,conjunto,ampola,m3,galao,caixa	papel grau cirurgico 9 cm x 9 mt imposto ibpt nacional 9 
-kg	kg,grama,litro,comp,ampola,metro,unidade,caixa,m3,conjunto	farelo de soja 9 kg
-m3	m3,frasco,unidade,caixa,litro,grama,conjunto,comp,metro,ampola	oxido nitroso cil linde 9 l 9 kg vz onu 9 oxido nitroso  comprimido 9 9 9
-m3	caixa,m3,unidade,frasco,litro,comp,grama,metro,ampola,kg	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
-comp	comp,frasco,grama,unidade,metro,ampola,caixa,litro,conjunto,m3	paroxetina 9 mg c 9 cx  9 comp aurobindo pharma 
-litro	litro,metro,unidade,kg,kit,comp,rolo,frasco,galao,ampola	arla 9 9 lt
-m3	m3,caixa,litro,unidade,conjunto,grama,comp,kg,metro,kit	oxigenio medicinal cil t 9 m 9
-grama	unidade,comp,litro,frasco,grama,metro,kg,ampola,kit,galao	caldo de carne galinha 9 x 9 gr knnor
-cilindro	m3,comp,grama,unidade,caixa,kit,ampola,cilindro,kg,litro	oxigenio medicinal cil pp  
-frasco	comp,litro,ampola,caixa,grama,metro,kg,frasco,unidade,conjunto	fr latex 9 ml marca biotecnica lote 9 h 9 a
-caixa	comp,grama,unidade,litro,frasco,caixa,m3,conjunto,ampola,metro	metformina 9 mg cx 9
-litro	litro,metro,comp,frasco,kg,unidade,grama,ampola,caixa,m3	shine dry 9 lt
-litro	litro,unidade,galao,grama,ampola,metro,comp,caixa,rolo,kg	veda bem impermeabilizante azul 9 lt
-grama	litro,grama,frasco,unidade,comp,metro,ampola,conjunto,caixa,rolo	doce de leite pastoso sem corante embal  c  9 gr marca triangulo
-unidade	litro,metro,unidade,comp,caixa,frasco,ampola,grama,m3,kg	triglicerideo enzimatico c 9 testes lt 9
-comp	comp,frasco,litro,grama,unidade,ampola,metro,kit,caixa,kg	ibuprofeno 9 mg cpr teuto hospitalar 
-metro	litro,unidade,grama,comp,conjunto,caixa,kg,rolo,kit,galao	copo desc copobras transp 9 ml
-comp	comp,unidade,litro,metro,grama,caixa,frasco,ampola,kg,m3	sustrate c 9 cp
-metro	litro,metro,unidade,comp,grama,caixa,rolo,conjunto,kg,m3	papel grau cir ph 9 mmx 9 mt
-metro	litro,comp,metro,unidade,grama,caixa,kit,kg,m3,conjunto	fita isolante tigre 9 x 9 mts
-comp	comp,grama,unidade,conjunto,litro,ampola,metro,galao,caixa,rolo	predcort 9 mg c 9 comp vitapan 
-litro	litro,comp,conjunto,grama,unidade,metro,caixa,frasco,rolo,kg	coralar acr gl 9 l branco
-grama	grama,kg,comp,litro,unidade,m3,galao,metro,caixa,ampola	nistatina creme vag  aplic  9 g
-grama	grama,kg,comp,litro,m3,metro,ampola,unidade,frasco,conjunto	cafe santa clara 9 g
-frasco	comp,ampola,unidade,grama,metro,kg,kit,frasco,caixa,galao	agua bidestilada f a 9 ml isofarma 
-frasco	litro,comp,unidade,grama,metro,conjunto,caixa,kg,frasco,ampola	annita 9 mg sus fr 9 ml
-ampola	litro,ampola,comp,unidade,caixa,grama,metro,conjunto,frasco,m3	ondansetrona 9 mg 9 ml sol inj cx 9 ampolas
-kit	kit,litro,caixa,metro,comp,unidade,grama,conjunto,frasco,m3	kit estabilizador diant 9
-unidade	unidade,caixa,conjunto,litro,grama,m3,frasco,metro,comp,cilindro	ovos granja mauricea c 9
-conjunto	m3,conjunto,unidade,grama,caixa,litro,metro,kg,comp,rolo	jg lona d t 9/9 dm 9 dna 9 9 9
-grama	grama,kg,m3,litro,unidade,galao,caixa,conjunto,comp,kit	sab o em p guarani sach 9 x 9 g
-unidade	grama,frasco,comp,unidade,litro,caixa,ampola,metro,conjunto,rolo	copo descart vel caixa c  9 unid copobras
-m3	m3,metro,comp,kg,caixa,frasco,grama,unidade,kit,ampola	oxigenio 9 m 
-comp	unidade,comp,m3,grama,litro,caixa,metro,cilindro,kg,conjunto	omeprazol 9 mg comp lt 9 i 9
-grama	grama,unidade,kg,comp,frasco,litro,ampola,metro,caixa,m3	pastilha sanitaria disoflor lavanda 9 g
-caixa	comp,grama,frasco,ampola,caixa,unidade,litro,conjunto,metro,rolo	ceftriaxona 9 g iv im s dil cx 9 amplospec 
-unidade	unidade,comp,litro,metro,grama,frasco,conjunto,caixa,m3,kg	atad  de crepom 9 cm c 9
-grama	comp,grama,frasco,unidade,caixa,ampola,metro,litro,kg,m3	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9 
-comp	comp,grama,ampola,frasco,unidade,caixa,litro,metro,conjunto,kg	clonazepam 9 mg c 9 cpr s zilepam b 9 geolab go 
-metro	unidade,metro,grama,ampola,comp,kg,galao,kit,caixa,litro	papel higienico angel soft 9 x 9 9 m
-caixa	unidade,comp,litro,grama,m3,frasco,conjunto,metro,caixa,ampola	agua sanitaria cx c 9
-caixa	comp,grama,unidade,caixa,litro,metro,frasco,conjunto,ampola,m3	dexametasona inj 9 mg ml 9 ml cx c  9 lote t 9/9
-kit	litro,unidade,comp,metro,grama,frasco,caixa,conjunto,ampola,kg	toxoplasmose igm atraves da metodologia elisa kit
-comp	comp,litro,unidade,frasco,grama,conjunto,metro,ampola,m3,caixa	propranolol 9 mg 9 cp
-ampola	comp,grama,metro,litro,unidade,conjunto,ampola,caixa,kit,m3	furosemida 9 mg inj c 9 amp gen hosp  teuto hospitalar 
-litro	unidade,frasco,comp,grama,litro,metro,caixa,kg,ampola,rolo	carrinho metalosa 9 x 9 verm 9 l c 9 un
-litro	litro,grama,unidade,comp,kg,conjunto,rolo,caixa,metro,frasco	creme protetor solar fps 9 9 l
-m3	m3,caixa,kg,grama,litro,metro,comp,conjunto,unidade,cilindro	cilindro de oxig nio de 9 m 9
-unidade	comp,frasco,unidade,caixa,grama,litro,ampola,metro,conjunto,rolo	luva procedim top quality tam p 9 un medix 
-conjunto	conjunto,metro,litro,comp,grama,unidade,kit,caixa,rolo,cilindro	jg pastilha freio traseiro
-unidade	comp,litro,metro,grama,unidade,cilindro,caixa,conjunto,m3,ampola	hidrocortisona 9 mg c 9 inj
-comp	caixa,comp,unidade,litro,ampola,frasco,grama,metro,conjunto,rolo	 levomepromazina 9 mg comp cristalia lote 9
-m3	m3,caixa,metro,kg,comp,unidade,frasco,grama,litro,cilindro	oxigenio 9 m 9
-comp	comp,ampola,grama,litro,frasco,caixa,unidade,metro,conjunto,kg	dipirona 9 mg apres  cx c 9 cpr sobral pi 
-unidade	caixa,comp,unidade,grama,frasco,metro,m3,litro,ampola,kg	papel oficio c 9
-kit	metro,kit,comp,grama,litro,unidade,caixa,m3,conjunto,ampola	kit papa nicolau tam m
-comp	comp,frasco,grama,unidade,metro,litro,rolo,kg,caixa,ampola	gamax com 9 cpr
-comp	comp,litro,unidade,conjunto,grama,frasco,m3,ampola,caixa,metro	olcadil 9 mg c 9 cpr
-cilindro	unidade,litro,frasco,comp,caixa,grama,m3,metro,ampola,kg	oxig nio med  em cil  9 m 9 9 9 na 9 onu
-grama	grama,kg,comp,litro,caixa,unidade,m3,metro,cilindro,ampola	macarrao tipo espaquete 9 g
-unidade	unidade,litro,comp,grama,metro,frasco,galao,ampola,kg,caixa	papel oficio a 9 report 9 x 9 c 9 fls
-caixa	caixa,unidade,litro,metro,m3,conjunto,comp,grama,cilindro,ampola	luva de procedimento p cx 9
-unidade	unidade,litro,cilindro,comp,caixa,conjunto,metro,grama,m3,kg	ovos de galinha emb c 9 und
-m3	m3,grama,ampola,comp,conjunto,caixa,litro,kit,kg,unidade	oxigenio medicinal cil t 9 m 9  
-kg	kg,grama,litro,conjunto,unidade,ampola,m3,metro,comp,galao	arroz tipo 9 parborizado 9 x 9 kg
-comp	comp,litro,unidade,grama,conjunto,ampola,caixa,metro,m3,frasco	ranitidina 9 mg 9 cp
-litro	litro,unidade,comp,grama,metro,kit,caixa,conjunto,kg,frasco	pintalar 9 lt areia iquine
-frasco	comp,ampola,unidade,grama,metro,kg,kit,frasco,caixa,galao	agua bidestilada f a 9 ml isofarma 
-ampola	grama,comp,kg,ampola,metro,unidade,m3,conjunto,litro,frasco	complexo b amp im iv l 9 q 9 f  v 
-kg	kg,grama,litro,unidade,metro,comp,caixa,m3,rolo,kit	massa pva hidracor balde 9 kg
-litro	litro,comp,unidade,frasco,grama,ampola,metro,caixa,conjunto,rolo	tirreno arla 9 9 l
-unidade	unidade,litro,comp,grama,frasco,caixa,kit,metro,conjunto,kg	pilha alcalina pequena aa lr 9   cartela c  9 und
-comp	comp,litro,unidade,grama,frasco,metro,ampola,caixa,conjunto,rolo	sulfametoxazol trimetoprima 9/9 mg cx 9 cpr
-litro	comp,ampola,frasco,unidade,grama,metro,litro,caixa,kit,kg	iquine dialine esm 9 l cinza medio bri 
-frasco	comp,ampola,litro,metro,conjunto,unidade,grama,caixa,frasco,kg	teicoplanina 9 mg koplan cx 9 f a dil novafarma
-unidade	unidade,litro,conjunto,comp,grama,metro,kg,ampola,rolo,kit	hf ovo bco gd pvc bdj 9 x 9 9 und
-metro	grama,frasco,comp,unidade,metro,ampola,litro,m3,caixa,conjunto	papel grau cirurgico medio 9 mm x 9 m lote 9 
-rolo	comp,unidade,frasco,grama,ampola,litro,metro,caixa,conjunto,rolo	atadura crepom 9 x 9 9 fios pct 9 rls biote 
-kg	kg,grama,litro,m3,metro,kit,cilindro,caixa,comp,unidade	tinta esmalte branco gelo kg
-litro	litro,unidade,metro,grama,conjunto,comp,caixa,frasco,rolo,kg	oleo hidraulico 9 c  9 lt
-ampola	unidade,comp,ampola,grama,metro,litro,galao,kg,frasco,caixa	agua bidestilada cx c 9 amp x 9 ml farmace lt 9 e 9 fab  val 
-metro	unidade,metro,comp,grama,litro,m3,caixa,rolo,kg,conjunto	papel grau cirurgico 9 mmx 9 m
-grama	grama,comp,ampola,kg,unidade,litro,metro,kit,caixa,conjunto	cetoconazol dip betamet pom 9 g g 
-comp	comp,grama,frasco,ampola,caixa,unidade,litro,metro,conjunto,m3	amitriptilina 9 mg via oral cpr brainfarma 
-kg	comp,frasco,metro,grama,ampola,rolo,caixa,kit,litro,unidade	f trigo esp  r  branca 9 x 9 kg c  ferm 
-grama	grama,unidade,comp,litro,metro,kit,frasco,conjunto,kg,caixa	bolacha crean ckacer 9 gr
-grama	grama,frasco,caixa,comp,ampola,unidade,metro,litro,m3,rolo	dexametasona 9 mgg bis 9 g dt validade 9
-kg	comp,grama,litro,frasco,unidade,conjunto,metro,ampola,caixa,kg	cimento sc 9 k cimpor
-kit	metro,conjunto,grama,kit,ampola,caixa,litro,frasco,unidade,comp	9 s 9/ 9/e   kit alarme
-comp	comp,unidade,grama,litro,kg,conjunto,caixa,frasco,metro,kit	captopril 9 mg cprs sanval 
-litro	litro,comp,unidade,conjunto,metro,ampola,m3,frasco,caixa,grama	thinner galao 9 lt 9
-kg	kg,comp,grama,ampola,litro,metro,caixa,unidade,m3,conjunto	equinos 9 ma 9 kg
-caixa	caixa,unidade,litro,grama,comp,metro,m3,conjunto,rolo,kg	glyvenol 9 mg drg cx 9 bl x 9
-frasco	frasco,grama,comp,unidade,litro,ampola,conjunto,metro,caixa,m3	omeprazol 9 mg 9 ml dil  cx 9 f a  blausiegel 
-unidade	comp,unidade,grama,metro,frasco,caixa,litro,conjunto,ampola,kit	lacto purga env c 9 comp 
-conjunto	conjunto,litro,comp,grama,metro,frasco,unidade,rolo,ampola,caixa	jg pastilha freio
-unidade	unidade,litro,comp,metro,caixa,cilindro,kg,m3,kit,frasco	ovos c 9 und
-comp	comp,metro,litro,grama,unidade,ampola,caixa,conjunto,kg,cilindro	sulfato ferroso 9 mg c 9 comp
-kg	kg,grama,comp,metro,unidade,litro,m3,frasco,caixa,conjunto	argamassa quart  aci 9 kg
-comp	comp,grama,frasco,unidade,ampola,kg,metro,litro,caixa,kit	cefalexina 9 mg c 9 cpr teuto teuto 
-litro	comp,litro,metro,grama,unidade,conjunto,caixa,kit,rolo,cilindro	esm extralux 9 l cinza medio
-kg	kg,grama,comp,metro,litro,caixa,ampola,m3,unidade,rolo	sal mimosal 9 kg
-m3	comp,m3,grama,metro,caixa,kit,ampola,frasco,kg,unidade	ar medicinal cil k 9 m 9  
-grama	kg,grama,caixa,m3,ampola,comp,frasco,metro,unidade,rolo	coentro acond  g
-caixa	caixa,unidade,litro,metro,m3,conjunto,comp,grama,cilindro,ampola	luva de procedimento p cx 9
-grama	grama,kg,metro,comp,litro,unidade,ampola,caixa,m3,conjunto	flocao sao braz 9 x 9 g
-unidade	unidade,litro,comp,grama,frasco,caixa,conjunto,metro,ampola,rolo	lapis grafite n 9 sem ponteira pacote c 9 und
-grama	litro,unidade,grama,comp,conjunto,metro,galao,rolo,kit,caixa	9 cola branca fix 9 g polycart
-litro	comp,litro,unidade,grama,metro,conjunto,frasco,kit,rolo,caixa	saco p  lixo comum 9 l pr
-metro	litro,unidade,comp,caixa,grama,frasco,metro,rolo,ampola,galao	lencol papel hosp 9 x 9 mts creme recicl
-comp	comp,grama,litro,unidade,conjunto,frasco,caixa,metro,ampola,rolo	captopril 9 mg cpr
-comp	comp,litro,grama,unidade,frasco,ampola,metro,conjunto,caixa,rolo	metformina 9 mg 9 cp
-frasco	grama,litro,comp,caixa,frasco,ampola,unidade,rolo,metro,conjunto	cefalexina 9 ml ml po o  susp oral fr 9 ml
-metro	comp,grama,frasco,unidade,caixa,ampola,litro,metro,rolo,m3	pelicula g 9 9 mts chacoal grafite flex 
-metro	comp,unidade,grama,litro,metro,caixa,conjunto,rolo,frasco,cilindro	gaze queijo 9 f 9 mts clean
-metro	kit,frasco,grama,comp,metro,ampola,m3,caixa,unidade,kg	fita adesiva autoclave 9 mm x 9 m                 
-unidade	unidade,litro,comp,grama,metro,frasco,galao,ampola,kg,caixa	papel oficio a 9 report 9 x 9 c 9 fls
-metro	grama,litro,comp,frasco,unidade,conjunto,metro,ampola,rolo,caixa	gaze hidrofila 9 cmx 9 m 9 fios stander nataly
-unidade	comp,unidade,litro,grama,m3,conjunto,frasco,metro,caixa,ampola	sabonete infantil c 9
-comp	comp,grama,unidade,litro,conjunto,metro,galao,caixa,ampola,m3	cabergolina 9 mg ct 9 fr c  9 cp
-metro	litro,comp,conjunto,frasco,unidade,metro,ampola,grama,caixa,rolo	tecido tnt cor div 9 x 9 m 9 p polipropilento
-comp	comp,ampola,litro,metro,unidade,caixa,grama,frasco,conjunto,rolo	fluxon 9 mg c 9 comp neo hosp neo hospitalar 
-caixa	kg,grama,unidade,m3,litro,caixa,comp,conjunto,galao,metro	caldo knorr carne cxa 9 x 9 9 g
-kg	litro,comp,unidade,metro,grama,conjunto,rolo,caixa,frasco,kit	sal campeao 9 kg comum iodado
-kg	grama,frasco,comp,ampola,m3,kg,caixa,unidade,metro,conjunto	cimento portland composto apodi cp ii e 9 9 kg 
-conjunto	grama,frasco,litro,unidade,comp,caixa,metro,kg,ampola,rolo	coloracao panotico rapido conj  9 x 9 ml
-litro	litro,unidade,metro,comp,frasco,grama,ampola,caixa,rolo,kit	tintas lux duramais bd 9 l branco gelo
-caixa	comp,metro,ampola,litro,unidade,grama,caixa,m3,cilindro,kg	hidralazina 9 mg ml cx 9 amp
-m3	caixa,m3,unidade,frasco,litro,comp,grama,metro,ampola,kg	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
-litro	litro,unidade,comp,metro,galao,grama,ampola,caixa,kg,frasco	saco para lixo branco hospitalar 9 lt
-metro	comp,grama,metro,unidade,m3,caixa,kg,litro,kit,conjunto	barra chata 9/9 x 9/9 a 9 9 m
-litro	litro,comp,grama,unidade,metro,conjunto,caixa,galao,ampola,rolo	tinta luxcril 9 l branco gelo lux
-m3	unidade,litro,frasco,comp,caixa,grama,m3,metro,ampola,kg	oxig nio med  em cil  9 m 9 9 9 na 9 onu
-grama	grama,kg,comp,litro,m3,ampola,caixa,conjunto,frasco,metro	cafe nordestino 9 g
-grama	grama,kg,m3,litro,unidade,galao,caixa,conjunto,comp,kit	sab o em p guarani sach 9 x 9 g
-unidade	comp,grama,unidade,litro,ampola,conjunto,caixa,cilindro,metro,kg	nutrison 9 energy tetra 9 ml cx c 9 lot 9 fab  val 
-grama	grama,comp,kg,litro,frasco,m3,unidade,metro,ampola,conjunto	margarina vegetal 9 g
-grama	grama,comp,litro,kg,metro,unidade,frasco,ampola,m3,conjunto	extrato de tomate 9 g
-unidade	comp,unidade,grama,metro,litro,frasco,caixa,kit,conjunto,ampola	papel toalha c 9 caprice 
-kg	grama,kg,metro,m3,litro,conjunto,ampola,unidade,comp,frasco	glp em botijao de 9 kg
-kit	kit,litro,kg,metro,ampola,unidade,m3,caixa,conjunto,rolo	kit pnld
-litro	comp,litro,unidade,metro,conjunto,grama,ampola,frasco,caixa,rolo	alcool gel 9 9 litros
-ampola	comp,frasco,grama,metro,ampola,litro,unidade,caixa,rolo,kg	dexametasona 9 mg ml amp x 9 ml cx 9 amp
-caixa	comp,grama,frasco,unidade,caixa,metro,ampola,conjunto,litro,kit	ceftriaxona 9 gr iv im s dil cx  9 f a biochimico 
-kg	kg,grama,m3,comp,metro,litro,unidade,caixa,kit,cilindro	argamassa itatiunga aci 9 kg
-unidade	unidade,litro,comp,metro,ampola,kit,frasco,grama,galao,caixa	lapis hidrocor c 9 neopen compactor
-litro	comp,litro,unidade,conjunto,metro,grama,frasco,rolo,ampola,caixa	extralux 9 l branco
-grama	kg,grama,comp,metro,frasco,ampola,unidade,litro,caixa,galao	metronidazol gel ginecologico 9 mg 9 g
-conjunto	comp,unidade,grama,litro,metro,conjunto,frasco,caixa,rolo,ampola	cj potes de vidro 9 pcs
-comp	comp,grama,litro,unidade,metro,conjunto,ampola,caixa,galao,frasco	dorene 9 mg cps 9 x 9 c 9 etico pn
-grama	kg,grama,unidade,m3,frasco,metro,comp,caixa,litro,rolo	papel a 9 9 g
-ampola	comp,grama,ampola,unidade,litro,kg,metro,caixa,kit,galao	fenocris 9 mg fenobarbital amp b 9 
-litro	litro,unidade,frasco,metro,ampola,kit,comp,grama,caixa,galao	liex 9 9 l detergente neutro uso geral
-frasco	comp,metro,grama,kg,caixa,kit,litro,unidade,ampola,conjunto	glicose 9 f a 9 ml isofarma 
-frasco	comp,ampola,grama,metro,unidade,litro,caixa,kg,kit,galao	vitamina c 9 mg f a 9 ml farmace 
-comp	comp,litro,grama,unidade,frasco,ampola,metro,conjunto,caixa,rolo	metformina 9 mg 9 cp
-litro	comp,litro,unidade,metro,ampola,frasco,grama,caixa,rolo,kg	tinta lux luxcril acrilica 9 lts  azul p
-metro	unidade,comp,frasco,grama,litro,caixa,metro,ampola,conjunto,kg	atadura de crepom 9 f 9 cm x 9 m pct c  9 lote 9
-kg	kg,grama,comp,litro,caixa,ampola,m3,metro,unidade,conjunto	cal supercal 9 kg
-m3	m3,caixa,metro,kg,comp,unidade,frasco,grama,litro,cilindro	oxigenio 9 m 9
-metro	litro,conjunto,grama,comp,metro,unidade,ampola,rolo,kit,caixa	fita isolante 9 m display amanco
-unidade	unidade,litro,comp,grama,metro,caixa,rolo,conjunto,galao,cilindro	papel sulfite a 9 bco c 9 fls
-unidade	unidade,grama,frasco,comp,litro,kg,caixa,metro,ampola,galao	papel a 9 copimax 9 x 9 c 9 fls 9 x 9
-ampola	comp,metro,grama,ampola,conjunto,galao,kit,unidade,litro,kg	hyplex b inj cx 9 amp complexo b 
-litro	litro,conjunto,grama,comp,caixa,unidade,ampola,metro,galao,kit	tinta rende muito 9 lts ceramica
-grama	unidade,litro,comp,metro,grama,galao,kg,frasco,caixa,ampola	sabao em po 9 g c 9 und mr marilux
-kg	comp,litro,unidade,caixa,metro,grama,kit,conjunto,ampola,cilindro	liex mix 9 kg detergente em p p  lavagem de tecidos
-comp	comp,grama,frasco,kg,ampola,unidade,caixa,metro,m3,litro	nimesulida 9 mg cx 9 comp  vitamedic 
-kg	grama,kg,comp,ampola,litro,m3,metro,unidade,conjunto,caixa	versatil clor bd 9 kg
-litro	litro,comp,metro,unidade,grama,frasco,ampola,caixa,rolo,galao	fixador p raio x galao c  9 litros p preparar 9 l marca hexa fotoq
-litro	litro,unidade,comp,metro,galao,grama,ampola,caixa,kg,frasco	saco para lixo branco hospitalar 9 lt
-rolo	unidade,litro,metro,comp,frasco,ampola,grama,caixa,conjunto,galao	lencol descartavel de papel em rolo 9 x 9 m dumbo marca sapporo
-comp	comp,grama,metro,unidade,ampola,m3,kg,litro,conjunto,caixa	depakote er 9 mg 9 cpr c 9 
-frasco	comp,caixa,ampola,metro,grama,litro,kg,kit,unidade,conjunto	lidocaina 9 s v cx c 9 f a
-conjunto	conjunto,litro,grama,unidade,ampola,galao,rolo,comp,metro,caixa	conj pagao para maternidade  9 par de sapato  9 par de luvas  9 pano de chupeta e 9 lencol de xixi  9 algodao
-metro	unidade,comp,litro,ampola,metro,grama,galao,kg,caixa,kit	cabo flexivel 9 mm c 9 m megacampos
-frasco	unidade,litro,comp,grama,frasco,metro,caixa,galao,kg,ampola	ambroxol xarope 9 ml 9 ml cx 9 fr 9 ml
-unidade	comp,unidade,litro,grama,conjunto,m3,kg,ampola,caixa,kit	hioscina composta sol inj  c 9 imposto ibpt nacional 9 
-grama	unidade,frasco,litro,grama,comp,caixa,metro,ampola,kg,rolo	miconazol creme vaginal 9 g prati donad
-comp	litro,ampola,comp,kg,unidade,grama,metro,caixa,kit,galao	diazepan 9 mg cx 9 comp b 9 santisa
-grama	grama,kg,ampola,litro,galao,metro,unidade,conjunto,caixa,comp	almondegas ao molho de tomate 9 g
-unidade	unidade,grama,litro,caixa,metro,comp,ampola,conjunto,galao,frasco	papel chamex mult a 9 c 9 fls 9 x 9
-comp	comp,grama,frasco,metro,unidade,kit,m3,ampola,caixa,litro	biperideno 9 mg 9 cp c 9 
-frasco	grama,comp,metro,kg,conjunto,ampola,m3,unidade,litro,rolo	compexo b liquido  fr 9 ml medqu 
-frasco	comp,grama,metro,unidade,ampola,conjunto,litro,galao,m3,kit	meropenem 9 g c 9 fa generico abl antibioticos do bras 
-litro	litro,metro,grama,unidade,comp,caixa,frasco,kit,conjunto,kg	solvente natrielli gl 9 lt
-rolo	unidade,litro,grama,comp,metro,conjunto,frasco,rolo,ampola,caixa	gaze rolo 9 x 9 9 f std
-comp	comp,grama,unidade,metro,ampola,frasco,litro,kg,m3,kit	diazepam 9 mg 9 cp b 9 
-kit	frasco,comp,grama,unidade,kit,litro,metro,ampola,kg,m3	kit faco 9 mm laureate lote 9 h val 9 9 
-unidade	litro,grama,unidade,comp,frasco,galao,ampola,caixa,kg,metro	compressa 9 x 9 9 fios c 9 esteril
-comp	comp,grama,litro,conjunto,frasco,ampola,caixa,unidade,metro,kg	carbamazepina 9 mg cx 9 comp c 9 uniao quimica
-m3	m3,comp,unidade,litro,caixa,grama,conjunto,frasco,metro,ampola	ar comprimido 9 m 9
-frasco	unidade,comp,frasco,grama,litro,metro,ampola,kg,caixa,galao	metilergometrina 9 mg f a 9 ml uniao qu
-grama	kg,grama,caixa,litro,comp,ampola,metro,unidade,conjunto,frasco	colorifico dona clara 9 g
-litro	comp,unidade,litro,grama,conjunto,metro,caixa,kg,rolo,cilindro	duramais 9 l branco neve lux
-conjunto	conjunto,litro,comp,grama,metro,frasco,unidade,rolo,ampola,caixa	jg pastilha freio
-litro	litro,comp,unidade,metro,frasco,grama,caixa,ampola,rolo,conjunto	tinta decora sb 9 lts branco gelo coral
-m3	m3,caixa,metro,kg,comp,unidade,frasco,grama,litro,cilindro	oxigenio 9 m 9
-comp	comp,litro,grama,unidade,metro,conjunto,m3,ampola,caixa,frasco	norfloxacino 9 mg cpr
-caixa	m3,conjunto,frasco,grama,comp,litro,unidade,caixa,metro,ampola	cx gordura tigre dn 9
-kg	frasco,unidade,grama,caixa,comp,litro,ampola,metro,m3,rolo	varao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
-grama	grama,litro,comp,ampola,kg,unidade,galao,kit,metro,conjunto	neomicina bacit pom nebactrina 9 gr
-comp	comp,litro,grama,unidade,frasco,ampola,caixa,metro,conjunto,kg	gardenal 9 mg 9 cp
-m3	unidade,ampola,litro,caixa,m3,kg,grama,metro,frasco,kit	oxig nio med cil om 9 m 9 onu 9 9 9 9
-grama	unidade,grama,comp,frasco,litro,metro,kg,caixa,galao,ampola	marreta oitavada 9 g forjada ref 9/9
-comp	comp,grama,unidade,metro,ampola,frasco,litro,kg,m3,kit	diazepam 9 mg 9 cp b 9 
-m3	m3,grama,comp,unidade,caixa,kit,conjunto,litro,kg,ampola	oxigenio medicinal cil 9 m 9  
-caixa	litro,unidade,grama,caixa,conjunto,comp,metro,ampola,m3,galao	teicoplanina 9 mg injetavel cx 9
-comp	comp,litro,unidade,grama,conjunto,ampola,metro,caixa,frasco,rolo	enalapril 9 mg cpr
-litro	litro,comp,unidade,metro,conjunto,grama,frasco,ampola,rolo,caixa	agua mineral 9 litros
-unidade	unidade,comp,litro,caixa,frasco,grama,metro,m3,conjunto,rolo	pilha rayovac media c 9
-comp	comp,unidade,caixa,grama,litro,metro,m3,ampola,conjunto,galao	fluoxetina 9 mg cx 9 caps g c 9
-unidade	unidade,litro,comp,metro,caixa,cilindro,kg,m3,kit,frasco	ovos c 9 und
-metro	kit,frasco,grama,comp,metro,ampola,m3,caixa,unidade,kg	fita adesiva autoclave 9 mm x 9 m                 
-caixa	m3,unidade,comp,grama,caixa,litro,conjunto,metro,frasco,ampola	benzilpenicilina 9 cx 9
-caixa	caixa,comp,conjunto,metro,grama,unidade,m3,litro,kg,frasco	nylon 9 9 c ag 9 cm cx 9
-kit	kit,litro,kg,metro,ampola,unidade,m3,caixa,conjunto,rolo	kit pnld
-unidade	caixa,unidade,litro,cilindro,grama,comp,m3,conjunto,kg,metro	ovos vermelho cascavel c 9
-cilindro	unidade,litro,comp,kg,caixa,frasco,grama,metro,ampola,m3	ar med  cil 9 m 9 om 9 l onu 9 na 9 9
-kg	kg,grama,litro,metro,unidade,comp,ampola,m3,kit,caixa	tinta po cal megao 9 kg
-kg	grama,kg,litro,ampola,comp,metro,m3,conjunto,unidade,caixa	costela congelada kg
-comp	comp,m3,grama,unidade,kg,metro,ampola,kit,caixa,litro	diazepam 9 mg cx 9 comp b 9 
-caixa	comp,grama,metro,unidade,caixa,conjunto,litro,kg,ampola,cilindro	ceftriaxona 9 gr iv cx 9 fa celltriaxon fab  cellofarm
-grama	kg,grama,metro,litro,unidade,ampola,kit,caixa,comp,frasco	leite em po ninho integral nestle 9 g
-comp	comp,unidade,litro,metro,grama,conjunto,rolo,caixa,galao,kg	vitergyl c 9 g c 9 comp eferv
-comp	comp,unidade,grama,frasco,litro,metro,ampola,caixa,kg,m3	afolic 9 mg c 9 comp hosp natulab hosp 
-metro	unidade,litro,comp,grama,frasco,caixa,metro,rolo,ampola,conjunto	papel hig  institu  lorde verde bco 9 celulose c 9 m fd c 9 rl lorde
-comp	comp,grama,litro,unidade,conjunto,frasco,caixa,metro,ampola,rolo	captopril 9 mg cpr
-grama	comp,grama,kg,litro,ampola,metro,m3,unidade,conjunto,caixa	trinulox cr derm c 9 g
-frasco	unidade,metro,conjunto,litro,galao,comp,grama,ampola,rolo,caixa	 actilyse 9 mg cx 9 f a dil 9 ml canu alteplase boehringer
-cilindro	m3,comp,unidade,kg,metro,kit,litro,cilindro,caixa,frasco	oxigenio ppu
-litro	litro,comp,unidade,grama,metro,conjunto,caixa,galao,ampola,rolo	tinta luxcril 9 l branco neve lux
-rolo	litro,comp,metro,unidade,conjunto,grama,ampola,caixa,frasco,rolo	rolo de la 9 cm atlas
-grama	grama,comp,ampola,metro,unidade,litro,conjunto,galao,m3,caixa	metronidazol 9 mg gel vag apl 9 g imposto ibpt nacional 9 
-comp	comp,unidade,litro,metro,grama,caixa,cilindro,frasco,kg,kit	atenolol 9 mg cx 9 cps  gen
-unidade	unidade,comp,litro,grama,frasco,ampola,metro,caixa,kg,conjunto	unid proc dig peq cap unid proc dig hp d
-frasco	comp,unidade,grama,metro,caixa,cilindro,litro,m3,ampola,kg	amoxacilina 9 mg susp fr 9 ml imposto ibpt nacional 9 
-kg	grama,kg,litro,comp,m3,metro,unidade,ampola,conjunto,frasco	maca gala grande kg
-conjunto	conjunto,metro,comp,litro,grama,unidade,kit,caixa,rolo,m3	jg pastilha freio dianteiro
-comp	comp,unidade,grama,metro,litro,caixa,kg,ampola,frasco,kit	atenolol 9 mg cx 9 comp  vitamedic 
-litro	litro,comp,grama,unidade,caixa,kg,metro,conjunto,ampola,cilindro	diatex acrilico vanilla 9 l
-unidade	unidade,litro,comp,grama,metro,frasco,galao,ampola,kg,caixa	papel oficio a 9 report 9 x 9 c 9 fls
-caixa	ampola,comp,grama,metro,kit,kg,unidade,litro,frasco,caixa	kabiven peripheral 9 kcal 9 ml cx 9 br 9 lot 9 if 9 val  fab 
-litro	litro,comp,ampola,frasco,metro,unidade,caixa,grama,conjunto,rolo	tinta iquine pintalar vinil acr 9 l perola
-litro	litro,comp,unidade,grama,metro,conjunto,ampola,frasco,caixa,rolo	spar ht 9 bb 9 lts
-unidade	comp,litro,grama,metro,unidade,conjunto,caixa,rolo,galao,frasco	g glimepirida 9 mg c 9 sandoz
-grama	comp,unidade,grama,litro,metro,conjunto,frasco,ampola,caixa,kg	algodao hidrofilo 9 gr
-comp	grama,unidade,comp,conjunto,litro,ampola,kg,metro,m3,caixa	halo 9 mg haloperidol 9 cpr c 9 
-grama	grama,kg,m3,comp,metro,ampola,litro,unidade,conjunto,caixa	dexa 9 g creme 9 mg g
-grama	caixa,litro,grama,ampola,unidade,metro,comp,galao,kit,conjunto	kollagenase c cloraf bisn 9 g cx 9
-grama	unidade,frasco,grama,comp,caixa,litro,metro,kg,ampola,m3	metronidazol 9 mg g gel vaginal 9 bg 9
-metro	frasco,comp,grama,unidade,metro,ampola,m3,caixa,litro,conjunto	papel grau cirurgico grande 9 mm x 9 m lote m 9 
-unidade	litro,comp,caixa,unidade,grama,frasco,metro,ampola,conjunto,rolo	syphilis ice c 9 t lote d 9 marca diasorin
-ampola	comp,unidade,frasco,ampola,grama,metro,caixa,litro,conjunto,m3	butilescopolamina dipirona sodica 9 ml cx 9 amp
-metro	comp,litro,unidade,grama,conjunto,metro,ampola,galao,caixa,rolo	veda rosca 9 x 9 mts polytubes
-m3	caixa,m3,unidade,frasco,litro,comp,grama,metro,ampola,kg	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
-litro	litro,grama,unidade,comp,metro,frasco,conjunto,rolo,caixa,ampola	massa corrida 9 l balde
-grama	grama,kg,m3,comp,unidade,litro,caixa,kit,metro,galao	neomicina bacitracina pom  9 g
-frasco	litro,comp,grama,kit,unidade,conjunto,metro,kg,galao,caixa	bio latex fr completo quibasa
-cilindro	unidade,comp,litro,frasco,caixa,grama,metro,m3,ampola,kg	oxigenio med  em cil  9 m 9 tq 9 na 9 onu
-litro	comp,unidade,litro,frasco,metro,galao,grama,ampola,rolo,kit	extralatex branco neve 9 lt hidracor
-metro	unidade,litro,comp,grama,caixa,metro,m3,conjunto,kg,rolo	sapucaia serr em linha 9 m 9/9
-unidade	unidade,grama,litro,conjunto,comp,metro,kg,caixa,ampola,galao	compressa gaze 9 x 9 9 fios 9 und
-metro	litro,comp,conjunto,frasco,unidade,metro,ampola,grama,caixa,rolo	tecido tnt cor div 9 x 9 m 9 p polipropilento
-kg	unidade,litro,comp,grama,metro,frasco,conjunto,caixa,rolo,kg	petrol carflex c 9 kg bd
-grama	unidade,comp,litro,grama,conjunto,metro,caixa,galao,rolo,kit	pratiglos pom 9 gr pratidonad
-kg	grama,caixa,frasco,comp,litro,m3,unidade,metro,ampola,kg	cimento cpii z 9 rs nbr 9 nbr 9 9 kg cf 9
-grama	grama,kg,litro,ampola,metro,kit,comp,unidade,galao,caixa	leite em po integral italac 9 x 9 g
-unidade	unidade,grama,litro,comp,kg,metro,ampola,caixa,frasco,conjunto	caneta esferografica azul 9 c 9 und
-litro	litro,unidade,conjunto,comp,grama,metro,frasco,m3,kg,caixa	oleo 9 w 9 9 l brutu
-galao	m3,litro,conjunto,grama,caixa,unidade,galao,ampola,comp,kg	dialine esm  platina gl gl 9 x 9
-grama	comp,unidade,frasco,grama,metro,caixa,ampola,conjunto,litro,kg	algodao em rolo hidrofilo 9 gr marca melhor med 
-unidade	comp,unidade,caixa,m3,metro,litro,grama,cilindro,conjunto,kg	algodao 9 9 c ag 9 cm cx c 9
-metro	grama,unidade,metro,comp,frasco,ampola,caixa,litro,kg,m3	papel higienico personal lavanda 9 r 9 m
-litro	unidade,litro,frasco,grama,caixa,metro,comp,ampola,kg,m3	removed cera becker tira facil c 9 lt 9
-kg	frasco,unidade,grama,caixa,comp,litro,ampola,metro,m3,rolo	varao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+comp	caixa,comp,grama,unidade,metro,ampola,litro,kg,rolo,galao	fluoxetina 9 mg cx 9 caps g c 9
+grama	comp,caixa,grama,unidade,m3,kg,metro,litro,conjunto,galao	ceftriaxona 9 g f a cx 9
+grama	grama,caixa,comp,metro,unidade,ampola,litro,conjunto,kg,frasco	metronidazol 9 mg g gel vaginal 9 bg 9
+kg	litro,comp,caixa,grama,unidade,kg,metro,frasco,conjunto,rolo	lona 9 x 9 9 kg preta
+unidade	unidade,caixa,grama,m3,conjunto,kg,comp,litro,metro,galao	eva em folha c 9
+kg	comp,kg,frasco,litro,grama,unidade,caixa,conjunto,kit,ampola	cimento 9 kg zebu cinza
+comp	comp,grama,metro,caixa,unidade,ampola,kg,litro,frasco,rolo	fluconazol 9 mg cmp medqu 
+m3	m3,metro,unidade,cilindro,kg,grama,conjunto,caixa,litro,comp	oxigenio 9 m 9
+kit	kit,comp,unidade,frasco,litro,grama,kg,galao,cilindro,conjunto	kit pnld
+unidade	unidade,litro,conjunto,caixa,kg,metro,m3,rolo,grama,galao	ovos bandeja com 9 und
+litro	litro,unidade,grama,comp,caixa,kg,kit,frasco,conjunto,galao	massa corrida 9 l balde
+kg	kg,grama,unidade,comp,caixa,conjunto,metro,litro,frasco,kit	costela congelada kg
+litro	litro,caixa,unidade,comp,m3,conjunto,metro,grama,kit,kg	thinner galao 9 lt 9
+frasco	litro,comp,grama,conjunto,unidade,caixa,kg,metro,rolo,ampola	duovent aer fr 9 ml
+comp	comp,grama,unidade,metro,m3,caixa,kg,ampola,frasco,litro	carbamazepina 9 mg 9 cp c 9 
+unidade	frasco,unidade,ampola,grama,comp,metro,conjunto,caixa,kg,litro	sonda de aspiracao traqueal n 9 pct  c 9 medsonda 
+comp	comp,unidade,grama,metro,frasco,ampola,caixa,conjunto,galao,rolo	permanganato de potassio 9 mg cmp mario 
+conjunto	litro,ampola,grama,unidade,conjunto,metro,kg,caixa,comp,frasco	coloracao panotico rapido conj  9 x 9 ml
+comp	comp,litro,caixa,grama,unidade,kg,conjunto,rolo,m3,metro	amiodarona 9 mg 9 cp
+litro	litro,metro,conjunto,grama,ampola,unidade,rolo,comp,kit,kg	saco para lixo branco hospitalar 9 lt
+unidade	unidade,litro,kg,caixa,comp,grama,metro,conjunto,rolo,galao	agulha desc 9 x 9 9 und
+grama	grama,metro,kg,unidade,caixa,comp,litro,ampola,frasco,kit	nistatina creme vag 9 ui g 9 g gen
+unidade	unidade,grama,comp,frasco,metro,ampola,litro,rolo,conjunto,caixa	papel linho tam a 9 c 9 und bco offpaper
+metro	metro,m3,grama,comp,ampola,unidade,litro,kit,frasco,kg	barra chata 9/9 x 9/9 a 9 9 m
+grama	litro,conjunto,caixa,grama,comp,metro,ampola,unidade,rolo,galao	flocos de milho 9 g c 9 extramilho
+grama	grama,kg,metro,litro,ampola,unidade,frasco,cilindro,comp,m3	sab o em p guarani sach 9 x 9 g
+metro	metro,unidade,grama,m3,comp,ampola,frasco,kg,rolo,caixa	papel grau cirurgico 9 mmx 9 m
+litro	litro,grama,metro,frasco,ampola,conjunto,unidade,comp,caixa,rolo	selador acrilico iquine delanil 9 l
+conjunto	unidade,caixa,litro,grama,m3,comp,kg,conjunto,metro,galao	conj poa 9 pcs tw 9 9/9
+conjunto	conjunto,litro,metro,kit,unidade,rolo,grama,comp,frasco,kg	jogo junta superior c ret
+comp	comp,grama,ampola,metro,caixa,litro,unidade,frasco,kg,cilindro	fenocris 9 mg fenobarbital cp b 9 
+frasco	litro,ampola,metro,grama,conjunto,frasco,comp,unidade,kg,rolo	cefalexina 9 ml ml po o  susp oral fr 9 ml
+ampola	comp,ampola,grama,frasco,caixa,metro,cilindro,kg,unidade,conjunto	gentamicina 9 mg 9 ml inj  c 9 amp 
+cilindro	cilindro,m3,unidade,kit,comp,metro,litro,kg,conjunto,galao	oxigenio ppu
+comp	unidade,m3,caixa,grama,comp,litro,metro,ampola,conjunto,frasco	omeprazol 9 mg comp lt 9 i 9
+grama	grama,comp,litro,kg,unidade,conjunto,metro,rolo,frasco,m3	algodao hidrofilo 9 gr
+unidade	unidade,m3,caixa,frasco,conjunto,litro,metro,comp,grama,cilindro	ovos granja mauricea c 9
+grama	grama,comp,litro,conjunto,kg,unidade,metro,caixa,kit,cilindro	molho de alho 9 gr
+comp	comp,litro,grama,metro,conjunto,caixa,unidade,kg,cilindro,kit	sustrate c 9 cp
+litro	litro,grama,unidade,caixa,metro,ampola,frasco,comp,rolo,conjunto	lubrificante ursa super td sae 9 w 9 9 l
+litro	comp,grama,litro,unidade,metro,ampola,conjunto,frasco,caixa,cilindro	base coralservice coralmur 9 lt t 
+litro	litro,grama,frasco,metro,caixa,unidade,comp,rolo,conjunto,kit	liex 9 9 l detergente neutro uso geral
+comp	comp,caixa,unidade,litro,grama,ampola,metro,rolo,frasco,galao	levonorg etinilest 9 caps
+caixa	comp,ampola,grama,frasco,caixa,unidade,kg,metro,rolo,litro	ceftriaxona 9 g iv im s dil cx 9 amplospec 
+grama	litro,conjunto,grama,unidade,metro,frasco,rolo,ampola,comp,caixa	doce de leite pastoso sem corante embal  c  9 gr marca triangulo
+unidade	comp,grama,kg,unidade,metro,caixa,litro,conjunto,rolo,galao	carvedilol 9 mg c 9 gen
+frasco	litro,grama,metro,ampola,comp,frasco,conjunto,kg,caixa,kit	fr latex 9 ml marca biotecnica lote 9 h 9 a
+kg	kg,grama,metro,unidade,comp,caixa,frasco,litro,conjunto,ampola	cimento apodi cp ii z 9 kg
+grama	grama,litro,conjunto,unidade,metro,kg,frasco,ampola,comp,galao	neomicina bacitracina 9 g sobral neo
+unidade	unidade,metro,litro,conjunto,caixa,galao,ampola,frasco,rolo,grama	ovos de granja dm ovos c 9 unds
+kg	kg,grama,metro,caixa,ampola,litro,comp,unidade,frasco,galao	feijao carioca tipo 9 9 x 9 kg
+litro	litro,caixa,grama,unidade,metro,conjunto,rolo,comp,frasco,kg	liex soft 9 l amaciante a base de quatern rio
+litro	grama,unidade,litro,frasco,comp,kg,kit,caixa,ampola,galao	massa corri 9 lt diatex iquine
+litro	litro,unidade,caixa,metro,grama,conjunto,ampola,frasco,kit,kg	tinta extralux esm sint 9 l azul del rey 9 lux
+m3	m3,cilindro,metro,unidade,kg,kit,conjunto,comp,grama,litro	oxigenio samu
+grama	grama,comp,unidade,ampola,m3,metro,kg,frasco,litro,caixa	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9 
+litro	litro,metro,conjunto,grama,ampola,unidade,rolo,comp,kit,kg	saco para lixo branco hospitalar 9 lt
+unidade	unidade,metro,litro,grama,rolo,ampola,frasco,galao,caixa,conjunto	papel oficio a 9 report 9 x 9 c 9 fls
+grama	grama,comp,kg,litro,m3,metro,caixa,unidade,conjunto,frasco	hemovirtus pom 9 g 
+litro	litro,grama,unidade,metro,caixa,comp,rolo,frasco,ampola,conjunto	lubrax top turbo 9 w 9 9 l
+unidade	unidade,conjunto,litro,caixa,metro,kg,galao,ampola,grama,cilindro	ovos brancos bandeja c  9 und
+comp	comp,litro,grama,caixa,unidade,conjunto,kg,rolo,metro,kit	captopril 9 mg cpr
+comp	comp,unidade,grama,frasco,ampola,caixa,kg,metro,kit,rolo	atenolol 9 mg cx 9 comp  vitamedic 
+metro	metro,m3,unidade,litro,cilindro,conjunto,comp,kg,grama,caixa	oxigenio 9 mts
+m3	m3,unidade,metro,caixa,litro,conjunto,grama,cilindro,frasco,kg	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
+litro	litro,grama,ampola,comp,metro,conjunto,frasco,cilindro,unidade,rolo	desinfetante novo brilho caravela 9 l
+unidade	unidade,comp,grama,frasco,metro,kg,ampola,cilindro,conjunto,m3	abridor de boca adulto maquira 9 un 
+galao	litro,metro,grama,comp,kit,conjunto,galao,caixa,cilindro,kg	thinner galao
+grama	grama,kg,comp,metro,litro,frasco,unidade,kit,ampola,cilindro	macarrao tipo espaquete 9 g
+kit	kit,comp,unidade,frasco,litro,grama,kg,galao,cilindro,conjunto	kit pnld
+litro	litro,unidade,metro,conjunto,grama,ampola,rolo,m3,cilindro,caixa	oleo dulub hidraulico 9 9 lt
+m3	m3,unidade,comp,caixa,grama,litro,conjunto,metro,kg,rolo	ar comprimido 9 m 9
+comp	comp,litro,caixa,grama,unidade,conjunto,kg,metro,rolo,kit	captopril 9 mg 9 cp
+frasco	unidade,comp,grama,metro,frasco,ampola,kg,caixa,conjunto,cilindro	compexo b liquido  fr 9 ml medqu 
+rolo	unidade,metro,litro,grama,conjunto,rolo,comp,frasco,ampola,caixa	papel grau cirurgico 9 cmx 9 mt rl
+unidade	unidade,caixa,litro,grama,metro,ampola,conjunto,frasco,kg,galao	tubo p col  a vacuo plast  tp am 9 ml 9 x 9 mm c ativ  coag  gel sep rack c 9 und lote 9/9 marca injex
+unidade	unidade,litro,caixa,grama,metro,kg,conjunto,rolo,galao,frasco	lapis grafite n 9 sem ponteira pacote c 9 und
+comp	grama,comp,frasco,ampola,metro,unidade,litro,cilindro,caixa,conjunto	metildopa 9 mg c 9 comp imposto ibpt nacional 9 
+comp	comp,unidade,metro,grama,litro,galao,rolo,caixa,conjunto,kg	prednisona 9 mg comprimidos
+litro	litro,grama,conjunto,metro,comp,m3,caixa,unidade,kit,cilindro	tirreno arla 9 9 l
+grama	grama,comp,ampola,kg,metro,frasco,conjunto,caixa,unidade,cilindro	cetoconazol creme bisn  9 gr hipolabor mg 
+ampola	comp,ampola,grama,caixa,kg,frasco,metro,unidade,litro,conjunto	clindamicina 9 mg amp  uni o qu mica
+metro	litro,frasco,caixa,kg,conjunto,grama,ampola,unidade,metro,comp	gaze hidrofila 9 cmx 9 m 9 fios stander nataly
+grama	unidade,litro,grama,comp,kg,caixa,conjunto,kit,metro,galao	babymed rosa 9 g cimed
+litro	litro,unidade,conjunto,metro,grama,comp,caixa,m3,kg,rolo	oleo mobil mx 9 lt
+unidade	unidade,metro,litro,grama,rolo,ampola,frasco,galao,caixa,conjunto	papel oficio a 9 report 9 x 9 c 9 fls
+metro	litro,metro,grama,comp,unidade,conjunto,galao,rolo,caixa,ampola	eletroduto corrugado 9 mm 9 mt amarelo
+comp	comp,grama,litro,caixa,unidade,frasco,ampola,kit,metro,kg	meclin 9 mg c 9 comp 
+grama	grama,kg,frasco,metro,litro,ampola,cilindro,unidade,kit,conjunto	bisc  c  cracker vitarella trad 9 g
+grama	unidade,grama,kg,litro,comp,conjunto,metro,caixa,frasco,rolo	caldo de carne galinha 9 x 9 gr knnor
+kg	kg,grama,litro,metro,caixa,unidade,comp,kit,conjunto,frasco	tinta po cal megao 9 kg
+kg	kg,grama,litro,comp,caixa,unidade,metro,conjunto,rolo,frasco	versatil clor bd 9 kg
+metro	metro,unidade,litro,grama,rolo,conjunto,comp,kg,ampola,frasco	papel grau cir ph 9 mmx 9 mt
+grama	grama,kg,comp,unidade,metro,frasco,ampola,litro,caixa,cilindro	almondegas ao molho de tomate 9 g
+caixa	caixa,unidade,grama,litro,comp,kg,ampola,rolo,galao,metro	glyvenol 9 mg drg cx 9 bl x 9
+litro	litro,rolo,metro,grama,comp,caixa,unidade,conjunto,kit,kg	lubrax extra turbo 9 lt
+unidade	unidade,conjunto,kg,cilindro,kit,galao,litro,metro,grama,m3	ovos c 9 und
+comp	comp,ampola,grama,frasco,litro,cilindro,unidade,kg,caixa,kit	dipirona 9 mg apres  cx c 9 cpr sobral pi 
+comp	comp,grama,caixa,litro,conjunto,kg,unidade,metro,cilindro,rolo	gamax com 9 cpr
+grama	grama,kg,ampola,metro,litro,frasco,comp,kit,cilindro,unidade	nistatina creme vag  aplic  9 g
+metro	grama,comp,unidade,metro,frasco,ampola,caixa,conjunto,galao,rolo	pelicula g 9 9 mts chacoal grafite flex 
+unidade	unidade,litro,comp,grama,kg,caixa,metro,conjunto,rolo,kit	noex 9 mcg c 9 doses
+kg	kg,grama,metro,ampola,caixa,litro,unidade,comp,frasco,conjunto	feij o carioca bi bom 9 x 9 kg
+grama	grama,unidade,comp,litro,metro,kg,conjunto,frasco,kit,caixa	bolacha crean ckacer 9 gr
+unidade	unidade,metro,grama,caixa,m3,litro,frasco,conjunto,ampola,kg	papel a 9 copimax 9 x 9 c 9 fls 9 x 9
+grama	grama,kg,metro,unidade,frasco,cilindro,ampola,conjunto,m3,caixa	proteina texturizada de soja supresoy carne 9 g
+kg	kg,grama,metro,unidade,caixa,frasco,ampola,litro,comp,conjunto	cimento elizabeth cp ii z 9 c 9 kg
+grama	grama,kg,litro,comp,m3,caixa,metro,unidade,conjunto,kit	sabao em po 9 x 9 g
+kit	kit,comp,unidade,frasco,litro,grama,kg,galao,cilindro,conjunto	kit pnld
+unidade	unidade,grama,caixa,comp,metro,frasco,litro,kg,ampola,conjunto	lamina para estilete  a o largura de 9 cm c  9 und 
+metro	metro,ampola,frasco,grama,litro,comp,kit,unidade,conjunto,caixa	tubo pvc 9 mm c 9 mts p bolsa classe a
+unidade	unidade,conjunto,grama,litro,metro,ampola,kit,caixa,kg,galao	bot o bonor ny pol  9/9 9 pto c 9 und
+m3	m3,unidade,metro,caixa,litro,conjunto,grama,cilindro,frasco,kg	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
+frasco	conjunto,litro,unidade,caixa,frasco,grama,metro,rolo,comp,kg	 clor cefepima 9 g po p sol inj cx 9 f cefepima  cloridrato aurobindo
+grama	grama,kg,metro,caixa,litro,comp,unidade,ampola,cilindro,frasco	leite em po integral italac 9 x 9 g
+kg	kg,grama,unidade,metro,comp,frasco,caixa,ampola,conjunto,litro	creme de goiaba tambau 9 kg
+grama	caixa,unidade,grama,comp,ampola,metro,kg,litro,frasco,conjunto	ceftriaxona 9 g po sol inj im iv cx 9
+kg	ampola,frasco,comp,grama,metro,kg,caixa,conjunto,cilindro,rolo	gel ultrassonografia 9 kg vicpharma 
+unidade	unidade,litro,comp,grama,conjunto,caixa,metro,kit,galao,kg	bandeja de ovos c  9 und
+unidade	unidade,litro,metro,grama,conjunto,comp,rolo,caixa,m3,kit	pano de prato c  9 ud
+kit	kit,comp,unidade,frasco,litro,grama,kg,galao,cilindro,conjunto	kit pnld
+grama	grama,kg,metro,comp,cilindro,ampola,frasco,litro,kit,caixa	milho verde predilecta lata 9 g
+m3	comp,metro,grama,m3,ampola,kg,frasco,unidade,caixa,cilindro	cilindro de oxig nio de 9 m 
+m3	m3,metro,unidade,cilindro,kg,grama,conjunto,caixa,litro,comp	oxigenio 9 m 9
+grama	grama,kg,metro,comp,litro,conjunto,ampola,unidade,frasco,cilindro	neomicina bacit pom nebactrina 9 gr
+m3	m3,unidade,metro,caixa,litro,conjunto,grama,cilindro,frasco,kg	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
+m3	m3,metro,unidade,cilindro,kg,grama,conjunto,caixa,litro,comp	oxigenio 9 m 9
+caixa	caixa,comp,grama,unidade,litro,kg,conjunto,metro,kit,rolo	metformina 9 mg cx 9
+litro	litro,caixa,metro,unidade,grama,kit,conjunto,comp,ampola,galao	tinta luxcril 9 l branco neve lux
+litro	litro,grama,comp,metro,ampola,frasco,unidade,kit,conjunto,cilindro	dialine esm sec rap bco neve 9 l
+ampola	comp,metro,grama,ampola,unidade,frasco,kg,litro,conjunto,cilindro	hyplex b inj cx 9 amp complexo b 
+grama	grama,kit,litro,comp,metro,conjunto,unidade,frasco,caixa,ampola	kolagenase c cloraf pom 9 gr f
+ampola	comp,ampola,litro,grama,metro,caixa,unidade,conjunto,kg,frasco	succinil colin 9 mg 9 amp
+kg	kg,grama,metro,comp,frasco,unidade,caixa,ampola,conjunto,litro	cimento cp ii z 9 cimpor 9 kg
+litro	litro,m3,unidade,metro,frasco,conjunto,grama,cilindro,caixa,rolo	oxig nio med  cil om 9 l
+comp	comp,grama,ampola,frasco,metro,litro,conjunto,caixa,cilindro,unidade	metronidazol 9 mg generico cprs prati donaduzzi pr 
+m3	m3,metro,unidade,grama,frasco,cilindro,ampola,comp,litro,caixa	oxigenio medicinal cil t 9 m 9  
+galao	grama,litro,galao,comp,kg,ampola,frasco,unidade,kit,caixa	dialine esmalt gl branco neve
+frasco	frasco,grama,kg,unidade,conjunto,litro,caixa,metro,comp,ampola	 actilyse 9 mg cx 9 f a dil 9 ml canu alteplase boehringer
+frasco	comp,grama,frasco,litro,metro,unidade,kit,ampola,caixa,conjunto	metilprednisolona 9 mg f a dil 9 ml unimedrol 
+comp	comp,litro,caixa,grama,unidade,conjunto,kg,rolo,metro,m3	ranitidina 9 mg 9 cp
+grama	grama,kg,metro,litro,ampola,unidade,frasco,cilindro,comp,m3	sab o em p guarani sach 9 x 9 g
+frasco	comp,frasco,ampola,grama,kg,caixa,unidade,metro,rolo,cilindro	glicose 9 f a 9 ml isofarma 
+grama	litro,comp,grama,metro,conjunto,unidade,rolo,ampola,kit,caixa	nebaciderme 9 g pomada mult
+grama	comp,frasco,grama,caixa,ampola,litro,unidade,kg,conjunto,kit	 papel a 9 9 g copimax
+unidade	unidade,metro,ampola,frasco,conjunto,caixa,comp,litro,grama,rolo	copo descart vel caixa c  9 unid copobras
+unidade	litro,unidade,grama,comp,metro,conjunto,frasco,ampola,kg,rolo	compressa 9 x 9 9 fios c 9 esteril
+comp	grama,comp,ampola,litro,metro,cilindro,caixa,unidade,kg,m3	diazepam 9 mg cx 9 cpr  uni diazepax b 9 
+unidade	unidade,metro,litro,grama,rolo,ampola,frasco,galao,caixa,conjunto	papel oficio a 9 report 9 x 9 c 9 fls
+metro	unidade,metro,grama,frasco,comp,ampola,conjunto,cilindro,rolo,caixa	papel grau cirurgico 9 cm x 9 mt imposto ibpt nacional 9 
+kg	kg,grama,litro,conjunto,unidade,comp,caixa,metro,rolo,m3	cal supercal 9 kg
+grama	comp,grama,unidade,ampola,frasco,caixa,litro,conjunto,kg,metro	cetoconazol creme 9 g sobral 
+m3	m3,metro,unidade,cilindro,kg,grama,conjunto,caixa,litro,comp	oxigenio 9 m 9
+litro	litro,metro,grama,caixa,comp,unidade,m3,kit,conjunto,frasco	thinner tempo 9 gl 9 l
+kg	litro,comp,unidade,conjunto,metro,grama,galao,caixa,frasco,kg	sal campeao 9 kg comum iodado
+frasco	metro,frasco,ampola,litro,grama,comp,caixa,conjunto,unidade,kit	teicoplanina 9 mg koplan cx 9 f a dil novafarma
+metro	unidade,litro,grama,caixa,frasco,kg,comp,ampola,galao,metro	atadura crepe 9 cm x 9 m ortoflex
+conjunto	m3,unidade,metro,conjunto,grama,caixa,litro,kg,ampola,galao	jg lona d t 9/9 dm 9 dna 9 9 9
+litro	unidade,grama,kg,metro,litro,ampola,caixa,frasco,comp,conjunto	carrinho metalosa 9 x 9 verm 9 l c 9 un
+litro	litro,grama,unidade,comp,conjunto,caixa,kg,metro,rolo,kit	detergente 9 l fd
+litro	litro,metro,unidade,comp,rolo,grama,conjunto,caixa,ampola,frasco	saco p  lixo preto 9 lts
+caixa	caixa,unidade,grama,litro,metro,comp,kg,frasco,galao,rolo	luva de procedimento p cx 9
+unidade	unidade,caixa,grama,comp,frasco,ampola,kg,metro,litro,rolo	luva procedim top quality tam p 9 un medix 
+caixa	unidade,frasco,comp,ampola,grama,conjunto,metro,caixa,cilindro,kg	omeprazol 9 mg injetavel cx 9 ampolas oprazon 
+comp	comp,grama,litro,m3,caixa,metro,kg,unidade,frasco,ampola	diazepam 9 mg 9 cp b 9 
+unidade	unidade,conjunto,kg,cilindro,kit,galao,litro,metro,grama,m3	ovos c 9 und
+kg	kg,grama,comp,unidade,litro,frasco,metro,m3,caixa,conjunto	argamassa quart  aci 9 kg
+metro	metro,litro,ampola,conjunto,grama,unidade,kg,frasco,comp,rolo	copo desc copobras transp 9 ml
+caixa	caixa,ampola,unidade,grama,metro,frasco,kg,litro,cilindro,comp	fluoxetina 9 mg cx c 9 c 9             lote 9 valid  9
+comp	comp,unidade,ampola,litro,grama,caixa,metro,kg,conjunto,rolo	cabergolina 9 mg ct 9 fr c  9 cp
+frasco	comp,grama,unidade,frasco,ampola,kg,metro,cilindro,caixa,m3	amoxacilina 9 mg susp fr 9 ml imposto ibpt nacional 9 
+rolo	frasco,comp,unidade,grama,kg,ampola,litro,metro,caixa,kit	atadura crepom 9 x 9 9 fios pct 9 rls biote 
+ampola	ampola,comp,metro,grama,unidade,litro,conjunto,kg,frasco,caixa	soro fisiologico 9 9 ml c 9 amp
+comp	caixa,grama,unidade,frasco,metro,comp,litro,conjunto,ampola,kg	 levomepromazina 9 mg comp cristalia lote 9
+metro	metro,litro,unidade,comp,rolo,grama,conjunto,caixa,m3,kit	papel higienico 9 mts
+kg	kg,grama,comp,metro,m3,cilindro,conjunto,unidade,caixa,kit	cimento 9 kg 
+litro	litro,grama,conjunto,metro,comp,m3,caixa,unidade,kit,cilindro	tirreno arla 9 9 l
+caixa	grama,kg,frasco,unidade,caixa,comp,ampola,conjunto,litro,metro	 pentasa 9 mg cx 9 cpr mesalazina ferring
+unidade	unidade,metro,litro,grama,rolo,galao,ampola,comp,frasco,caixa	papel oficio a 9 9 x 9 c 9 fls
+litro	litro,caixa,unidade,metro,grama,conjunto,kit,ampola,comp,frasco	tinta luxcril 9 l branco gelo lux
+grama	grama,comp,unidade,ampola,m3,metro,kg,frasco,litro,caixa	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9 
+rolo	litro,comp,unidade,caixa,grama,rolo,conjunto,ampola,metro,frasco	rolo de la 9 cm atlas
+grama	grama,kg,comp,litro,caixa,unidade,metro,conjunto,m3,rolo	cafe nordestino 9 g
+comp	comp,grama,litro,caixa,unidade,kit,conjunto,metro,kg,rolo	metronidazol 9 mg 9 cpr
+litro	litro,metro,grama,cilindro,kg,kit,unidade,comp,m3,conjunto	arla 9 9 lt
+grama	grama,kg,comp,litro,frasco,caixa,metro,kit,unidade,conjunto	margarina vegetal 9 g
+kg	kg,grama,metro,frasco,unidade,caixa,ampola,conjunto,litro,comp	cimento ligamax externo eliane 9 kg
+kg	kg,grama,conjunto,comp,unidade,caixa,litro,metro,m3,kit	cimento cpii 9 kg
+caixa	caixa,unidade,litro,metro,grama,comp,galao,ampola,conjunto,frasco	teicoplanina 9 mg injetavel cx 9
+unidade	unidade,litro,ampola,grama,metro,caixa,conjunto,cilindro,frasco,kg	unid proc dig peq cap unid proc dig hp d
+metro	litro,metro,grama,comp,conjunto,kit,kg,rolo,unidade,m3	entretela colante 9 mt
+unidade	unidade,m3,caixa,metro,litro,cilindro,conjunto,frasco,ampola,grama	ovos vermelho cascavel c 9
+ampola	comp,grama,ampola,metro,caixa,unidade,litro,kg,frasco,cilindro	fenocris 9 mg fenobarbital amp b 9 
+grama	caixa,unidade,grama,metro,comp,ampola,kg,conjunto,frasco,litro	cefazolina sodica 9 g po liof inj cx 9
+galao	unidade,grama,caixa,metro,litro,m3,galao,comp,conjunto,rolo	pinta piso azul gl gl 9 x 9
+grama	grama,kg,comp,unidade,frasco,conjunto,caixa,metro,litro,ampola	coco ralado mais coco 9 g
+comp	caixa,m3,comp,unidade,litro,grama,metro,conjunto,kg,rolo	atroveran comp 9 x 9
+comp	comp,litro,grama,caixa,unidade,conjunto,kg,kit,metro,rolo	metformina 9 mg 9 cp
+m3	m3,unidade,metro,caixa,conjunto,cilindro,litro,ampola,grama,frasco	oxigenio medicinal cil t 9 m 9
+grama	grama,comp,metro,ampola,kg,frasco,caixa,unidade,cilindro,litro	leite em po integral saco 9 g 
+comp	comp,litro,grama,caixa,unidade,kg,m3,conjunto,rolo,metro	albendazol 9 mg 9 cp
+conjunto	conjunto,litro,metro,unidade,caixa,comp,grama,kg,rolo,frasco	conjunto para circulacao extracorporea neonato
+grama	grama,kg,litro,comp,metro,caixa,unidade,ampola,conjunto,kit	flocao sao braz 9 x 9 g
+cilindro	m3,cilindro,frasco,ampola,comp,unidade,grama,metro,litro,caixa	oxigenio medicinal cil pp  
+litro	litro,metro,grama,conjunto,unidade,comp,rolo,kit,kg,caixa	saco para lixo preto 9 lt
+unidade	unidade,conjunto,kg,cilindro,kit,galao,litro,metro,grama,m3	ovos c 9 und
+grama	grama,kg,litro,metro,comp,m3,caixa,unidade,kit,frasco	trinulox cr derm c 9 g
+litro	litro,unidade,grama,comp,caixa,kg,kit,frasco,conjunto,galao	massa corrida 9 l balde
+caixa	metro,frasco,kg,grama,ampola,comp,caixa,unidade,litro,conjunto	ceftriaxona 9 gr iv cx 9 fa celltriaxon fab  cellofarm
+grama	grama,kg,unidade,metro,ampola,comp,caixa,litro,frasco,m3	caldo arisco galinha 9 x 9 g
+comp	comp,ampola,frasco,kg,grama,unidade,caixa,metro,litro,conjunto	carbamazepina 9 mg cx 9 comp c 9 uniao quimica
+litro	kg,grama,metro,caixa,frasco,ampola,cilindro,litro,comp,conjunto	glutaron 9 dias 9 l inativador 9 g
+grama	grama,kg,comp,caixa,litro,unidade,conjunto,metro,cilindro,m3	clips n 9/9 9 g
+grama	grama,kg,litro,comp,metro,caixa,unidade,ampola,conjunto,kit	flocao sao braz 9 x 9 g
+grama	grama,comp,litro,conjunto,kg,metro,unidade,caixa,cilindro,m3	reparil gel 9 gr
+comp	comp,grama,frasco,ampola,unidade,kg,caixa,metro,kit,litro	nimesulida 9 mg cx 9 comp  vitamedic 
+comp	comp,unidade,metro,grama,rolo,litro,caixa,conjunto,frasco,galao	prometazina 9 mg comp teuto 
+comp	comp,unidade,frasco,litro,ampola,grama,caixa,rolo,kg,galao	azitromicina azitrophar 9 mg comp  pharlab
+litro	litro,metro,grama,unidade,kit,conjunto,ampola,comp,rolo,cilindro	solvente natrielli gl 9 lt
+caixa	grama,comp,frasco,kit,ampola,metro,litro,unidade,caixa,conjunto	kabiven peripheral 9 kcal 9 ml cx 9 br 9 lot 9 if 9 val  fab 
+grama	grama,kg,metro,comp,ampola,litro,unidade,frasco,m3,cilindro	estriol creme vaginal 9 mg 9 g
+unidade	unidade,m3,caixa,metro,cilindro,frasco,ampola,grama,conjunto,galao	oxigenio med em cil 9 m 9 tg 9 na un 9
+grama	grama,kg,comp,litro,metro,frasco,m3,caixa,ampola,unidade	dexametasona 9 creme 9 g
+comp	comp,grama,litro,unidade,caixa,conjunto,kg,metro,cilindro,kit	engov c 9 x 9 cpr
+comp	comp,ampola,frasco,grama,metro,cilindro,kg,caixa,kit,conjunto	dipirona 9 mg c 9 comp greenpharma greenpharma 
+kg	kg,grama,metro,comp,litro,frasco,unidade,conjunto,ampola,caixa	massa acrilica colorplus 9 kg
+comp	comp,litro,grama,caixa,conjunto,kg,ampola,unidade,kit,metro	digoxina 9 mg c 9 comp
+caixa	comp,grama,kg,unidade,metro,caixa,litro,galao,conjunto,rolo	cetoconazol 9 mg cx 9 gen
+litro	litro,comp,unidade,caixa,rolo,grama,conjunto,kg,frasco,metro	agua mineral 9 litros
+litro	litro,grama,comp,metro,unidade,conjunto,frasco,kit,rolo,caixa	saco para lixo preto 9 l
+kg	kg,grama,comp,litro,unidade,caixa,conjunto,metro,kit,m3	equinos 9 ma 9 kg
+grama	grama,comp,litro,ampola,frasco,unidade,metro,caixa,cilindro,conjunto	miconazol creme vaginal 9 g prati donad lt 9 i 9 j vl 
+comp	ampola,comp,unidade,grama,litro,metro,frasco,caixa,kg,cilindro	dorene 9 mg cps 9 x 9 c 9 etico pn
+litro	litro,unidade,metro,grama,kit,caixa,ampola,kg,conjunto,comp	tinta rende muito 9 lts verde kiwi
+grama	comp,grama,ampola,frasco,litro,unidade,caixa,galao,metro,cilindro	dexametasona creme 9 mg g 9 g sobral 
+litro	litro,grama,metro,ampola,conjunto,comp,unidade,rolo,cilindro,kit	desinfetante concentrado caravela 9 lt
+kg	kg,grama,litro,comp,conjunto,metro,caixa,unidade,m3,kit	sal campeao 9 kg
+comp	comp,grama,metro,frasco,ampola,unidade,conjunto,litro,caixa,kg	bromazepam 9 mg cprs b 9 gen teuto go 
+grama	grama,caixa,unidade,kit,litro,comp,conjunto,ampola,m3,metro	kollagenase c cloraf bisn 9 g cx 9
+grama	grama,comp,metro,ampola,kg,caixa,frasco,unidade,conjunto,m3	cetoconazol dip betamet pom 9 g g 
+unidade	comp,unidade,litro,grama,caixa,metro,kg,conjunto,rolo,frasco	lapis hidrocor c 9 neopen compactor
+kit	kit,litro,grama,caixa,unidade,conjunto,frasco,comp,cilindro,metro	kit estabilizador diant 9
+caixa	comp,ampola,unidade,caixa,grama,metro,litro,kg,conjunto,cilindro	loratadina 9 mg 9 bl x 9 comp cx c 9 comp
+comp	conjunto,comp,litro,unidade,grama,metro,frasco,caixa,galao,rolo	9 haloperidol 9 mg comprimido
+caixa	comp,frasco,grama,ampola,unidade,caixa,metro,kg,conjunto,rolo	ceftriaxona 9 gr iv im s dil cx  9 f a biochimico 
+metro	unidade,frasco,metro,ampola,grama,caixa,comp,kg,litro,rolo	cer 9 x 9 icapui bco a cx 9 m cerbras
+kit	unidade,kg,conjunto,frasco,comp,grama,metro,ampola,kit,caixa	copo caneca  marca kit merenda
+litro	litro,grama,metro,unidade,frasco,ampola,conjunto,kg,comp,rolo	saco lixo evaristo 9 super refo 9 l
+kg	kg,grama,unidade,comp,frasco,metro,caixa,litro,ampola,conjunto	argamassa itatiunga aci 9 kg
+caixa	litro,caixa,grama,unidade,ampola,metro,comp,galao,kg,frasco	dexametasona inj 9 mg ml 9 ml cx c  9 lote t 9/9
+comp	unidade,comp,grama,caixa,litro,metro,galao,conjunto,frasco,ampola	baclofeno 9 mg c 9 comp lote 9
+metro	unidade,litro,grama,caixa,metro,frasco,kg,conjunto,galao,comp	papel hig  institu  lorde verde bco 9 celulose c 9 m fd c 9 rl lorde
+ampola	grama,comp,ampola,metro,kg,frasco,caixa,unidade,cilindro,conjunto	ceftriaxona sodica 9 g inj amp g 
+kg	grama,kg,comp,metro,unidade,frasco,caixa,conjunto,ampola,litro	cimento portland composto apodi cp ii e 9 9 kg 
+m3	m3,metro,unidade,cilindro,kg,grama,conjunto,caixa,litro,comp	oxigenio 9 m 9
+cilindro	unidade,m3,grama,metro,caixa,kg,frasco,litro,cilindro,ampola	ar med  cil 9 m 9 om 9 l onu 9 na 9 9
+m3	m3,metro,unidade,cilindro,kg,grama,conjunto,caixa,litro,comp	oxigenio 9 m 9
+unidade	unidade,metro,grama,comp,conjunto,frasco,caixa,kg,litro,ampola	papel higienico folha dupla fardo com 9 pct com 9 und 
+grama	grama,comp,unidade,ampola,frasco,litro,caixa,metro,kg,m3	neomicina bacitracina pomada 9 g lote 9/9 
+kit	kit,frasco,grama,comp,litro,unidade,conjunto,ampola,galao,caixa	kit andamento titan 9 riffel 
+litro	litro,grama,caixa,comp,rolo,unidade,metro,conjunto,kit,frasco	letahcide plus bb 9 l
+unidade	unidade,caixa,m3,comp,grama,metro,litro,frasco,kg,ampola	atadura crepom 9 cm pct c  9
+litro	litro,grama,comp,unidade,metro,conjunto,rolo,caixa,kit,kg	massa corrida 9 lts
+unidade	comp,caixa,frasco,ampola,unidade,grama,metro,kg,rolo,cilindro	luva de procedimento p cx c 9 embramac 
+ampola	ampola,frasco,comp,grama,unidade,metro,caixa,kg,rolo,conjunto	soro fisio 9 sist fec 9 ml cx 9 amp farmace 
+metro	litro,metro,conjunto,caixa,kit,frasco,unidade,galao,grama,rolo	tnt rosas pk 9 grx 9 m 9 p polipropileno
+litro	litro,caixa,metro,unidade,conjunto,grama,kit,ampola,frasco,kg	tinta luxcril 9 l azul profundo lux
+conjunto	unidade,caixa,conjunto,litro,comp,grama,kg,metro,m3,rolo	raio jg trazeiro 9
+comp	comp,unidade,grama,metro,kg,caixa,conjunto,ampola,litro,frasco	carbamazepina 9 mg c 9 cx 9 comp  teuto 
+kg	kg,grama,comp,caixa,litro,metro,unidade,frasco,conjunto,ampola	graxa chassis golden 9 9 kg
+litro	litro,unidade,conjunto,comp,grama,caixa,metro,m3,rolo,kg	oleo ursa la 9 9 lt
+unidade	unidade,metro,litro,grama,rolo,ampola,frasco,galao,caixa,conjunto	papel oficio a 9 report 9 x 9 c 9 fls
+comp	comp,ampola,grama,frasco,unidade,caixa,metro,litro,cilindro,kg	hioscina dipirona 9 mg cx 9 comp pharlab 
+m3	m3,metro,unidade,grama,frasco,cilindro,ampola,comp,litro,caixa	oxigenio medicinal cil t 9 m 9  
+m3	m3,unidade,metro,caixa,conjunto,litro,grama,cilindro,ampola,kg	oxido nitroso cil linde 9 l 9 kg vz onu 9 oxido nitroso  comprimido 9 9 9
+litro	litro,unidade,caixa,grama,comp,metro,conjunto,m3,cilindro,kg	removed cera becker tira facil c 9 lt 9
+unidade	grama,litro,kg,metro,unidade,frasco,comp,cilindro,caixa,conjunto	sais p  reidratacao oral c 9 env 9 gr
+kit	litro,metro,conjunto,unidade,grama,kg,caixa,ampola,kit,cilindro	toxoplasmose igm atraves da metodologia elisa kit
+grama	grama,caixa,unidade,litro,kg,metro,comp,conjunto,frasco,ampola	marreta oitavada 9 g forjada ref 9/9
+comp	conjunto,comp,metro,litro,grama,frasco,unidade,caixa,kg,kit	9 amitripitilina 9 mg comprimido
+litro	litro,comp,conjunto,caixa,grama,unidade,rolo,kit,galao,kg	extralux 9 l branco
+litro	litro,metro,unidade,grama,comp,conjunto,ampola,rolo,caixa,kg	saco p  lixo infectante 9 lts
+cilindro	cilindro,m3,unidade,kit,comp,metro,litro,kg,conjunto,galao	oxigenio ppu
+unidade	unidade,comp,grama,frasco,metro,rolo,caixa,galao,kg,kit	papel toalha c 9 caprice 
+comp	grama,metro,kg,litro,comp,unidade,caixa,rolo,frasco,kit	vitergyl c 9 g c 9 comp eferv
+kit	kit,comp,unidade,frasco,litro,grama,kg,galao,cilindro,conjunto	kit pnld
+unidade	unidade,litro,conjunto,caixa,kg,galao,metro,ampola,frasco,rolo	ovos de galinha emb c 9 und
+frasco	frasco,unidade,metro,grama,ampola,comp,cilindro,kg,conjunto,litro	omeprazol 9 mg 9 ml dil  cx 9 f a  blausiegel 
+comp	comp,grama,frasco,ampola,unidade,kg,caixa,conjunto,cilindro,metro	cimetidina 9 mg comp prati donaduzzi 
+kg	unidade,caixa,grama,metro,kg,m3,ampola,frasco,rolo,litro	varao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+metro	metro,comp,frasco,grama,ampola,litro,caixa,unidade,kg,conjunto	filme para ultrasom typi i normal upp 9 s 9 mm 9 m cx com 9 sony lote 9 
+comp	comp,grama,kg,litro,metro,caixa,unidade,conjunto,rolo,frasco	cefalexina 9 mg comp gen
+m3	m3,comp,grama,metro,unidade,frasco,litro,kg,cilindro,ampola	ar medicinal cil k 9 m 9  
+litro	litro,conjunto,unidade,frasco,caixa,galao,grama,kit,rolo,comp	iguatemi floral bb 9 l desinfetante liquido
+comp	comp,litro,grama,caixa,conjunto,unidade,metro,m3,kg,kit	janumet 9/9 mg 9 cpr
+kg	comp,frasco,grama,kg,unidade,metro,caixa,rolo,ampola,litro	versatil past bd 9 kg becker 
+grama	grama,kg,comp,litro,unidade,m3,caixa,metro,conjunto,frasco	achocolatado em po 9 g
+unidade	unidade,grama,comp,litro,metro,caixa,ampola,kg,conjunto,rolo	caneta compactor 9 c 9 az
+metro	unidade,comp,frasco,litro,ampola,rolo,galao,metro,grama,caixa	veda rosca 9 x 9 mts polytubes
+unidade	unidade,metro,comp,grama,litro,conjunto,rolo,galao,caixa,frasco	papel a 9 com 9 folhas rino
+grama	grama,kg,comp,metro,litro,unidade,caixa,m3,frasco,ampola	caldo de galinha 9 x 9 g
+litro	litro,grama,caixa,unidade,conjunto,metro,comp,kit,rolo,frasco	tecryl d 9 azul 9 l
+kg	conjunto,litro,unidade,metro,grama,caixa,comp,galao,frasco,kg	halteres ginastica 9 kg emborrachado
+metro	metro,grama,m3,ampola,frasco,comp,cilindro,litro,kg,unidade	fita adesiva autoclave 9 mm x 9 m                 
+comp	metro,grama,ampola,litro,m3,frasco,comp,unidade,kg,caixa	sulfato ferroso 9 ng comp  lt 9 f 9 m
+caixa	caixa,grama,unidade,comp,frasco,ampola,kg,metro,litro,cilindro	luva procedimento tam  m cx 9 pares medix 
+kg	kg,grama,litro,comp,metro,caixa,conjunto,unidade,kit,frasco	feijao macassar 9 kg
+cilindro	unidade,metro,litro,cilindro,m3,conjunto,frasco,caixa,kg,grama	oxigenio med  em cil  9 m 9 tq 9 na 9 onu
+unidade	unidade,litro,conjunto,caixa,frasco,metro,ampola,grama,cilindro,rolo	ovos de galinha bandeja c  9 unidades sao luis
+ampola	ampola,comp,grama,unidade,metro,caixa,conjunto,kg,frasco,litro	complexo b im iv inj 9 ml amp
+kit	unidade,metro,ampola,frasco,grama,caixa,comp,litro,rolo,conjunto	bucha kit mp prestolite m 9 r vw   ford cummins
+grama	grama,comp,metro,frasco,ampola,unidade,caixa,kg,litro,kit	sulfadiazina de prata 9 mg g cr 9 g gen 
+m3	m3,unidade,metro,caixa,litro,grama,cilindro,conjunto,ampola,kg	oxig nio med cil om 9 m 9 onu 9 9 9 9
+litro	litro,comp,conjunto,caixa,rolo,grama,kg,metro,unidade,kit	garrafa pet cp 9 l ct
+grama	grama,comp,unidade,ampola,m3,metro,kg,frasco,litro,caixa	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9 
+comp	comp,litro,grama,caixa,unidade,conjunto,kg,kit,rolo,metro	norfloxacino 9 mg cpr
+unidade	unidade,grama,caixa,metro,litro,comp,m3,conjunto,galao,ampola	esponja multiuso unid 9 x 9
+caixa	unidade,caixa,grama,metro,ampola,litro,comp,frasco,rolo,galao	luva procedimento tam p cx  9 pares
+ampola	comp,grama,ampola,frasco,metro,kg,cilindro,litro,caixa,unidade	dobutamina 9 mg 9 ml amp g 
+comp	comp,grama,ampola,litro,cilindro,frasco,caixa,conjunto,unidade,rolo	decnazol 9 mg c 9 comp pharla pharlab hosp 
+ampola	ampola,comp,grama,metro,unidade,litro,conjunto,caixa,kg,kit	norepinefrina 9 mg ml cx c  9 amp
+litro	litro,metro,frasco,grama,comp,ampola,caixa,kit,unidade,conjunto	tinta lux colorir 9 l azul turquesa
+kg	kg,grama,metro,unidade,caixa,frasco,ampola,litro,comp,conjunto	cimento elizabeth cp ii z 9 c 9 kg
+kg	kg,grama,comp,litro,unidade,metro,conjunto,caixa,rolo,kit	cimento de 9 kgs
+comp	comp,grama,ampola,litro,frasco,kg,galao,metro,unidade,caixa	diazepan 9 mg cx 9 comp b 9 santisa
+litro	litro,grama,unidade,comp,conjunto,caixa,kg,metro,rolo,kit	detergente 9 l fd
+litro	litro,grama,metro,comp,ampola,unidade,conjunto,frasco,rolo,m3	refrigerante lim o  peti c  9 l
+frasco	comp,grama,frasco,ampola,metro,unidade,caixa,conjunto,litro,cilindro	meropenem 9 g c 9 fa generico abl antibioticos do bras 
+conjunto	conjunto,litro,unidade,comp,grama,caixa,metro,rolo,kg,kit	jg pastilha freio
+cilindro	m3,cilindro,frasco,ampola,comp,unidade,grama,metro,litro,caixa	oxigenio medicinal cil pp  
+rolo	unidade,metro,litro,grama,conjunto,rolo,comp,frasco,ampola,caixa	papel grau cirurgico 9 cmx 9 mt rl
+ampola	grama,ampola,unidade,metro,comp,frasco,kg,caixa,m3,conjunto	complexo b amp im iv l 9 q 9 f  v 
+grama	grama,kg,frasco,ampola,comp,litro,metro,cilindro,unidade,conjunto	margarina extra cremosa c sal embal 9 g
+conjunto	conjunto,litro,unidade,comp,grama,caixa,metro,rolo,kg,kit	jg pastilha freio
+m3	m3,unidade,comp,caixa,grama,litro,conjunto,metro,kg,rolo	ar comprimido 9 m 9
+litro	litro,metro,grama,conjunto,cilindro,kg,comp,kit,unidade,m3	shine dry 9 lt
+metro	metro,litro,unidade,comp,ampola,frasco,grama,caixa,galao,kit	tecido tnt 9 x 9 m cores diversas
+comp	kg,grama,comp,litro,metro,unidade,caixa,conjunto,m3,rolo	calcitriol caps 9 mg
+unidade	unidade,metro,litro,grama,rolo,ampola,frasco,galao,caixa,conjunto	papel oficio a 9 report 9 x 9 c 9 fls
+kg	kg,grama,comp,unidade,metro,frasco,caixa,litro,ampola,conjunto	cimento cpii z 9 saco 9 kg
+litro	litro,grama,comp,unidade,frasco,rolo,metro,conjunto,kg,kit	arla 9 flua petrobras 9 l
+litro	unidade,litro,metro,caixa,comp,frasco,grama,galao,conjunto,ampola	oleo thf 9 lubrax 9 litros
+kg	unidade,caixa,grama,metro,kg,m3,ampola,frasco,rolo,litro	varao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+unidade	unidade,caixa,grama,ampola,metro,kg,litro,comp,frasco,m3	nylon mon  preto 9 9 c  ag  9/9 9 cm cx c 9
+litro	comp,grama,frasco,litro,unidade,ampola,kit,kg,caixa,metro	iquine dialine esm 9 l cinza medio bri 
+unidade	unidade,caixa,m3,comp,grama,metro,litro,frasco,kg,ampola	atadura crepom 9 cm pct c  9
