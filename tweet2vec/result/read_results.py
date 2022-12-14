@@ -36,11 +36,12 @@ def predicted_table():
     f.close()
     c = [x.split('\t') for x in b.split('\n')]
     data = []
+
     for i in range(len(c)):
-        data.append([a[i]] + c[i])
+        data.append(a[i].split()[:1] + c[i])
 
     return data
 
 d = predicted_table()
 predict = pd.DataFrame(d, columns=['predicted','unid. real','texto'])
-predict.sort_values('unid. real').to_csv('predicted.csv', index=False)
+#predict.sort_values('unid. real').to_csv('predicted.csv', index=False)
