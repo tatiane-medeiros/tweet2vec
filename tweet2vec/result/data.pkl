@@ -1,694 +1,1572 @@
 (lp1
-Vfluoxetina 9 mg cx 9 caps g c 9
+Vcolesterol monoreag liq estavel 9 ml bioclin
 p2
-aVceftriaxona 9 g f a cx 9
-p3
-aVmetronidazol 9 mg g gel vaginal 9 bg 9
-p4
-aVlona 9 x 9 9 kg preta
-p5
-aVeva em folha c 9
-p6
-aVcimento 9 kg zebu cinza
-p7
-aVfluconazol 9 mg cmp medqu 
-p8
-aVoxigenio 9 m 9
-p9
-aVkit pnld
-p10
-aVovos bandeja com 9 und
-p11
-aVmassa corrida 9 l balde
-p12
-aVcostela congelada kg
-p13
-aVthinner galao 9 lt 9
-p14
-aVduovent aer fr 9 ml
-p15
-aVcarbamazepina 9 mg 9 cp c 9 
-p16
-aVsonda de aspiracao traqueal n 9 pct  c 9 medsonda 
-p17
-aVpermanganato de potassio 9 mg cmp mario 
-p18
-aVcoloracao panotico rapido conj  9 x 9 ml
-p19
-aVamiodarona 9 mg 9 cp
-p20
-aVsaco para lixo branco hospitalar 9 lt
-p21
-aVagulha desc 9 x 9 9 und
-p22
-aVnistatina creme vag 9 ui g 9 g gen
-p23
-aVpapel linho tam a 9 c 9 und bco offpaper
-p24
-aVbarra chata 9/9 x 9/9 a 9 9 m
-p25
-aVflocos de milho 9 g c 9 extramilho
-p26
-aVsab o em p guarani sach 9 x 9 g
-p27
-aVpapel grau cirurgico 9 mmx 9 m
-p28
-aVselador acrilico iquine delanil 9 l
-p29
-aVconj poa 9 pcs tw 9 9/9
-p30
-aVjogo junta superior c ret
-p31
-aVfenocris 9 mg fenobarbital cp b 9 
-p32
-aVcefalexina 9 ml ml po o  susp oral fr 9 ml
-p33
-aVgentamicina 9 mg 9 ml inj  c 9 amp 
-p34
-aVoxigenio ppu
-p35
-aVomeprazol 9 mg comp lt 9 i 9
-p36
-aValgodao hidrofilo 9 gr
-p37
-aVovos granja mauricea c 9
-p38
-aVmolho de alho 9 gr
-p39
-aVsustrate c 9 cp
-p40
-aVlubrificante ursa super td sae 9 w 9 9 l
-p41
-aVbase coralservice coralmur 9 lt t 
-p42
-aVliex 9 9 l detergente neutro uso geral
-p43
-aVlevonorg etinilest 9 caps
-p44
-aVceftriaxona 9 g iv im s dil cx 9 amplospec 
-p45
-aVdoce de leite pastoso sem corante embal  c  9 gr marca triangulo
-p46
-aVcarvedilol 9 mg c 9 gen
-p47
-aVfr latex 9 ml marca biotecnica lote 9 h 9 a
-p48
-aVcimento apodi cp ii z 9 kg
-p49
-aVneomicina bacitracina 9 g sobral neo
-p50
-aVovos de granja dm ovos c 9 unds
-p51
-aVfeijao carioca tipo 9 9 x 9 kg
-p52
-aVliex soft 9 l amaciante a base de quatern rio
-p53
-aVmassa corri 9 lt diatex iquine
-p54
-aVtinta extralux esm sint 9 l azul del rey 9 lux
-p55
-aVoxigenio samu
-p56
-aVacrysof sa 9 at 9 g ms 9 lote 9 val 9 9 
-p57
-aVsaco para lixo branco hospitalar 9 lt
-p58
-aVpapel oficio a 9 report 9 x 9 c 9 fls
-p59
-aVhemovirtus pom 9 g 
-p60
-aVlubrax top turbo 9 w 9 9 l
-p61
-aVovos brancos bandeja c  9 und
-p62
-aVcaptopril 9 mg cpr
-p63
-aVatenolol 9 mg cx 9 comp  vitamedic 
-p64
-aVoxigenio 9 mts
-p65
-aVoxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
-p66
 aVdesinfetante novo brilho caravela 9 l
-p67
-aVabridor de boca adulto maquira 9 un 
-p68
-aVthinner galao
-p69
-aVmacarrao tipo espaquete 9 g
-p70
-aVkit pnld
-p71
-aVoleo dulub hidraulico 9 9 lt
-p72
-aVar comprimido 9 m 9
-p73
-aVcaptopril 9 mg 9 cp
-p74
-aVcompexo b liquido  fr 9 ml medqu 
-p75
-aVpapel grau cirurgico 9 cmx 9 mt rl
-p76
-aVtubo p col  a vacuo plast  tp am 9 ml 9 x 9 mm c ativ  coag  gel sep rack c 9 und lote 9/9 marca injex
-p77
-aVlapis grafite n 9 sem ponteira pacote c 9 und
-p78
-aVmetildopa 9 mg c 9 comp imposto ibpt nacional 9 
-p79
-aVprednisona 9 mg comprimidos
-p80
-aVtirreno arla 9 9 l
-p81
-aVcetoconazol creme bisn  9 gr hipolabor mg 
-p82
-aVclindamicina 9 mg amp  uni o qu mica
-p83
-aVgaze hidrofila 9 cmx 9 m 9 fios stander nataly
-p84
-aVbabymed rosa 9 g cimed
-p85
-aVoleo mobil mx 9 lt
-p86
-aVpapel oficio a 9 report 9 x 9 c 9 fls
-p87
-aVeletroduto corrugado 9 mm 9 mt amarelo
-p88
-aVmeclin 9 mg c 9 comp 
-p89
-aVbisc  c  cracker vitarella trad 9 g
-p90
-aVcaldo de carne galinha 9 x 9 gr knnor
-p91
-aVtinta po cal megao 9 kg
-p92
-aVversatil clor bd 9 kg
-p93
-aVpapel grau cir ph 9 mmx 9 mt
-p94
-aValmondegas ao molho de tomate 9 g
-p95
-aVglyvenol 9 mg drg cx 9 bl x 9
-p96
-aVlubrax extra turbo 9 lt
-p97
-aVovos c 9 und
-p98
-aVdipirona 9 mg apres  cx c 9 cpr sobral pi 
-p99
-aVgamax com 9 cpr
-p100
-aVnistatina creme vag  aplic  9 g
-p101
-aVpelicula g 9 9 mts chacoal grafite flex 
-p102
-aVnoex 9 mcg c 9 doses
-p103
-aVfeij o carioca bi bom 9 x 9 kg
-p104
-aVbolacha crean ckacer 9 gr
-p105
-aVpapel a 9 copimax 9 x 9 c 9 fls 9 x 9
-p106
-aVproteina texturizada de soja supresoy carne 9 g
-p107
-aVcimento elizabeth cp ii z 9 c 9 kg
-p108
-aVsabao em po 9 x 9 g
-p109
-aVkit pnld
-p110
-aVlamina para estilete  a o largura de 9 cm c  9 und 
-p111
-aVtubo pvc 9 mm c 9 mts p bolsa classe a
-p112
-aVbot o bonor ny pol  9/9 9 pto c 9 und
-p113
-aVoxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
-p114
-aV clor cefepima 9 g po p sol inj cx 9 f cefepima  cloridrato aurobindo
-p115
-aVleite em po integral italac 9 x 9 g
-p116
-aVcreme de goiaba tambau 9 kg
-p117
-aVceftriaxona 9 g po sol inj im iv cx 9
-p118
-aVgel ultrassonografia 9 kg vicpharma 
-p119
-aVbandeja de ovos c  9 und
-p120
-aVpano de prato c  9 ud
-p121
-aVkit pnld
-p122
-aVmilho verde predilecta lata 9 g
-p123
-aVcilindro de oxig nio de 9 m 
-p124
-aVoxigenio 9 m 9
-p125
-aVneomicina bacit pom nebactrina 9 gr
-p126
-aVoxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio  comprimido 9 9 9
-p127
-aVoxigenio 9 m 9
-p128
-aVmetformina 9 mg cx 9
-p129
-aVtinta luxcril 9 l branco neve lux
-p130
-aVdialine esm sec rap bco neve 9 l
-p131
-aVhyplex b inj cx 9 amp complexo b 
-p132
-aVkolagenase c cloraf pom 9 gr f
-p133
-aVsuccinil colin 9 mg 9 amp
-p134
-aVcimento cp ii z 9 cimpor 9 kg
-p135
-aVoxig nio med  cil om 9 l
-p136
-aVmetronidazol 9 mg generico cprs prati donaduzzi pr 
-p137
-aVoxigenio medicinal cil t 9 m 9  
-p138
-aVdialine esmalt gl branco neve
-p139
-aV actilyse 9 mg cx 9 f a dil 9 ml canu alteplase boehringer
-p140
-aVmetilprednisolona 9 mg f a dil 9 ml unimedrol 
-p141
-aVranitidina 9 mg 9 cp
-p142
-aVsab o em p guarani sach 9 x 9 g
-p143
-aVglicose 9 f a 9 ml isofarma 
-p144
-aVnebaciderme 9 g pomada mult
-p145
-aV papel a 9 9 g copimax
-p146
-aVcopo descart vel caixa c  9 unid copobras
-p147
+p3
+aVbio latex pcr 9 ml p 9 testes bioclin
+p4
+aVdipirona sodica injetavel cx 9 ampolas
+p5
+aVacrysof sa 9 at 9 g ms 9 lote 9 val 9 9
+p6
+aVactilyse 9 mg cx 9 f a dil 9 ml canu alteplase boehringer
+p7
+aVpolivitamina solucao oral natulab
+p8
+aVmilho verde
+p9
 aVcompressa 9 x 9 9 fios c 9 esteril
-p148
-aVdiazepam 9 mg cx 9 cpr  uni diazepax b 9 
-p149
-aVpapel oficio a 9 report 9 x 9 c 9 fls
-p150
-aVpapel grau cirurgico 9 cm x 9 mt imposto ibpt nacional 9 
-p151
-aVcal supercal 9 kg
-p152
-aVcetoconazol creme 9 g sobral 
-p153
-aVoxigenio 9 m 9
-p154
-aVthinner tempo 9 gl 9 l
-p155
-aVsal campeao 9 kg comum iodado
-p156
-aVteicoplanina 9 mg koplan cx 9 f a dil novafarma
-p157
-aVatadura crepe 9 cm x 9 m ortoflex
-p158
-aVjg lona d t 9/9 dm 9 dna 9 9 9
-p159
-aVcarrinho metalosa 9 x 9 verm 9 l c 9 un
-p160
-aVdetergente 9 l fd
-p161
-aVsaco p  lixo preto 9 lts
-p162
-aVluva de procedimento p cx 9
-p163
-aVluva procedim top quality tam p 9 un medix 
-p164
-aVomeprazol 9 mg injetavel cx 9 ampolas oprazon 
-p165
-aVdiazepam 9 mg 9 cp b 9 
-p166
-aVovos c 9 und
-p167
-aVargamassa quart  aci 9 kg
-p168
-aVcopo desc copobras transp 9 ml
-p169
-aVfluoxetina 9 mg cx c 9 c 9             lote 9 valid  9
-p170
-aVcabergolina 9 mg ct 9 fr c  9 cp
-p171
-aVamoxacilina 9 mg susp fr 9 ml imposto ibpt nacional 9 
-p172
-aVatadura crepom 9 x 9 9 fios pct 9 rls biote 
-p173
-aVsoro fisiologico 9 9 ml c 9 amp
-p174
-aV levomepromazina 9 mg comp cristalia lote 9
-p175
-aVpapel higienico 9 mts
-p176
-aVcimento 9 kg 
-p177
-aVtirreno arla 9 9 l
-p178
-aV pentasa 9 mg cx 9 cpr mesalazina ferring
-p179
-aVpapel oficio a 9 9 x 9 c 9 fls
-p180
-aVtinta luxcril 9 l branco gelo lux
-p181
-aVacrysof sa 9 at 9 g ms 9 lote 9 val 9 9 
-p182
-aVrolo de la 9 cm atlas
-p183
-aVcafe nordestino 9 g
-p184
-aVmetronidazol 9 mg 9 cpr
-p185
-aVarla 9 9 lt
-p186
-aVmargarina vegetal 9 g
-p187
-aVcimento ligamax externo eliane 9 kg
-p188
-aVcimento cpii 9 kg
-p189
-aVteicoplanina 9 mg injetavel cx 9
-p190
-aVunid proc dig peq cap unid proc dig hp d
-p191
-aVentretela colante 9 mt
-p192
-aVovos vermelho cascavel c 9
-p193
-aVfenocris 9 mg fenobarbital amp b 9 
-p194
-aVcefazolina sodica 9 g po liof inj cx 9
-p195
-aVpinta piso azul gl gl 9 x 9
-p196
-aVcoco ralado mais coco 9 g
-p197
-aVatroveran comp 9 x 9
-p198
-aVmetformina 9 mg 9 cp
-p199
-aVoxigenio medicinal cil t 9 m 9
-p200
-aVleite em po integral saco 9 g 
-p201
-aValbendazol 9 mg 9 cp
-p202
-aVconjunto para circulacao extracorporea neonato
-p203
-aVflocao sao braz 9 x 9 g
-p204
-aVoxigenio medicinal cil pp  
-p205
-aVsaco para lixo preto 9 lt
-p206
-aVovos c 9 und
-p207
-aVtrinulox cr derm c 9 g
-p208
-aVmassa corrida 9 l balde
-p209
-aVceftriaxona 9 gr iv cx 9 fa celltriaxon fab  cellofarm
-p210
+p10
+aVagua bidestilada f a 9 ml isofarma
+p11
 aVcaldo arisco galinha 9 x 9 g
-p211
-aVcarbamazepina 9 mg cx 9 comp c 9 uniao quimica
-p212
-aVglutaron 9 dias 9 l inativador 9 g
-p213
-aVclips n 9/9 9 g
-p214
-aVflocao sao braz 9 x 9 g
-p215
-aVreparil gel 9 gr
-p216
-aVnimesulida 9 mg cx 9 comp  vitamedic 
-p217
-aVprometazina 9 mg comp teuto 
-p218
-aVazitromicina azitrophar 9 mg comp  pharlab
-p219
-aVsolvente natrielli gl 9 lt
-p220
-aVkabiven peripheral 9 kcal 9 ml cx 9 br 9 lot 9 if 9 val  fab 
-p221
-aVestriol creme vaginal 9 mg 9 g
-p222
-aVoxigenio med em cil 9 m 9 tg 9 na un 9
-p223
-aVdexametasona 9 creme 9 g
-p224
-aVengov c 9 x 9 cpr
-p225
-aVdipirona 9 mg c 9 comp greenpharma greenpharma 
-p226
-aVmassa acrilica colorplus 9 kg
-p227
-aVdigoxina 9 mg c 9 comp
-p228
-aVcetoconazol 9 mg cx 9 gen
-p229
-aVagua mineral 9 litros
-p230
-aVsaco para lixo preto 9 l
-p231
-aVequinos 9 ma 9 kg
-p232
-aVmiconazol creme vaginal 9 g prati donad lt 9 i 9 j vl 
-p233
-aVdorene 9 mg cps 9 x 9 c 9 etico pn
-p234
-aVtinta rende muito 9 lts verde kiwi
-p235
-aVdexametasona creme 9 mg g 9 g sobral 
-p236
-aVdesinfetante concentrado caravela 9 lt
-p237
-aVsal campeao 9 kg
-p238
-aVbromazepam 9 mg cprs b 9 gen teuto go 
-p239
-aVkollagenase c cloraf bisn 9 g cx 9
-p240
-aVcetoconazol dip betamet pom 9 g g 
-p241
-aVlapis hidrocor c 9 neopen compactor
-p242
-aVkit estabilizador diant 9
-p243
-aVloratadina 9 mg 9 bl x 9 comp cx c 9 comp
-p244
-aV9 haloperidol 9 mg comprimido
-p245
-aVceftriaxona 9 gr iv im s dil cx  9 f a biochimico 
-p246
-aVcer 9 x 9 icapui bco a cx 9 m cerbras
-p247
-aVcopo caneca  marca kit merenda
-p248
-aVsaco lixo evaristo 9 super refo 9 l
-p249
-aVargamassa itatiunga aci 9 kg
-p250
-aVdexametasona inj 9 mg ml 9 ml cx c  9 lote t 9/9
-p251
-aVbaclofeno 9 mg c 9 comp lote 9
-p252
-aVpapel hig  institu  lorde verde bco 9 celulose c 9 m fd c 9 rl lorde
-p253
-aVceftriaxona sodica 9 g inj amp g 
-p254
-aVcimento portland composto apodi cp ii e 9 9 kg 
-p255
-aVoxigenio 9 m 9
-p256
-aVar med  cil 9 m 9 om 9 l onu 9 na 9 9
-p257
-aVoxigenio 9 m 9
-p258
-aVpapel higienico folha dupla fardo com 9 pct com 9 und 
-p259
-aVneomicina bacitracina pomada 9 g lote 9/9 
-p260
-aVkit andamento titan 9 riffel 
-p261
-aVletahcide plus bb 9 l
-p262
-aVatadura crepom 9 cm pct c  9
-p263
-aVmassa corrida 9 lts
-p264
-aVluva de procedimento p cx c 9 embramac 
-p265
-aVsoro fisio 9 sist fec 9 ml cx 9 amp farmace 
-p266
-aVtnt rosas pk 9 grx 9 m 9 p polipropileno
-p267
-aVtinta luxcril 9 l azul profundo lux
-p268
-aVraio jg trazeiro 9
-p269
-aVcarbamazepina 9 mg c 9 cx 9 comp  teuto 
-p270
-aVgraxa chassis golden 9 9 kg
-p271
-aVoleo ursa la 9 9 lt
-p272
-aVpapel oficio a 9 report 9 x 9 c 9 fls
-p273
-aVhioscina dipirona 9 mg cx 9 comp pharlab 
-p274
-aVoxigenio medicinal cil t 9 m 9  
-p275
-aVoxido nitroso cil linde 9 l 9 kg vz onu 9 oxido nitroso  comprimido 9 9 9
-p276
-aVremoved cera becker tira facil c 9 lt 9
-p277
-aVsais p  reidratacao oral c 9 env 9 gr
-p278
-aVtoxoplasmose igm atraves da metodologia elisa kit
-p279
-aVmarreta oitavada 9 g forjada ref 9/9
-p280
-aV9 amitripitilina 9 mg comprimido
-p281
-aVextralux 9 l branco
-p282
-aVsaco p  lixo infectante 9 lts
-p283
+p12
+aVatadura de crepom 9 cm x 9 9 fios c 9
+p13
+aVcarrinho metalosa 9 x 9 verm 9 l c 9 un
+p14
+aVoxigenio medicinal cil pp
+p15
+aVovos brancos bandeja c 9 und
+p16
+aVvdrl 9 testes 9 ml lote 9 d 9 validade
+p17
+aVoleo de soja soya 9 ml
+p18
+aVturbo massa acrilica 9 kg bd
+p19
+aVpastilha freio fiat 9 rcpt 9 trw
+p20
+aVcartolina comum branca
+p21
+aVbolo sort kg
+p22
+aVesmalte sintetico latao
+p23
+aVfosforo
+p24
+aVelemento
+p25
 aVoxigenio ppu
-p284
-aVpapel toalha c 9 caprice 
-p285
-aVvitergyl c 9 g c 9 comp eferv
-p286
+p26
+aV9 ps 9 g aditivo
+p27
+aVar cond split 9 btus kos 9 fc princess komeco
+p28
+aVomeprazol 9 mg injetavel cx 9 ampolas oprazon
+p29
+aVfosforo
+p30
+aVhemstab ref 9 9 lote 9 validade
+p31
+aVelemento filtro
+p32
+aVsertralina 9 mg aurobindo l xt 9 a f 9/9 v 9/9
+p33
+aVsoro fisiologico 9 9 ml fresenius 9 k 9
+p34
+aVtapete de borracha unicol c 9 pcs linhas ford gm
+p35
+aVvarao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+p36
+aVcurva soldavel 9 mm 9
+p37
+aVconcentrado amarelo ox t n 9 ml coral
+p38
+aVbot o bonor ny pol 9/9 9 pto c 9 und
+p39
+aVgasolina comum
+p40
+aVloratadina 9 mg comprimidos
+p41
+aVgel ultrassonografia 9 kg vicpharma
+p42
+aVagua mineral 9 litros
+p43
+aVsoro glicosado 9 s f 9 ml cx c 9 sanob
+p44
+aVtijolos de 9 furos 9 x 9 x 9
+p45
+aVmeia esportiva masculina selene
+p46
+aVluva cirurgica esteril no 9 9 9
+p47
 aVkit pnld
-p287
-aVovos de galinha emb c 9 und
-p288
-aVomeprazol 9 mg 9 ml dil  cx 9 f a  blausiegel 
-p289
-aVcimetidina 9 mg comp prati donaduzzi 
-p290
-aVvarao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
-p291
-aVfilme para ultrasom typi i normal upp 9 s 9 mm 9 m cx com 9 sony lote 9 
-p292
-aVcefalexina 9 mg comp gen
-p293
-aVar medicinal cil k 9 m 9  
-p294
-aViguatemi floral bb 9 l desinfetante liquido
-p295
-aVjanumet 9/9 mg 9 cpr
-p296
-aVversatil past bd 9 kg becker 
-p297
-aVachocolatado em po 9 g
-p298
-aVcaneta compactor 9 c 9 az
-p299
-aVveda rosca 9 x 9 mts polytubes
-p300
-aVpapel a 9 com 9 folhas rino
-p301
-aVcaldo de galinha 9 x 9 g
-p302
-aVtecryl d 9 azul 9 l
-p303
-aVhalteres ginastica 9 kg emborrachado
-p304
-aVfita adesiva autoclave 9 mm x 9 m                 
-p305
-aVsulfato ferroso 9 ng comp  lt 9 f 9 m
-p306
-aVluva procedimento tam  m cx 9 pares medix 
-p307
-aVfeijao macassar 9 kg
-p308
-aVoxigenio med  em cil  9 m 9 tq 9 na 9 onu
-p309
-aVovos de galinha bandeja c  9 unidades sao luis
-p310
-aVcomplexo b im iv inj 9 ml amp
-p311
-aVbucha kit mp prestolite m 9 r vw   ford cummins
-p312
-aVsulfadiazina de prata 9 mg g cr 9 g gen 
-p313
-aVoxig nio med cil om 9 m 9 onu 9 9 9 9
-p314
-aVgarrafa pet cp 9 l ct
-p315
-aVacrysof sa 9 at 9 g ms 9 lote 9 val 9 9 
-p316
-aVnorfloxacino 9 mg cpr
-p317
-aVesponja multiuso unid 9 x 9
-p318
-aVluva procedimento tam p cx  9 pares
-p319
-aVdobutamina 9 mg 9 ml amp g 
-p320
-aVdecnazol 9 mg c 9 comp pharla pharlab hosp 
-p321
-aVnorepinefrina 9 mg ml cx c  9 amp
-p322
-aVtinta lux colorir 9 l azul turquesa
-p323
-aVcimento elizabeth cp ii z 9 c 9 kg
-p324
-aVcimento de 9 kgs
-p325
-aVdiazepan 9 mg cx 9 comp b 9 santisa
-p326
-aVdetergente 9 l fd
-p327
-aVrefrigerante lim o  peti c  9 l
-p328
-aVmeropenem 9 g c 9 fa generico abl antibioticos do bras 
-p329
-aVjg pastilha freio
-p330
-aVoxigenio medicinal cil pp  
-p331
-aVpapel grau cirurgico 9 cmx 9 mt rl
-p332
-aVcomplexo b amp im iv l 9 q 9 f  v 
-p333
-aVmargarina extra cremosa c sal embal 9 g
-p334
-aVjg pastilha freio
-p335
+p48
+aVvitamina c 9 mg f a 9 ml farmace
+p49
+aVpapel camurca todas as cores
+p50
+aVcal supercal 9 kg
+p51
+aVovos granja mauricea c 9
+p52
 aVar comprimido 9 m 9
-p336
-aVshine dry 9 lt
-p337
-aVtecido tnt 9 x 9 m cores diversas
-p338
-aVcalcitriol caps 9 mg
-p339
+p53
+aVdetergente concentrado neutro 9 lt
+p54
+aVbanana
+p55
+aVvinagre de alcool embal c 9 ml
+p56
+aVacido urico 9 x 9 ml marca biotecnica lote 9 h 9 a
+p57
+aVaso latex direto 9 testes
+p58
+aVplaxmatic 9 9 l detergente umectante p roupas
+p59
+aVtransferencia de saldo credor de icms
+p60
+aVfita dupla face eurocel 9 x 9 sf 9
+p61
+aVluvas em latex
+p62
+aVsais reidratante oral env
+p63
+aVcoentro
+p64
+aVplaxmatic 9 9 l detergente umectante p roupas
+p65
+aVanel
+p66
+aVarroz parbolizado
+p67
+aVomeprazol 9 mg injetavel cx 9 ampolas cristalia
+p68
+aVkit contrato 9 am
+p69
+aVcloridrato de ciprofloxacino 9 mg prati donaduzzi
+p70
+aVfita adesiva para autoclave 9 x 9 m missner
+p71
+aVformula didatico polipac
+p72
+aVpds ii vlt 9 9 9 cm ps 9 z 9 g marca ethicon
+p73
+aVtijolo 9 furos
+p74
+aVlevofloxacino 9 mg ml 9 ml
+p75
+aVclips niquelado mat metal tamanho 9/9
+p76
+aVcimento endodontico sealer 9
+p77
+aVclips n 9/9 9 g
+p78
+aVartelac col 9 ml
+p79
+aVjogo de cabo de vela de ignicao
+p80
+aVfaixa em impress o digital lona 9 gr
+p81
+aVamoxicilina 9 mg prati l 9 v 9/9
+p82
+aVpapel oficio c 9
+p83
+aVcefalexina 9 ml ml po o susp oral fr 9 ml
+p84
+aVpreservativo nao lubrificado
+p85
+aVficha de fisioterapia
+p86
+aVnutrison 9 energy tetra 9 ml cx c 9 lot 9 fab val
+p87
+aVatadura de crepom 9 cm 9 alg 9 fios polar
+p88
+aVcartolina guache fosco 9 x 9 cores vmp
+p89
+aVprometazina 9 mg comp teuto
+p90
+aVflores naturais
+p91
+aVheparina sodica 9 ui 9 ml inj sub 9 amp
+p92
+aVhioscina dipirona 9 mg cx 9 comp pharlab
+p93
+aVhidrocortisona 9 mg injetavel cx 9 ampolas
+p94
+aVpapel higienico c 9
+p95
+aVleite em po italac int 9 x 9 gr
+p96
+aVmetronidazol 9 mg generico cprs prati donaduzzi pr
+p97
+aVfita adesiva 9 x 9 acrifit transp
+p98
+aVkolagenase c cloraf pom 9 gr f
+p99
+aVrefeicoes
+p100
+aVcaldo de galinha 9 x 9 g
+p101
+aVfluconazol 9 mg ml 9 ml sist fechado
+p102
+aVbaton bastao choc leite
+p103
+aVluva sold 9 mm corr plastik
+p104
+aVcabo multiplex mono 9 mm
+p105
+aVaddera d 9 sol or fr gts 9 ml
+p106
+aVceftriaxona 9 g po sol inj im iv cx 9
+p107
+aVoleo spray white lub anti ferr 9 ml
+p108
+aVmadeira mirindiba serrada em tabua
+p109
+aVar comprimido 9 m 9
+p110
+aVfurosemida 9 mg 9 ml l 9 q 9 f v
+p111
+aVbombom sortidos garoto 9 gr
+p112
+aVluva cirurgica esteril n 9 c inmetro antiderrapante cx c 9 marca maxitex
+p113
+aVleite em po integral saco 9 g
+p114
+aVdexclorfeniramina 9 mg maleato l 9 q 9 f v l 9 q 9 f 9/9
+p115
+aVocitocina 9 ui inj 9 ml cx 9 oxiton
+p116
+aVazitromicina 9 mg c 9 comp medquimica medquimica
+p117
+aVcimento de 9 kgs
+p118
+aVtenoxican 9 mg inj cx 9
+p119
+aVgrampo 9 com 9
+p120
+aVgoiaba
+p121
+aVlevomepromazina 9 mg 9 cp c 9 lote 9 valid 9
+p122
+aVnitrogenio liq caminhao tanque
+p123
+aVpapel grau cir ph 9 mmx 9 mt
+p124
+aVplaxmatic 9 9 l alvejante l quido
+p125
+aVmetronidazol 9 mg comp gen
+p126
+aVjg reparo pinca
+p127
+aVflocao sao braz 9 x 9 g
+p128
+aVchuchu
+p129
+aVmassa acri 9 l hidrotintas
+p130
+aVcaptopril 9 mg g cx c 9 mario
+p131
+aVplaca em t peq frag ang reto 9 x 9 f iol lote iol 9/9 iol 9/9 ropm 9
+p132
+aVsaco p lixo comum 9 l pr
+p133
+aVl 9 lona freio mb 9 vw 9/9 fd 9
+p134
+aVoxigenio med em cil 9 m 9 tg 9 na un 9
+p135
+aVbucha fixdura d 9 fischer benfixa
+p136
+aVovo de galinha
+p137
+aVbenzilpenicilina 9 cx 9
+p138
+aVpilha media c 9 und
+p139
+aVdimorf 9 mg ml inj
+p140
+aVhidrocortisona 9 mg creme 9 g uniao quimica
+p141
+aValbumina humana 9 9 ml
+p142
+aVpolivitamina gotas dt validade 9
+p143
+aVpiperacilina sod 9 g tazobactam sodico 9 g po p sol inj
+p144
+aVkollagenase c cloraf bisn 9 g cx 9
+p145
+aVparafuso 9 f 9
+p146
 aVpapel oficio a 9 report 9 x 9 c 9 fls
+p147
+aVloratadina 9 mg 9 bl x 9 comp cx c 9 comp
+p148
+aVpapel guache 9 x 9
+p149
+aVcarbamazepina 9 mg c 9 cx 9 comp medley
+p150
+aVneomicina bacitracina 9 g sobral neo
+p151
+aVparacetamol 9 mg tylalgin cpr
+p152
+aVesm sint gl marrom conhaque hidro
+p153
+aVbarra de direcao palio 9
+p154
+aVluva algodao mesclada pigmento preto
+p155
+aVkit pnld
+p156
+aVtijolos de lajota com oito furos
+p157
+aVnebaciderme 9 g pomada mult
+p158
+aVoxigenio liquido caminh tanque
+p159
+aVcaldo de galinha e carne knor tira c 9
+p160
+aVdipirona envelope c 9 dipimed n 9
+p161
+aVlaranja
+p162
+aVtorta de caro o de algod o sc 9 kg
+p163
+aVbaclofeno 9 mg c 9 comp teuto teuto
+p164
+aVlugol forte 9 ml marca renylab lote 9
+p165
+aVpd 9 pastilha freio ecosport fiesta pd 9
+p166
+aVceftriaxona 9 g iv im s dil cx 9 amplospec
+p167
+aVsoro anti a monoclonal 9 ml marca prothemo
+p168
+aVarroz cacarola parbolizado 9 kg
+p169
+aVtijolos 9 furos
+p170
+aVf trigo esp r branca 9 x 9 kg c ferm
+p171
+aVregua lat gel cml h 9 9 mm sav
+p172
+aVsulfa trimetropina 9 ml sobral
+p173
+aVcoentro
+p174
+aVargamassa unimassa ac 9 revestimento 9 kg
+p175
+aVpastilha sanitaria tri d lavanda 9 g
+p176
+aVagua mineral 9 litros
+p177
+aVacebrofilina 9 mg ad 9 ml
+p178
+aVmiconazol 9 p creme vaginal
+p179
+aVomeprazol 9 mg c 9 fr c dil oprazon
+p180
+aVfita adesiva pvc 9 x 9 color pp 9 pp 9 eurocel
+p181
+aVpds ii vlt 9 9 9 cm ps 9 z 9 g marca ethicon
+p182
+aVsuco de fruta
+p183
+aVciprofloxacina 9 mg 9 ml ciprobacter cx 9
+p184
+aVbanana
+p185
+aVtecido brim prof 9 algodao amarelo
+p186
+aVparaf allen s cab inox 9/9 x 9/9 ciser
+p187
+aVmdf branco tx 9 f 9 x 9 x 9 mm
+p188
+aVatadura de crepe de 9 cm c 9 neve
+p189
+aVlaranja pera
+p190
+aVcimento elizabeth cp ii z 9 c 9 kg
+p191
+aVmetoclopramida 9 mg ml
+p192
+aVgasolina comum
+p193
+aVampicilina 9 mg
+p194
+aVfita adesiva 9/9 mat crepe cor bege
+p195
+aVcorante amarelo 9 ml globo
+p196
+aVprotese cabeca de radio 9 mm lote l 9
+p197
+aVpapel oficio a 9 report 9 x 9 c 9 fls
+p198
+aVsaco para lixo branco hospitalar 9 lt
+p199
+aVoxigenio 9 m 9
+p200
+aVfolha de isopor 9 mm
+p201
+aVnylon mon preto 9 9 c ag 9/9 9 cm cx c 9
+p202
+aVenoxaparina sodica 9 mg 9 ml cx 9
+p203
+aVdoce de leite pastoso sem corantes embal c 9 gr marca triangulo
+p204
+aVcimento cpii z 9 rs nbr 9 nbr 9
+p205
+aVverniz sparlack extra marit brilh 9 ml
+p206
+aVkit pnld
+p207
+aVlamina de bisturi c 9 9 labor
+p208
+aVkit andamento titan 9 riffel
+p209
+aVdobradica 9 x 9 chumbar
+p210
+aVsoro fisiologico 9 sist fec 9 ml
+p211
+aVveja multiuso original 9 ml
+p212
+aVpastilha freio fiat 9 p 9 lonaflex
+p213
+aVrolo de la 9 cm atlas
+p214
+aVdiazepam 9 mg 9 cp b 9
+p215
+aVoleo 9 w 9 9 l brutu
+p216
+aVtelhas colonial tipo 9
+p217
+aVambroxol infantil xpe c 9 ml lote 9
+p218
+aVficha de acompanhamento pedag do diretor
+p219
+aVamilase cinetica cnpg 9 testes 9 ml teste cat 9 9/9 marca labtest imposto ibpt nacional 9
+p220
+aVoxigenio samu
+p221
+aVgoiaba
+p222
+aVfita adesiva autoclave 9 mm x 9 m
+p223
+aVoleo diesel b s 9 no onu 9 cl 9 grp
+p224
+aVvalproato sd 9 mg ml 9 ml c 9
+p225
+aVflanela media 9 x 9
+p226
+aVoxig nio med em cil 9 m 9 9 9 na 9 onu
+p227
+aValavanca seldin jogo adulto c 9
+p228
+aVbatata inglesa da terra
+p229
+aVmetronidazol 9 g 9 mg 9 g creme
+p230
+aVfiltro
+p231
+aVcompexo b liquido fr 9 ml medqu
+p232
+aVversatil clor bd 9 kg
+p233
+aVovos de galinha
+p234
+aVdiesel s 9
+p235
+aVmetformina 9 mg 9 cp
+p236
+aVjunta tpa valvula
+p237
+aVveste para vel rio feminino
+p238
+aVglicosado 9 sol inj 9 ml sist fechado
+p239
+aVnoex 9 mcg c 9 doses
+p240
+aVbanana
+p241
+aVpapel lencol 9 x 9 cm saporro
+p242
+aVoxigenio 9 mts
+p243
+aVkit cor pin corr yam xtz 9 lander
+p244
+aVtransferencia de saldo credor de icms
+p245
+aVoleo diesel b s 9
+p246
+aVoxigenio ppu
+p247
+aVblue amaciante bactericida p roupas 9 lts
+p248
+aVferro 9 mm 9/9 reto
+p249
+aVpapel oficio a 9 9 x 9 c 9 fls
+p250
+aVazitromicina 9 mg susp fr 9 ml pharlab
+p251
+aVmetronidazol sol a 9 9 ml c 9 gen
+p252
+aVfiltro
+p253
+aVhidroxido de aluminio 9 ml sobral
+p254
+aVjg pastilha freio traseiro
+p255
+aVdiesel comum
+p256
+aVovos bandeja c 9 und
+p257
+aVmargarina produzida excl de gordura vegetal adicao de sal com gordura trans embal c 9 gr marca deline
+p258
+aVkit polimento de amalgama
+p259
+aVcimetidina 9 mg cpr g
+p260
+aVoleo diesel bs 9
+p261
+aVaceclofenaco 9 mg creme
+p262
+aVluva ciriugica est n 9 lt 9
+p263
+aVneomicina bacitracina pomada 9 g lote 9/9
+p264
+aVesmalte sintetico 9 lt
+p265
+aVremoved cera becker tira facil c 9 lt 9
+p266
+aVtinta lux luxcril acrilica 9 lt br neve
+p267
+aVdivisoria em madeira naval semi oca com revestimento laminado na cor cinza
+p268
+aVa plasticos saco impr a d ne 9 x 9 x 9 mh
+p269
+aValphagan p col 9 ml
+p270
+aVtransferencia de saldo credor de icms
+p271
+aVcaneta compactor 9 c 9 az
+p272
+aVplaca isopor 9 mm
+p273
+aVclonazepam 9 mg c 9 cpr s zilepam b 9 geolab go
+p274
+aVnovo codigo de processo civil comparado e anotado 9 edicao
+p275
+aVlubrax top turbo 9 w 9 9 l
+p276
+aVamiodarona 9 mg 9 cp
+p277
+aVmetronidazol gel vaginal 9 mg g
+p278
+aVpapel a 9 9 9 9 g amarelo
+p279
+aVovo medio c 9 sonovo
+p280
+aVibuprofeno xpe inf ibuprotrat 9 ml
+p281
+aVchuchu
+p282
+aVpino tramontina femea 9 p pote c 9
+p283
+aVareia
+p284
+aValcool 9 c 9 litros
+p285
+aVrefrigerante lim o peti c 9 l
+p286
+aVoxigenio med em cil 9 m 9 tq 9 na 9 onu
+p287
+aVduramais 9 l branco neve lux
+p288
+aVmacaranduba madeira serrada ripa
+p289
+aVfosfatase alcalina liquiform ref 9 9/9 lote 9 validade
+p290
+aVgrelha quadrada br 9 x 9 cm gr 9
+p291
+aVdiazepam 9 mg 9 cp b 9
+p292
+aVarla 9 9 lt
+p293
+aVovos c 9 und
+p294
+aVoleo diesel b s 9 comum
+p295
+aVatropina 9 mg sol inj amp 9 ml isofarma p
+p296
+aVcasinha divertida 9 monte libano
+p297
+aVarruela lisa inox 9/9
+p298
+aVpapel 9 kg a 9 branco
+p299
+aVheparina sodica 9 ui sol inj
+p300
+aVesparadrapo impermeavel 9 cm x 9 mt
+p301
+aVevolu o
+p302
+aVrpr bras estab p vdrl 9 x 9 ml 9 testes
+p303
+aVtubo pvc 9 mm pn 9 c 9 mts er met
+p304
+aVrefrigerante 9 lt
+p305
+aVtubo sul minas pvc sold 9 mm 9 mt
+p306
+aVpapel linho tam a 9 c 9 und bco offpaper
+p307
+aVparafuso 9 x 9
+p308
+aVmastro em alum nio com ponteira cromada acompanhado de 9 base nica em madeira
+p309
+aVcetoconazol 9 mg comp prati donaduzzi
+p310
+aVoxigenio medicinal cil t 9 m 9
+p311
+aVblocos receitu rio de controle especial
+p312
+aVoleo diesel s 9
+p313
+aVclor cefepima 9 g po p sol inj cx 9 f cefepima cloridrato aurobindo
+p314
+aVamortecedor dianteiro
+p315
+aVspectaban t col b m fps 9 9 ml
+p316
+aVmetronidazol gel vag 9 mg g
+p317
+aVfio 9
+p318
+aVcola silicone 9 gr polystic
+p319
+aVfer n 9 zamac cr contra fech de abrir aba
+p320
+aVcenouras e nabos frescos ou refrigerados
+p321
+aVfita adesiva autoclave 9 mm x 9 m
+p322
+aVnylon 9 9 c ag 9 cm cx 9
+p323
+aVclorpromazina gotas 9 mg 9 ml c 9 lote 9
+p324
+aVbilirrubina ref 9 lote 9 validade
+p325
+aVoleo dulub hidraulico 9 9 lt
+p326
+aVluva cir esteril 9
+p327
+aVatadura crepom 9 cm pct c 9
+p328
+aVpapel a 9 9 g
+p329
+aVestriol creme vaginal 9 mg 9 g
+p330
+aVcloreto de sodio solucao 9 c 9 ml fresenius
+p331
+aVoxigenio 9 m 9
+p332
+aValbendazol 9 mg c 9 cpr gen
+p333
+aVgnaisse po de pedra 9 x 9 mm
+p334
+aVfluoxetina 9 mg 9 caps
+p335
+aVpapel camurca todas as cores
+p336
+aVtenoxicam inj uniao quimica
+p337
+aVluva cirurgica n 9 esteril marca mucambo
+p338
+aVfr latex 9 ml marca biotecnica lote 9 h 9 a
+p339
+aVjg junta completo
 p340
-aVcimento cpii z 9 saco 9 kg
+aVglicose monoreagente quibasa
 p341
-aVarla 9 flua petrobras 9 l
+aVamortecedor tras esq
 p342
-aVoleo thf 9 lubrax 9 litros
+aVjg de pcs do elemento
 p343
-aVvarao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+aVneomicina bacit pom nebactrina 9 gr
 p344
-aVnylon mon  preto 9 9 c  ag  9/9 9 cm cx c 9
+aVsaco plast transparente 9 x 9 micras
 p345
-aViquine dialine esm 9 l cinza medio bri 
+aVbolacha crean ckacer 9 gr
 p346
-aVatadura crepom 9 cm pct c  9
+aVtubo de latex n 9 pct c 9 m 9 r latex lote 9
 p347
+aVovos de galinha emb c 9 und
+p348
+aVreparo cabecote comp ar wabco vw 9 contellation
+p349
+aVbenzilpenicilina benzatina 9 ui
+p350
+aVmetildopa 9 mg cx 9 comp g
+p351
+aVovos granja cascavel bd c 9 un
+p352
+aVfita isolante 9 m display amanco
+p353
+aVpasta c grampo plast azul acp
+p354
+aVarla 9 9 lt
+p355
+aVoleo mineral 9 ml natulab
+p356
+aVluva de procedimento m cx 9
+p357
+aVtinta esmalte branco gelo kg
+p358
+aVparacetamol 9 mg ml gts 9 ml
+p359
+aVprednisolona fosf sod 9 mg ml 9 ml prati prati donaduzzi
+p360
+aVpilha rayovac media c 9
+p361
+aVomeprazol 9 mg injet vel
+p362
+aVsaco para lixo preto 9 lt
+p363
+aVcasa grande de atividade 9 monte libano
+p364
+aVmarreta oitavada 9 g forjada ref 9/9
+p365
+aVsorda preta
+p366
+aVparaf cortical 9 x 9 mm iol ropm 9
+p367
+aVbiperideno 9 mg uniao quimica
+p368
+aValivium 9 ts 9 mg c 9 comp
+p369
+aVsinvastatina sinvaston 9 mg comp sanval
+p370
+aVpapel filipaper casca de ovo branco 9 g fl
+p371
+aVequinos 9 ma 9 kg
+p372
+aValmo o
+p373
+aVnidazofarma 9 inj c 9 ml farmace farmace
+p374
+aV9 neuroestimulador implantavel activa pc canal duplo
+p375
+aVreparo
+p376
+aVkit pnld
+p377
+aVsuxametonio 9 mg marca blau
+p378
+aVlava pisos
+p379
+aVcutenox sod 9 mg 9 ml c 9 seringas biochimico
+p380
+aVecofilm col 9 ml latinofar
+p381
+aVfentanila citr 9 ug ml 9 ml hipolabor a 9
+p382
+aVflagass baby gts fr 9 ml
+p383
+aVcaptopril 9 mg cpr
+p384
+aVtijolos ceramico 9 furos 9 9 x 9
+p385
+aVtijolo de ceramica 9 furos
+p386
+aVcarbamazepina 9 mg cpr brainfarma
+p387
+aVterno completo kgs
+p388
+aVtubo plastubos agua sold pb de 9 mm
+p389
+aVamoxicilina 9 mg susp 9 ml s cx prati prati donaduzzi
+p390
+aVparafuso latao mq unc 9/9 x 9/9 completo
+p391
+aVkronel gel ginecologico
+p392
+aVtinta lux luxcril acrilica 9 lts azul p
+p393
+aVcimento elizabeth
+p394
+aVacido urico liquiform ref 9 9/9 lote 9 validade
+p395
+aVcopo descartavel copobras 9 ml
+p396
+aValmotolia plast bico reto 9 ml j prolab l 9 val indet
+p397
+aVcart 9 grs 9 x 9 mm 9 fls canario
+p398
+aVbota elast s cadarco 9 crival
+p399
+aVcarbamazepina 9 mg teuto l 9 f 9/9 v 9/9
+p400
+aVmetildopa 9 mg c 9 comp imposto ibpt nacional 9
+p401
+aVextralux 9 l branco
+p402
+aViguatemi floral bb 9 l desinfetante liquido
+p403
+aVfecula de mandioca lopes 9 kg qtd 9 un
+p404
+aVcp ii z 9 cimpor uso geral saco 9 kg
+p405
+aVpapel a 9 9 x 9 c 9 fls report
+p406
+aVw colcimentcolaintcinzaac 9 kgplh
+p407
+aVranitidina 9 mg ml 9 ml cx c 9 hypofarma
+p408
+aVovos c 9 und
+p409
+aVvassoura piacava vila limpa tam m
+p410
+aVdiazepam 9 mg cx 9 comp b 9
+p411
+aVsaco p lixo 9 lt dona limpa
+p412
+aVovos com 9 marca lourdes hortifrut
+p413
+aVproteina texturizada de soja supresoy carne 9 g
+p414
+aVtransaminase tgo colorimetrico bioclin
+p415
+aVpaver brick 9 cm natural 9 mpa
+p416
+aVbota p const elastico hawai n 9 9 par
+p417
+aVescopolamina dipirona sodica inj
+p418
+aValgodao hidrof 9 g
+p419
+aVcolesterol hdl enzimatico 9 testes 9 ml teste cat 9 9 marca labtest imposto ibpt nacional 9
+p420
+aVpano de prato c 9 ud
+p421
+aVcabo flexivel 9 mm 9/9 kv
+p422
+aVceftriaxona sodica 9 g inj amp g
+p423
+aVmetronidazol 9 mg gel vag apl bisn 9 gr prati donaduzzi
+p424
+aVesm extralux 9 l cinza medio
+p425
+aVpapel oficio a 9 report 9 x 9 c 9 fls
+p426
+aVcabo flexivel 9 mm c 9 m megacampos
+p427
+aVmassa corrida 9 l balde
+p428
+aVatadura crepom 9 cm pct c 9
+p429
+aValbendazol 9 mg ml susp g rati
+p430
+aVmanual de direito civil volume unico 9 ed 9
+p431
+aVmassa pva hidracor balde 9 kg
+p432
+aVparoxetina c 9 9 mg
+p433
+aVagua bidestilada cx c 9 amp x 9 ml farmace lt 9 e 9 fab val
+p434
+aVfosforo
+p435
+aVatenolol 9 mg cx 9 comp vitamedic
+p436
+aVtornozeleira nylon emborrachado 9 kg
+p437
+aVgaze em rolo tipo queijo 9 dobras de 9 cmx 9 m megatex
+p438
+aVcenoura
+p439
+aVlapis de cor labra grande
+p440
+aVcano tubo de 9 esgoto
+p441
+aVhyplex b inj cx 9 amp complexo b
+p442
+aVesponja de aco c 9 und
+p443
+aVceram eliz 9 a cristal vermelho
+p444
+aVcreatinina ref 9 9 lote 9 validade
+p445
+aVreuquinol 9 mg com 9 cpr
+p446
+aVacrysof sa 9 at 9 g ms 9 lote 9 val 9 9
+p447
+aVprometazina 9 mg c 9 cristalia sp
+p448
+aVrapadura
+p449
+aVovo bandeja c 9 unds
+p450
+aVluva cirurgica de latex 9 maxitex
+p451
+aVextrato de tomate 9 g
+p452
+aVmonarch cart p acrysof iib ms 9 lote 9 val 9 9
+p453
+aVescova de robson
+p454
+aVoxigenio samu
+p455
+aVmetildopa 9 mg sanval tensioval
+p456
+aVdexa 9 g creme 9 mg g
+p457
+aVluva cirurgica esteril n 9 imposto ibpt nacional 9
+p458
+aVoxcarbazepina 9 mg c 9
+p459
+aVenvelope carta pequeno
+p460
+aVsais p reidratacao oral envel natulab
+p461
+aVgamax com 9 cpr
+p462
+aVtampa lateral comp c titan 9/9 pintada s ad
+p463
+aVmaca gala grande kg
+p464
+aValcool 9 gel 9 ml vic pharma
+p465
+aValmondegas ao molho de tomate 9 g
+p466
+aVsaco para lixo preto 9 l
+p467
+aVhaloperidol 9 mg cx 9 halo c 9
+p468
+aVcolesterol liquiform ref 9 9 lote 9 validade
+p469
+aVtomate
+p470
+aVporta em madeira massaranduba
+p471
+aVampicilina 9 mg caps gen
+p472
+aV9 sulfato ferroso 9 mg
+p473
+aVazitromicina 9 mg ml 9 mg pharlab lote 9
+p474
+aVampicilina 9 g c 9 gen
+p475
+aVtriglicerideo enzimatico c 9 testes lt 9
+p476
+aVpapel oficio a 9 caixa c 9 resmas
+p477
+aVbase do amortecedor
+p478
+aVtecido tnt cor div 9 x 9 m 9 p polipropilento
+p479
+aVbabymed rosa 9 g cimed
+p480
+aVbenzilp benz 9 ui inj 9 ml
+p481
+aVjogo junta superior c ret
+p482
+aVpadrao placar estampado com 9 cmisas
+p483
+aVleite em p
+p484
+aVluva latex ilado tricotada
+p485
+aVcoentro verde
+p486
+aVar medicinal cil k 9 m 9
+p487
+aVpapel a 9 copimax 9 x 9 c 9 fls 9 x 9
+p488
+aVpapel toalha c 9 caprice
+p489
+aVovos c 9 und
+p490
+aVcafe nordestino 9 g
+p491
+aVbota seg elastico 9 linha
+p492
+aVceftriaxona amplospec 9 g f a biochimico
+p493
+aVporca sext 9/9 unc galv
+p494
+aVpiso cer porto rico 9 x 9 classic cinza atom 9
+p495
+aVbanana prata
+p496
+aVveda bem impermeabilizante azul 9 lt
+p497
+aVcarne com osso
+p498
+aVdreno penrose n 9
+p499
+aVcefalexina 9 mg 9 ml g
+p500
+aVdermaid locao oleosa corp 9 ml do 9
+p501
+aVcap soldavel 9 mm tigre
+p502
+aVcoentro
+p503
+aVluva procedimento tam m cx 9 pares medix
+p504
+aVsal campeao 9 kg comum iodado
+p505
+aVfeijao carioca tipo 9 9 x 9 kg
+p506
+aVabacaxi
+p507
+aVoxigenio 9 m 9
+p508
+aVcx gordura tigre dn 9
+p509
+aVcabo duplex 9/9 kv 9 x 9 x 9 mm
+p510
+aVcartilha do ministerio da saude
+p511
+aVpapel cart o filiper a 9 bc
+p512
+aVatadura de crepom 9 cm x 9 9 fios c 9
+p513
+aVcoentro mol
+p514
+aVluvas cirurgicas 9
+p515
+aVvenlaxin 9 mg com 9 cpr
+p516
+aVovo de galinha
+p517
+aVcaldo de galinha constitu do basicamente de
+p518
+aVpapel oficio
+p519
+aVdialine esm platina gl gl 9 x 9
+p520
+aVfurosemida 9 mg ml 9 ml sol inj
+p521
+aVvaselina pomada 9 g
+p522
+aVjunta retificacao valv fiat 9 9 flex sabo
+p523
+aVlevonorg etinilest 9 caps
+p524
+aVoxacilina sodica 9 mg inj
+p525
+aVtinta acril pintapiso 9 lt cz medio coral
+p526
+aVmacarrao tipo espaquete 9 g
+p527
+aVfrioasfalto 9
+p528
+aVoxigenio 9 m 9
+p529
+aVhidrocortisona gliocort 9 mg po inj novafarma
+p530
+aVbrita 9
+p531
+aVamoxicilina 9 mg susp 9 ml s cx prati prati donaduzzi
+p532
+aVsais para reidratacao oral 9 g lt 9 d
+p533
+aVbotina de seguranca confecc em couro n 9
+p534
+aVsoro fisiolog 9 9 ml
+p535
+aVpapel higienico personal lavanda 9 r 9 m
+p536
+aVluva cirurgica 9 esteril
+p537
+aVmacarrao tipo espaquete 9 g
+p538
+aVdipirona sodica 9 mg comp hosp
+p539
+aVhistamin liq 9 ml sabor cereja 9
+p540
+aVlustra moveis perfumado 9 ml
+p541
+aVfita 9 x 9 carvalho 9 m r
+p542
+aVarmacao 9 x 9 nuclear tributos incidentes 9 r 9 fonte ibpt
+p543
+aVfeijao macassar 9 kg
+p544
+aVbiscoito doce maria 9 gr
+p545
+aVdiesel s 9
+p546
+aVoxigenio liquido caminh tanque
+p547
+aVoxigenio medicinal cil pp
+p548
+aVnitrofurasona pomada prati l 9 v 9/9
+p549
+aVestagio supervisionado o cortez
+p550
+aVatadura de crepom 9 cm x 9 9 fios c 9 imposto ibpt nacional 9
+p551
+aVgasolina comum
+p552
+aVextralatex branco neve 9 lt hidracor
+p553
+aVconj pagao para maternidade 9 par de sapato 9 par de luvas 9 pano de chupeta e 9 lencol de xixi 9 algodao
+p554
+aVlinha 9 x 9
+p555
+aVbutilescopolamina dipirona sodica 9 ml cx 9 amp
+p556
+aVcimento 9 kg
+p557
+aVcp ii z 9 cimpor uso geral saco 9 kg
+p558
+aVpiso cerbras 9 x 9 pei 9 a neve plote
+p559
+aVondansetrona 9 mg 9 ml sol inj cx 9 ampolas
+p560
+aVficha laudo
+p561
+aVcabo flex 9 kv 9 mm corfio pr
+p562
+aVmassa corrida 9 l balde
+p563
+aVhalo 9 mg haloperidol 9 cpr c 9
+p564
+aVpapel grau cirurgico medio 9 mm x 9 m lote 9
+p565
+aVoxig nio med cil om 9 m 9 onu 9 9 9 9
+p566
+aVdecnazol 9 mg c 9 comp pharla pharlab hosp
+p567
+aVoxigenio 9 m 9
+p568
+aVsaco lixo ultraplast 9 l preto
+p569
+aVsaco para lixo branco hospitalar 9 lt
+p570
+aVsal campeao 9 kg
+p571
+aVbateria dtz 9
+p572
+aVr 9 planetaria coniflex 9 d
+p573
+aVfardamento profissional
+p574
+aVparafuso sext 9/9 x 9 c porca
+p575
+aVpapel madeira
+p576
+aVfio de sutura de uso medico hospitalar tipo absorvivel em catgut simples 9 fio de 9 a 9 cm com agulha cilindric
+p577
+aVar comprimido cil linde 9 l 9 m 9 vz onu 9 ar comprimido 9 9
+p578
+aVpapel dobradura espelho brilho 9 x 9
+p579
+aVclindamicina 9 mg fosfato item generico l aa 9/9 q 9 f v
+p580
+aVmangueira cristal 9 x 9 mm plastiman
+p581
+aVtransferencia de saldo credor de icms
+p582
+aVnistatina 9 ui ml sus 9 ml
+p583
+aVfiltro
+p584
+aVbase coralservice coralmur 9 lt t
+p585
+aVatadura crepe 9 cm x 9 m ortoflex
+p586
+aVsifao univ ssum br 9 astra
+p587
+aVeva em folha c 9
+p588
+aVraio jg trazeiro 9
+p589
+aVovos c 9 und
+p590
+aVluva esteril n 9
+p591
+aVoleo diesel b s 9 original
+p592
+aVmetronidazol 9 mg g gel vaginal 9 bg 9
+p593
+aVmiconazol 9 loc 9 ml
+p594
+aVagua destilada 9 ml cx c 9 lote 9
+p595
+aVtinta rende muito 9 lts verde kiwi
+p596
+aVtom 9 pt 9 a claris c pl prm 9 tributos incidentes 9 r 9 fonte ibpt prm 9
+p597
+aVcartucho hp 9 c 9 bb preto
+p598
+aVfluxon 9 mg c 9 comp neo hosp neo hospitalar
+p599
+aVlorazepam 9 mg l 9 q 9 f v portaria 9/9 b 9
+p600
+aValbendazol 9 mg 9 cp
+p601
+aVpapel a 9 rino rs
+p602
+aV9 amitripitilina 9 mg comprimido
+p603
+aVhidrocortisona 9 mg
+p604
+aVpapel contact transp 9 cm larg
+p605
+aVovos de galinha
+p606
+aVbilirrubina colorimetrica 9 9 testes 9 9 ml teste cat marca labtest
+p607
+aValcool etilico 9 9 ml ricie
+p608
+aVbobina p ester 9 mm x 9 m vedamax l 9 val 9/9
+p609
+aVcimento sc 9 k cimpor
+p610
+aVcelestrat xpe 9 ml uniao quim
+p611
+aVsyphilis ice c 9 t lote d 9 marca diasorin
+p612
+aVcanela
+p613
+aVvinagre de alcool para culinaria embal c 9 ml
+p614
+aVpapel filme
+p615
+aVservico de suporte tecnico operacional e
+p616
+aVcopo descart vel caixa c 9 unid copobras
+p617
+aVbatata inglesa
+p618
+aVar med cil 9 m 9 om 9 l onu 9 na 9 9
+p619
+aVgripee 9/9
+p620
+aVtinta esm sec rap 9 ml branco
+p621
+aVfarelo de soja 9 kg
+p622
+aVcarbono 9 face cx c 9 fls
+p623
+aVar medicinal cil k 9 m 9
+p624
+aVflocao sao braz 9 x 9 g
+p625
+aVcafe santa clara 9 g
+p626
+aVtinta luxcril 9 l azul profundo lux
+p627
+aVtirreno arla 9 9 l
+p628
+aVsab o em p guarani sach 9 x 9 g
+p629
+aVshine dry 9 lt
+p630
+aVoxigenio ppu
+p631
+aVrequeij o cremoso
+p632
+aVgama gt lote 9 validade
+p633
+aVbaclofeno 9 mg c 9 comp lote 9
+p634
+aVbio latex fr completo quibasa
+p635
+aVfio 9
+p636
+aVmacho 9/9 rosca gas
+p637
+aVkit embreagem fiorino 9/9 fire
+p638
+aVregua moldura cml h 9 9 mm fen
+p639
+aVfluconazol 9 mg cmp medqu
+p640
+aVsonda de aspiracao traqueal n 9 pct c 9 medsonda
+p641
+aVpinta piso azul gl gl 9 x 9
+p642
+aVcilindro de oxig nio de 9 m 9
+p643
+aVluva de procedimento p cx c 9 embramac
+p644
+aVpao tipo hot dog pct 9 g
+p645
+aVcaneta alta rotacao
+p646
+aVsulfato ferroso 9 mg c 9 comp
+p647
+aVcoentro mol
+p648
+aVcilindro de oxig nio de 9 m
+p649
+aVacucar
+p650
+aVar condicionado tipo split de 9 btu s
+p651
+aVcoloracao panotico rapido conj 9 x 9 ml
+p652
+aVmassa corrida latao eucatex
+p653
+aVluva de procedimento p cx 9
+p654
+aVpapel a 9 rino rs
+p655
+aVluva de cromo cano curto tributos incidentes 9 r 9 fonte ibpt
+p656
+aVfita kraft 9 sleeve 9 x 9 9 adelbra
+p657
+aVpds plus vlt 9 ct c ag 9 cm 9/9 cil cod pdp 9 h marca ethicon
+p658
+aVmebendazol susp und
+p659
+aVfita adesiva crepe 9 mm x 9 mm imposto ibpt nacional 9
+p660
+aVafolic 9 mg c 9 comp hosp natulab hosp
+p661
+aValgodao em rolo hidrofilo 9 gr marca melhor med
+p662
+aVannita 9 mg sus fr 9 ml
+p663
+aVfita adesiva 9 x 9 dupla face 9 adel
+p664
+aVoxigenio liquido caminh tanque
+p665
+aVoxigenio 9 m 9
+p666
+aVpapel hig big rool 9 x 9 branco
+p667
+aVseringa desc 9 ml c ag ls descarpack cirurgica fernandes
+p668
+aVfiltro
+p669
+aVjogo de juntas parcial do motor
+p670
+aVpsf tancredo neves sanit rio consult rio 9
+p671
+aVcetoconazol creme 9 g sobral
+p672
+aVliex soft 9 l amaciante a base de quatern rio
+p673
+aVsulfametoxazol trimetoprima 9/9 mg cx 9 cpr
+p674
+aVfiltro bacteriologico umidificador hmef adulto tubo extensor flexivel gvs do brasil
+p675
+aVpapel p e c g 9 mm x 9 mm daru
+p676
+aVciprofibrato 9 mg c 9
+p677
+aVbeterraba
+p678
+aVsapucaia serr em linha 9 m 9/9
+p679
+aVespironolactona 9 mg c 9 comp hip hipolabor hosp
+p680
+aVcimento 9 kg mizu cp ii
+p681
+aVgrafite mina 9 mm hb
+p682
+aVmetformina 9 mg cpr
+p683
+aVgasolina tipo c no onu 9 cl 9 grp emb ii
+p684
+aVcreatinina enzimatica lote 9 validade
+p685
+aVferro sinobras 9/9 const barra tributos incidentes 9 r 9 fonte ibpt 9
+p686
+aVluva soldavel 9 mm krona
+p687
+aVesparadrapo imp 9 cmx 9 m cremer
+p688
+aVfosfato mon sulf dissodico lote 9 valid 9
+p689
+aVletahcide plus bb 9 l
+p690
+aVpapel kraft ouro madeira 9 g m 9 9 x 9 cm
+p691
+aVvidro incolor 9 mm
+p692
+aVdexametasona 9 mg inj
+p693
+aVsal mimosal 9 kg
+p694
+aVleite em po italac 9 g
+p695
+aValcool gel 9 9 litros
+p696
+aVsoro ringer lactato 9 ml
+p697
+aVlacto purga env c 9 comp
+p698
+aVomeprazol 9 mg 9 ml dil cx 9 f a blausiegel
+p699
+aVoleo diesel b s 9 comum
+p700
+aVanel
+p701
+aVpapel a 9 branco
+p702
+aVoleo diesel b s 9 comum
+p703
+aVsaco p lixo infectante 9 l 9 x 9 pct c 9
+p704
+aVkit urina 9 areas lote 9 validade
+p705
+aViquine delanil acril fo 9 lt bco gelo
+p706
+aVtule ilusao nude
+p707
+aVsulfato de polimixina b 9 ui l 9 q 9 f v
+p708
+aVsaco 9 lts infectante c registro anvisa
+p709
+aVengov c 9 x 9 cpr
+p710
+aVcoloracao panotico rapido conj 9 x 9 ml
+p711
+aVginkobiloba 9 mg zydus
+p712
+aV9 u 9 9 b past freio
+p713
+aVdipirona 9 mg c 9 comp greenpharma greenpharma
+p714
+aVpapel higienico
+p715
+aVceftriaxona 9 gr iv cx 9 fa celltriaxon fab cellofarm
+p716
+aVmetildopa 9 mg cpr
+p717
+aValface crespa
+p718
+aVleite em po integral italac 9 x 9 g
+p719
+aValgodao 9 9 c ag 9 cm cx c 9
+p720
+aVfixador p raio x automatico p 9 lt cx papelao
+p721
+aVcj potes de vidro 9 pcs
+p722
+aVlampada compacta espiral 9 w golden
+p723
+aVmangote succao 9
+p724
+aVoximetro pulso de dedo md 9 c 9 marca choice mmed lote 9
+p725
+aVluva procedim top quality tam p 9 un medix
+p726
+aVpastilha de freio traseiro
+p727
+aVmeclin 9 mg c 9 comp
+p728
+aValgodao hidrofilo 9 gr
+p729
+aVcefalexina 9 mg comp gen
+p730
+aVcart 9 grs 9 x 9 mm 9 fls canario
+p731
+aVviapol ecoprimer manta barrica 9 l
+p732
+aVclaril 9 ml col
+p733
+aVpapel filme
+p734
+aVlidocaina a 9 s v 9 ml gen cx 9
+p735
+aVbutilbrometo escop 9 mg ml amp g
+p736
+aVazopt susp oft 9 ml
+p737
+aVfilme para ultrasom typi i normal upp 9 s 9 mm 9 m cx com 9 sony lote 9
+p738
+aVomeprazol 9 mg
+p739
+aVargamassa itatiunga aci 9 kg
+p740
+aVcolesterol mon 9 ml bioclin lotes 9 9 9
+p741
+aVoxido nitroso cil linde 9 l 9 kg vz onu 9 oxido nitroso comprimido 9 9 9
+p742
+aVvitamina k inj im
+p743
+aVfolha eva 9 x 9 lisa
+p744
+aVgase rolo 9 x 9 9 fios bio textil bio textil
+p745
+aVpapel higienico
+p746
+aVovo de galinha
+p747
+aVureia uv quibasa
+p748
+aVimpressora lazer samsung sl m 9 w
+p749
+aVluva rosc correr 9/9 tigre
+p750
+aVripa mista
+p751
+aVsaco para lixo preto 9 lt
+p752
+aVoxigenio medicinal cil t 9 m 9
+p753
+aVtec percal aracaju tinto 9 larg 9 alg
+p754
+aVparaf 9 x 9 cabeca chata phs bicro 9 x 9 mdf
+p755
+aVfiltro cj cabine carvao ativado
+p756
+aVpapel camurca branco art floc
+p757
+aVpapel oficio 9
+p758
+aVlidocaina 9 s v amp 9 ml hypocaina
+p759
+aVcartolina laminada verde
+p760
+aVglicose liquiform ref 9 9/9 lote 9 validade
+p761
+aVpapel oficio a 9 9 x 9 9 g copimax
+p762
+aVpentasa 9 mg cx 9 cpr mesalazina ferring
+p763
+aVbrometo de ipatropio 9 9 ml lote 9 l 9 valid 9
+p764
+aVatadura de crepom 9 f 9 cm x 9 m pct c 9 lote 9
+p765
+aValgodao hidrofilo 9 g pct 9
+p766
+aVretentor traseiro
+p767
+aVfita isolante tigre 9 x 9 mts
+p768
+aVjg lona freio diant tras vw 9 9 9
+p769
+aVjogo de pastilhas do freio diant
+p770
+aVoxigenio 9 m 9
+p771
+aVoxig nio med cil om 9 l
+p772
+aVoxigenio medicinal cil t 9 m 9
+p773
+aVtubo esg 9 mm plastubos
+p774
+aVocitocina sol inj 9 ui 9 ml iv im
+p775
+aVsab o em p guarani sach 9 x 9 g
+p776
+aVeletroduto corrugado 9 mm 9 mt amarelo
+p777
+aVpolpa cong de frutas canaa caja 9 kg
+p778
+aVbanana in natura
+p779
+aVpiso form 9 x 9 bandeirante cz a 9 9 m 9
+p780
+aVbenzilpenicilina 9 ui im
+p781
+aVgardenal 9 mg 9 cp
+p782
+aVneutrogena hid corporal 9 ml
+p783
+aVreps estamparia chitao
+p784
+aVparacetamol 9 mg fr c 9 ml lote g 9
+p785
+aVgaze hidrofila 9 cmx 9 m 9 fios stander nataly
+p786
 a.

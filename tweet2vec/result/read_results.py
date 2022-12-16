@@ -31,7 +31,7 @@ def predicted_table():
     f.close()
     a = a.split('\n')
 
-    f = open('../../data/data.txt', 'r')
+    f = open('../../data/test.txt', 'r')
     b = f.read()
     f.close()
     c = [x.split('\t') for x in b.split('\n')]
@@ -44,4 +44,4 @@ def predicted_table():
 
 d = predicted_table()
 predict = pd.DataFrame(d, columns=['predicted','unid. real','texto'])
-#predict.sort_values('unid. real').to_csv('predicted.csv', index=False)
+predict.sort_values('unid. real').to_csv('predicted.csv', index=False)

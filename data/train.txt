@@ -1,640 +1,644 @@
 indefinido	bolsaperfurostomiatransprecort 9 9 mm 9 lot 9 fab 9 9 9 val 9 9 9
 grama	coco ralado mais coco 9 g
 grama	bisc c cracker vitarella trad 9 g
-kg	versatil clor bd 9 kg
 indefinido	tampa tanque comb rsc int
 indefinido	adaptador bs r 9 9/9 x 9 mm pvc cardinali negrao
-indefinido	grelha quadrada br 9 x 9 cm gr 9
+indefinido	refil tinta t 9 amarelo epson
+kit	kit cor pin corr hda nxr 9 bros premium
+indefinido	caneta compactor 9 azul
+indefinido	pasta polionda 9 mm alaplast
+grama	colorifico dona clara 9 g
 comp	atroveran comp 9 x 9
 unidade	unid proc dig peq cap unid proc dig hp d
-unidade	nutrison 9 energy tetra 9 ml cx c 9 lot 9 fab val
-indefinido	corante amarelo 9 ml globo
-indefinido	lampada compacta espiral 9 w golden
-litro	refrigerante lim o peti c 9 l
-indefinido	primer 9 em 9 9 ml branco
+indefinido	viqua torneira lavatorio bm ref 9
+indefinido	cord o trancado 9 c 9 cm
+ml	primer 9 em 9 9 ml branco
+indefinido	pistola cola quente tubo fino leonora
+litro	desinfetante liquido 9 l
 comp	diosmin 9 mg cx 9 comp
+indefinido	pasta az lombo largo
 indefinido	lamina de bisturi n 9 med blade med goldman am lote 9
-kg	polpa cong de frutas canaa caja 9 kg
-grama	cafe nordestino 9 g
-indefinido	placa isopor 9 mm
+ml	adocante linea liq p 9 ml grt 9 ml
+indefinido	mascara desc c elastico descarpack
 caixa	kabiven peripheral 9 kcal 9 ml cx 9 br 9 lot 9 if 9 val fab
 litro	gua sanit ria 9 lt
 caixa	glyvenol 9 mg drg cx 9 bl x 9
-indefinido	levomepromazina 9 mg 9 cp c 9 lote 9 valid 9
 unidade	agulha desc 9 x 9 9 und
-comp	meclin 9 mg c 9 comp
-indefinido	papel oficio a 9 caixa c 9 resmas
 comp	olcadil 9 mg c 9 cpr
 grama	cha de erva doce cx c 9 saquinhos 9 gr
+caixa	agua sanitaria cx c 9
+comp	legalon 9 mg cx 9 cap
 indefinido	marcador de texto
-indefinido	ciprofibrato 9 mg c 9
-indefinido	clips niquelado mat metal tamanho 9/9
+grama	sabao em po 9 x 9 g
 comp	alprazolam 9 mg 9 cpr g b 9
-unidade	lamina de bisturi c 9 9 labor
+unidade	g glimepirida 9 mg c 9 sandoz
 grama	creme de leite italac 9 g c 9
+comp	exodus 9 mg 9 cpr c 9
 comp	janumet 9/9 mg 9 cpr
 indefinido	papel a 9 resma
 comp	sustrate c 9 cp
 caixa	dexametasona inj 9 mg ml 9 ml cx c 9 lote t 9/9
 indefinido	filme p rx 9 x 9 c 9 fl ibf
-comp	gardenal 9 mg 9 cp
-indefinido	grampo 9 com 9
 comp	metronidazol 9 mg 9 cpr
-indefinido	bronqtrat xpe adulto 9 ml hosp s cx natulab hosp
+ml	bronqtrat xpe adulto 9 ml hosp s cx natulab hosp
 indefinido	caldo de galinha
-indefinido	bateria dtz 9
-grama	proteina texturizada de soja supresoy carne 9 g
-conjunto	filtro cj cabine carvao ativado
-indefinido	reparo
-unidade	papel higienico c 9
-unidade	papel toalha c 9 caprice
-indefinido	almotolia plast bico reto 9 ml j prolab l 9 val indet
+comp	depakote er 9 mg 9 cpr c 9
+unidade	ovo branco medio 9 und
+caixa	fluoxetina 9 mg cx c 9 c 9 lote 9 valid 9
+indefinido	placa dcp 9 x 9 furos impol lote imp 9/9 imp 9/9 ropm 9
+litro	fanta laranja 9 l pet
+indefinido	filtro combustivel tecfil gi 9/9
+unidade	compressa gaze 9 x 9 9 fios 9 und
+unidade	lapis grafite n 9 sem ponteira pacote c 9 und
 indefinido	colher desc sobremesa
-grama	pao tipo hot dog pct 9 g
 metro	copo desc copobras transp 9 ml
+indefinido	esponja de aco 9 x 9
 indefinido	paraf esponjoso 9 x 9 mm rt iol lote 9/9 9/9 ropm 9
-unidade	pilha media c 9 und
 metro	passamanaria av 9 pc c 9 m
-unidade	sonda de aspiracao traqueal n 9 pct c 9 medsonda
 unidade	copo descartavel 9 ml c 9 unid
 unidade	abaixador de lingua c 9
+indefinido	pino
+grama	achocolatado em po 9 g
+indefinido	guardanapo malu estojo 9 x 9
 indefinido	tambor freio dianteiro
+indefinido	arruela lisa zinc 9/9
 grama	extrato de tomate 9 g
 indefinido	papel colorset vm 9 x 9 c 9 f b 9
-grama	biscoito doce maria 9 gr
 indefinido	9 bragf retentor roda traseiro alta tamparatura
-indefinido	sorda preta
-indefinido	paraf cortical 9 x 9 mm iol ropm 9
-indefinido	dimorf 9 mg ml inj
+unidade	balao 9 liso rosa tutti frutti c 9
+ml	dipirona sodica 9 gr 9 ml
 ampola	dobutamina 9 mg 9 ml amp g
+ml	diclofenaco pot 9 mg sol inj 9 ml c 9 imposto ibpt nacional 9
 indefinido	agulha desc 9 x 9 can de aco inoxid est sr l 9 j f 9/9 v 9/9
 ampola	furosemida 9 mg inj c 9 amp gen hosp teuto hospitalar
-indefinido	soro ringer c lactado 9 ml cx 9 und
-indefinido	ocitocina sol inj 9 ui 9 ml iv im
+ml	soro ringer c lactado 9 ml cx 9 und
 ampola	dipirona sodica 9 mg ml 9 ml amp santisa
-indefinido	soro fisiologico 9 sist fec 9 ml
-indefinido	enoxaparina sodica 9 mg 9 ml sol inj seringa pre enchida iv im
-indefinido	tramadol injetavel 9 mg ml 9 ml p 9/9 generico hipolabor
-indefinido	diclofenaco s dico diclofarma 9 mgx 9 ml farmace
-indefinido	tracurio belisato 9 mg ml 9 ml cx 9 tracur
-indefinido	tramadol 9 mg 9 ml gen hipolabor
-indefinido	sol fisiologica 9 9 ml
-indefinido	heparina sodica 9 ui sol inj
-indefinido	piperacilina sod 9 g tazobactam sodico 9 g po p sol inj
-indefinido	agua destilada est p inj 9 ml sist fechado
-indefinido	furosemida 9 mg ml 9 ml sol inj
-indefinido	levofloxacino 9 mg ml 9 ml
-caixa	ranitidina 9 mg ml 9 ml cx c 9 hypofarma
-ampola	lidocaina 9 s v amp 9 ml hypocaina
+caixa	hidralazina 9 mg ml cx 9 amp
+ml	enoxaparina sodica 9 mg 9 ml sol inj seringa pre enchida iv im
+ml	tramadol injetavel 9 mg ml 9 ml p 9/9 generico hipolabor
+ml	diclofenaco s dico diclofarma 9 mgx 9 ml farmace
+ampola	complexo b im iv inj 9 ml amp
+ml	tracurio belisato 9 mg ml 9 ml cx 9 tracur
+ml	tramadol 9 mg 9 ml gen hipolabor
+ml	sol fisiologica 9 9 ml
+ml	agua destilada est p inj 9 ml sist fechado
+ampola	soro fisiologico 9 9 ml c 9 amp
 ampola	fenocris 9 mg fenobarbital amp b 9
+indefinido	hioscina composta sol inj c 9 imposto ibpt nacional 9
 ampola	soro fisio 9 sist fec 9 ml cx 9 amp farmace
+caixa	teicoplanina 9 mg injetavel cx 9
+ampola	succinil colin 9 mg 9 amp
 ampola	clindamicina 9 mg amp uni o qu mica
 unidade	hioscina composta sol inj c 9 imposto ibpt nacional 9
 kg	sacola preta lixo 9 kg
-indefinido	beterraba
+indefinido	melancia in natura
 grama	margarina vegetal 9 g
-indefinido	abacaxi
 indefinido	charque serra negra
 indefinido	carne bovina coxao duro sem osso
 indefinido	carne bovina sem osso
+indefinido	acucar
 kg	arroz parboilizado 9 kg
 kg	arroz olivo parb 9 x 9 kg
+indefinido	feij o carioca turquesa
+indefinido	margarina extra cremosa
 kg	coentro kg
 indefinido	carne bovina c osso osso buco
 kg	feij o carioca bi bom 9 x 9 kg
 kg	costela congelada kg
 indefinido	costela bovina
-grama	cafe santa clara 9 g
+indefinido	carne bovina de 9 o tp costela magra
+indefinido	carne moida
 indefinido	prego 9 x 9
 indefinido	cenoura
-indefinido	cenouras e nabos frescos ou refrigerados
+grama	coentro acond g
+indefinido	corvina hg
 indefinido	cebola
-indefinido	batata inglesa
 kg	sal campeao 9 kg
 indefinido	proteina de soja supresoy escura 9 g
-kg	arroz cacarola parbolizado 9 kg
 indefinido	rapadura campinense
 indefinido	melancia
-kg	sal campeao 9 kg
-indefinido	clindamicina 9 mg fosfato item generico l aa 9/9 q 9 f v
-indefinido	fentanila citr 9 ug ml 9 ml hipolabor a 9
-indefinido	adrenalina 9 g 9 ml 9 ml hipolabor adr
+ml	soro glicosado 9 sist 9 ml
+ml	furosemida 9 mg 9 ml l 9 q 9 f v
+ml	terbutalina 9 mg sulfato item generico l av 9/9 q 9 f v l av 9/9 q 9
+ml	adrenalina 9 g 9 ml 9 ml hipolabor adr
+frasco	agua bidestilada f a 9 ml isofarma
 ampola	flumazenil 9 mg ml amp 9 ml flunexil lote 9
 frasco	metilergometrina 9 mg f a 9 ml uniao qu
 ampola	complexo b amp im iv l 9 q 9 f v
-indefinido	vitamina k fitomenadiona 9 mg ml 9 ml hi
+ampola	complexo b amp im iv l 9 q 9 f v
+frasco	agua bidestilada f a 9 ml isofarma lt a 9 c 9 vl
+indefinido	norepinefrina 9 mg hemitartarato item generico l 9 q 9 f v
+ml	vitamina k fitomenadiona 9 mg ml 9 ml hi
 indefinido	eagle digital 9 d
-frasco	vitamina c 9 mg f a 9 ml farmace
 frasco	dipirona sodica 9 mg f a 9 ml farmace
-indefinido	furosemida 9 mg 9 ml l 9 q 9 f v
 ampola	dobutamina 9 mg inj fr 9 ml dobutamina solucao injetavel 9 mg ampola 9 ml oferecemos c 9 ml
 ampola	dipirona sodica 9 mg sol inj amp 9 ml
 frasco	tenoxicam 9 mg f a uniao quimica tefla
-indefinido	sulfato de magnesio 9 9 ml isofarma
-indefinido	omeprazol 9 mg injet vel
-indefinido	soro ringer lactato 9 ml
+ml	acido tranexamico 9 mg ml iv inj hipola
+ml	sulfato de magnesio 9 9 ml isofarma
+ml	soro ringer lactato 9 ml
+ml	penicilina 9 ui tt c 9 ml teuto
+ml	prometazina 9 mg 9 ml sanval prometazol lote at 9
 indefinido	contador de celulas ccs 9 kacil
 indefinido	terbutalina 9 mg sulfato item generico l av 9/9 q 9 f v
-ampola	atropina 9 mg sol inj amp 9 ml isofarma p
+frasco	dipirona sodica 9 mg f a 9 ml farmace
 ampola	sulfa trimetoprima 9 ml amp neo quimica
 ampola	clindamicina 9 mg ml amp 9 ml hypofarma 9
+ml	agua destilada deionizada gl 9 ml for
+ml	haloperidol 9 mg ml item generico l 9 q 9 f v portaria 9/9 c 9
 frasco	glicose 9 f a 9 ml isofarma
-indefinido	soro fisiologico 9 9 ml fresenius 9 k 9
 comp	furosemida 9 mg c 9 comp
 comp	enalapril 9 mg cpr
-indefinido	metildopa 9 mg sanval tensioval
 comp	cimetidina 9 mg comp prati donaduzzi
 indefinido	atenolol 9 mg prati donaduzzi
 comp	doxazosina 9 mg c 9 comp imposto ibpt nacional 9
 comp	ciprofloxacino 9 mg c 9 comp
 comp	metronidazol 9 mg c 9 comp imposto ibpt nacional 9
-comp	cetoconazol 9 mg comp prati donaduzzi
-indefinido	amoxicilina 9 mg prati l 9 v 9/9
 comp	haloperidol 9 mg comp cristalia halo lote 9
+indefinido	enalapril 9 mg
+comp	prednisona 9 mg comprimidos
+indefinido	levotiroxina sodica 9 mcg item generico l br 9 q 9 f v valor do medicamento sem
 comp	levomepromazina 9 mg comp cristalia lote 9
 comp	prometazina 9 mg comp teuto
 indefinido	mebendazol 9 mg sobral mentelmin lote 9 vl
+indefinido	hidroclorotiazida 9 mg pharlab hidrole
 caixa	cetoconazol 9 mg cx 9 gen
-indefinido	sertralina 9 mg aurobindo l xt 9 a f 9/9 v 9/9
+indefinido	amiodarona 9 mg geolab amioron
 indefinido	atenolol 9 mg prati donaduzzi
 comp	haloperidol 9 mg comp cristalia halo lote 9
-indefinido	dexclorfeniramina 9 mg maleato l 9 q 9 f v l 9 q 9 f 9/9
+comp	digoxina 9 mg c 9 comp
 indefinido	fenitoina 9 mg teuto l 9 f 9/9 v 9/9
-comp	captopril 9 mg cpr
 indefinido	prednisona 9 mg prati donaduzzi
-comp	sulfato ferroso 9 mg c 9 comp
-comp	baclofeno 9 mg c 9 comp lote 9
-comp	albendazol 9 mg c 9 cpr gen
 indefinido	dipirona 9 mg
 grama	metronidazol 9 mg gel vag apl 9 g imposto ibpt nacional 9
 grama	9 cola branca fix 9 g polycart
 grama	nistatina creme vag 9 ui g 9 g gen
 grama	nistatina creme vag aplic 9 g
-indefinido	tubo sul minas pvc sold 9 mm 9 mt
+indefinido	miconazol 9 mg g cr vag 9 g imposto ibpt nacional 9
 litro	agua mineral 9 litros
-indefinido	maxinom colirio 9 ml
+ml	maxinom colirio 9 ml
 indefinido	hormoskin gmd cr 9 gr
 indefinido	metronidazol gel bg 9 g emb hosp teuto teuto hospita
-indefinido	cano tubo de 9 esgoto
 indefinido	manteiga
+indefinido	tubo esgoto 9 mm
+indefinido	tubo sul minas pvc sold 9 mm 9 mt
+indefinido	corretor liquido 9 ml toque magico
 kg	cola branca 9 kg glinorte
 comp	vitergyl c 9 g c 9 comp eferv
 grama	esperson n pomada 9 gr
 grama	balsamo bengue gel 9 g
+grama	efurix creme 9 g
 indefinido	reparil pomada
+grama	trinulox cr derm c 9 g
 grama	hemovirtus pom 9 g
-litro	agua mineral 9 litros
-grama	dexa 9 g creme 9 mg g
-litro	agua mineral 9 litros
-indefinido	grafite mina 9 mm hb
-indefinido	aceclofenaco 9 mg creme
-indefinido	spectaban t col b m fps 9 9 ml
+grama	miconazol 9 mg g cr vag 9 g
+indefinido	corretivo liquido toque magico
+indefinido	thinner
+grama	dexametasona 9 creme bisn 9 gr multilab
 indefinido	conduite flex 9 mm krona
-indefinido	artelac col 9 ml
-grama	ampicilina 9 g c 9 gen
-frasco	cefalexina 9 ml ml po o susp oral fr 9 ml
-frasco	azitromicina 9 mg susp fr 9 ml pharlab
-indefinido	sulfa trimetropina 9 ml sobral
-indefinido	polivitamina gotas dt validade 9
-indefinido	ambroxol 9 mg 9 ml cloridrato 9 ml l 9 q 9 f v
-indefinido	hidroxido de aluminio 9 ml sobral
-indefinido	lugol forte 9 ml marca renylab lote 9
-indefinido	oleo mineral 9 ml natulab
-indefinido	trisorb col 9 ml
-frasco	annita 9 mg sus fr 9 ml
+indefinido	trok creme 9 mg eurofarma
+grama	diprosone cre 9 g
+caixa	soro glicosado 9 9 ml cx 9 s fechado
+indefinido	clonazepam 9 mg gts 9 ml g b 9
+ml	ambroxol 9 mg 9 ml cloridrato 9 ml l 9 q 9 f v
+ml	cefadroxila 9 mg 9 ml
+ml	dimeticona 9 mg ml gts 9 ml
+ml	dectomax 9 ml zoetis
+indefinido	alcool gel 9 ricie
+indefinido	lacribel col
+indefinido	azitromicina 9 mg susp
+ml	metoclopramida 9 ml
+ml	simeticona gts 9 ml 9 mg ml
+ml	albendazol susp 9 ml hosp s cx far prati donaduzzi
+ml	trisorb col 9 ml
 frasco	ipratropio gotas 9 mg ml g fr 9 ml prati
-indefinido	clorpromazina gotas 9 mg 9 ml c 9 lote 9
-indefinido	brometo de ipatropio 9 9 ml lote 9 l 9 valid 9
-indefinido	paracetamol de 9 mg ml gotas com 9 ml lt g 9
-indefinido	azopt susp oft 9 ml
-indefinido	polivitamina solucao oral natulab
-unidade	mebendazol susp und
-indefinido	ibuprofeno xpe inf ibuprotrat 9 ml
+ml	paracetamol de 9 mg ml gotas com 9 ml lt g 9
+ml	dexametasona elixir 9 ml sobral
+ml	insulina humulin nph ref 9 x 9 ml lt 9 s 9 vl
+indefinido	anti a monoclonal lote 9 validade
+ml	albendazol 9 mg susp 9 ml prati donaduz
 frasco	ambroxol xarope 9 ml 9 ml cx 9 fr 9 ml
+indefinido	renda
+indefinido	cabo multiplex 9 x 9 x 9 9 kv
 indefinido	copper sil cabo rigido 9 kv 9 mm 9 preto sil
 indefinido	cabo 9 mm flexicom preto cobrecom
 metro	tnt rosas pk 9 grx 9 m 9 p polipropileno
 metro	entretela colante 9 mt
-indefinido	gripee 9/9
 metro	tecido tnt 9 x 9 m cores diversas
 metro	frillon 9 9 x 9 mt acrilon
 indefinido	isotubo 9/9
+indefinido	mang pebd 9 x 9 mm
 indefinido	pu 9/9 az tubo de poliurethane de 9/9 az
 indefinido	bufalo c mt cor 9 cipria
 indefinido	tubo sold 9 mm plastubos tributos incidentes 9 r 9 fonte ibpt 9
-indefinido	reps estamparia chitao
-indefinido	tecido brim prof 9 algodao amarelo
+indefinido	tubo de 9 nordeste
+metro	cer 9 x 9 icapui bco a cx 9 m cerbras
+indefinido	tubo circ 9 diam 9 mm esp 9 inox
+indefinido	areia fina areial
 indefinido	cetim charmouse liso imp 9 poliester
 indefinido	bico najar 9 r 9
+indefinido	tubo flexivel pvc kanaflex km 9 9 azul
 indefinido	juliana 9 est des 9
 indefinido	fio cb rigido mono 9 kv 9 mm 9 copper 9
-indefinido	cabo multiplex mono 9 mm
 indefinido	tnt azul anil 9 g m 9
 indefinido	revestimento ceram past 9 x 9 azul del rey elizabeth
+indefinido	tnt cores variadas
+indefinido	tnt
+indefinido	mangueira 9/9 9 psi 9 trama alta 9 m 9 k
 metro	pelicula g 9 9 mts chacoal grafite flex
 indefinido	tec voal import 9 pol voal liso
-indefinido	tubo plastubos agua sold pb de 9 mm
 indefinido	cateter mono lumen 9 g 9 cm arrow
-indefinido	tomate
+indefinido	laranja
 indefinido	goiaba
-indefinido	goiaba
-indefinido	amortecedor dianteiro
 indefinido	banana prata
-indefinido	chuchu
-indefinido	refeicoes
 indefinido	refletor a esquerda
-indefinido	carne com osso
+indefinido	diesel s 9
 indefinido	macaxeira
-indefinido	filtro bacteriologico umidificador hmef adulto tubo extensor flexivel gvs do brasil
 grama	milho verde predilecta lata 9 g
 indefinido	oleo diesel b s 9
 indefinido	repolho
-indefinido	chuchu
-indefinido	almo o
+indefinido	jerimum
+indefinido	gasolina comum
+indefinido	bom ar air wick
 indefinido	macaxeira
-metro	fita isolante 9 m display amanco
-litro	desinfetante novo brilho caravela 9 l
+indefinido	banana
+indefinido	servi o de internet
+indefinido	cebola
 indefinido	goiaba
 indefinido	tomate
+indefinido	suporte parede frontal
 indefinido	laranja
-indefinido	banana
 indefinido	carne sem osso
-indefinido	gasolina comum
-indefinido	gasolina tipo c no onu 9 cl 9 grp emb ii
 indefinido	gasolina c comum
-indefinido	oleo diesel b s 9 original
-litro	tinta luxcril 9 l azul profundo lux
 indefinido	gasolina comum
+ml	alcool 9 9 ml
 indefinido	oleo diesel b s 9
 indefinido	oleo diesel b s 9 comum
 indefinido	gasolina comum
-indefinido	oleo diesel b s 9 no onu 9 cl 9 grp
 indefinido	gasolina comum
 indefinido	oleo diesel b s 9 comum
-indefinido	oleo diesel bs 9
 indefinido	gasolina comum
-indefinido	oleo diesel s 9
-indefinido	oleo diesel b s 9 comum
+indefinido	diesel comum b s 9
 indefinido	oleo diesel
 litro	oleo ursa la 9 9 lt
-indefinido	oleo diesel b s 9 comum
 indefinido	diesel b s 9 comum
-indefinido	oleo de soja 9 ml
+ml	oleo de soja 9 ml
+indefinido	ol diesel b s 9 com n onu 9 cl 9 n 9 emb iii
 indefinido	gasolina comum xgcx
 indefinido	oleo diesel b s 9 a
 litro	tinta extralux esm sint 9 l azul del rey 9 lux
-indefinido	oleo diesel b s 9
+grama	leite em po ninho integral nestle 9 g
 indefinido	gasolina comum
+litro	tinta extralux esm sint 9 l azul del rey 9 lux
+indefinido	gasolina c
+ml	oleo de soja 9 ml concordia
+indefinido	oleo motor 9 w 9 base sintetica
 indefinido	gaze rolo 9 x 9 9 fios 9 pct real minas
+indefinido	algodao nevoa
 indefinido	papel higienico
+rolo	folha de aluminio em rolo
 indefinido	gaze hidrofila 9 x 9 9 fios sp marcas
-indefinido	papel madeira
-metro	filme para ultrasom typi i normal upp 9 s 9 mm 9 m cx com 9 sony lote 9
+indefinido	fita kraft 9 sleeve 9 x 9 9 adelbra
+indefinido	fita adesiva hosp 9 mmx 9 mm crepada
+indefinido	fita adesiva transparente 9 x 9 9 ade
 metro	tecido tnt cor div 9 x 9 m 9 p polipropilento
 indefinido	esparadrapo 9 x 9 c capa
+indefinido	papel contato plastico adesivo
 metro	tnt cores diversas rolo c 9 m
-indefinido	fita kraft 9 sleeve 9 x 9 9 adelbra
 metro	lencol papel hosp 9 x 9 mts creme recicl
-grama	algodao hidrofilo 9 gr
-metro	gaze em rolo tipo queijo 9 dobras de 9 cmx 9 m megatex
-indefinido	papel filme
 grama	tnt pp 9 g 9 x 9 cores variadas
+metro	papel grau cirurgico medio 9 mm x 9 m lote 9
 metro	papel grau cirurgico grande 9 mm x 9 m lote m 9
-indefinido	mangueira cristal 9 x 9 mm plastiman
 indefinido	maleato de levomepromazina de 9 mg cristalia
+indefinido	9 carbidopa levodopa 9 9 mg
 comp	furosemida de 9 mg comp lt 9 f 9 a
 comp	propark 9 mg c 9 comp uniao quimica uniao quimica
-indefinido	biperideno 9 mg uniao quimica
-indefinido	oxcarbazepina 9 mg c 9
-indefinido	ginkobiloba 9 mg zydus
 comp	permanganato de potassio 9 mg cmp mario
+indefinido	metildopa 9 mg
 unidade	carbonato de litio 9 mg g cx c 9 c 9 hipol c 9
 indefinido	metildopa 9 mg dt validade 9
-comp	metildopa 9 mg cx 9 comp g
 comp	prednisona 9 mg c 9 comp sanval sanval
-comp	cefalexina 9 mg comp gen
+comp	carbamazepina 9 mg cx 9 comp c 9 uniao quimica
 comp	diazepan 9 mg cx 9 comp b 9 santisa
-comp	9 amitripitilina 9 mg comprimido
-unidade	captopril 9 mg g cx c 9 mario
+caixa	clorpromazina 9 mg bl c 9 cx 9 comp c 9 uniao quimica
+indefinido	ranitidina 9 mg
+comp	espironolactona 9 mg comp lt 9
 comp	diazepam 9 mg cx 9 cpr uni diazepax b 9
-comp	dipirona 9 mg c 9 comp greenpharma greenpharma
-indefinido	cloridrato de ciprofloxacino 9 mg prati donaduzzi
-comp	sinvastatina sinvaston 9 mg comp sanval
-comp	metronidazol 9 mg comp gen
+comp	9 haloperidol 9 mg comprimido
+comp	cefalexina 9 mg comp gen
+comp	omeprazol 9 mg comp lt 9 i 9
 comp	azitromicina azitrophar 9 mg comp pharlab
 unidade	levomepromazina 9 mg levozine cx 9 c 9
-comp	baclofeno 9 mg c 9 comp teuto teuto
+caixa	bromazepam 9 mg cx 9 comp g b 9 teuto
+comp	metronidazol 9 mg comp gen
 comp	sulfato ferroso 9 ng comp lt 9 f 9 m
+unidade	compressa de gaze 9 x 9 cm 9 fios esteril herica c 9 pct c
 indefinido	fio ciurgico poliglactina 9 c ag 9/9 circ cil 9 cm
-indefinido	fio de sutura de uso medico hospitalar tipo absorvivel em catgut simples 9 fio de 9 a 9 cm com agulha cilindric
-unidade	lacto purga env c 9 comp
+grama	sais para reidratacao oral susp 9 g natulab
 unidade	sais p reidratacao oral c 9 env 9 gr
-unidade	nylon mon preto 9 9 c ag 9/9 9 cm cx c 9
-indefinido	pds ii vlt 9 9 9 cm ps 9 z 9 g marca ethicon
-indefinido	sais para reidratacao oral 9 g lt 9 d
 indefinido	dipirona sodica 9 mg prati
-indefinido	sais p reidratacao oral envel natulab
 indefinido	poliestirenossulfonato calcio 9 mg g 9 g
-indefinido	pds ii vlt 9 9 9 cm ps 9 z 9 g marca ethicon
-comp	engov c 9 x 9 cpr
-indefinido	oxigenio liquido caminh tanque
-indefinido	oxigenio liquido caminh tanque
+indefinido	fiodepoliglecaprone 9 violetamonofilamentarcomcoberturaantissepticodeacaobactericida 9 9 comagulha 9 9 deci
+indefinido	pedra rachao mu
 indefinido	oxigenio liquido caminh tanque
 m3	ar medicinal cil k 9 m 9
 m3	oxigenio medicinal cil t 9 m 9
-m3	ar medicinal cil k 9 m 9
 m3	oxigenio medicinal cil 9 m 9
 m3	oxigenio medicinal cil t 9 m 9
+m3	ar medicinal cil k 9 m 9
+indefinido	areia
 m3	oxigenio medicinal cil t 9 m 9
-indefinido	oxigenio medicinal cil pp
+m3	oxigenio medicinal cil t 9 m 9
 indefinido	nitrogenio liq caminhao tanque
-litro	oxig nio med cil om 9 l
+m3	oxigenio medicinal cil k 9 m 9
 indefinido	areia
 cilindro	oxigenio medicinal cil pp
 indefinido	areia
+cilindro	oxigenio medicinal cil pp
 indefinido	areia
 m3	oxigenio medicinal cil t 9 m 9
-metro	sapucaia serr em linha 9 m 9/9
+indefinido	nitrogenio liq caminhao tanque
+indefinido	oxigenio liquido caminh tanque
+indefinido	oxigenio liquido caminh tanque
 indefinido	areia industrializada
 indefinido	neomicina bacit pom
+indefinido	miconazol creme vag 9
 grama	miconazol creme vaginal 9 mg g 9 g c aplicador generico prati donaduzzi
 grama	lidocaina gel 9 9 g hipolabor
 indefinido	nistatina creme vaginal 9 ui teuto
-grama	kolagenase c cloraf pom 9 gr f
 grama	nistatina creme vaginal 9 gr
 grama	neomicina bacitracina pom 9 g
-grama	cetoconazol creme 9 g sobral
-grama	metronidazol 9 mg gel vag apl bisn 9 gr prati donaduzzi
-grama	metronidazol gel vaginal 9 mg g
+grama	dexametasona 9 creme 9 g
+grama	lidocaina a 9 geleia 9 g c 9 labcaina
 grama	dexametasona creme 9 mg g 9 g sobral
+grama	miconazol creme vaginal 9 g prati donad
+grama	cetoconazol creme 9 gr
+grama	nistatina creme vaginal 9 g hosp
 grama	pratiglos pom 9 gr pratidonad
-grama	metronidazol 9 g 9 mg 9 g creme
+grama	reparil gel 9 gr
 grama	dexametasona 9 mgg bis 9 g dt validade 9
 grama	cetoconazol dip betamet pom 9 g g
-grama	neomicina bacit pom nebactrina 9 gr
 grama	metronidazol gel ginecologico 9 mg 9 g
-indefinido	nitrofurasona pomada prati l 9 v 9/9
 grama	cetoconazol creme bisn 9 gr hipolabor mg
-grama	estriol creme vaginal 9 mg 9 g
 grama	miconazol creme vaginal 9 g prati donad lt 9 i 9 j vl
 grama	sulfadiazina de prata 9 mg g cr 9 g gen
-indefinido	miconazol 9 p creme vaginal
-grama	vaselina pomada 9 g
-grama	metronidazol gel vag 9 mg g
+unidade	metronidazol creme vag 9 und
+grama	lidocaina a 9 geleia 9 g c 9 labcaina
 grama	nistanina creme vaginal 9 g teuto
 grama	miconazol creme vaginal 9 g prati donad
 indefinido	betacortazol creme belf
-indefinido	luva cirurgica esteril n 9 imposto ibpt nacional 9
-indefinido	luvas cirurgicas 9
+indefinido	luva
+indefinido	bota p const elastico hawai n 9 9 par
 indefinido	luva cirurgica de latex 9 maxitex
 indefinido	jogo cartao p juiz campo pangue par 9 x 9
 indefinido	bota dolomil qt bidensidade elast n 9
-indefinido	luva cirurgica de latex 9 maxitex
-indefinido	bota elast s cadarco 9 crival
-conjunto	jg junta completo
+indefinido	bota pega forte preta 9/9 s forro tributos incidentes 9 r 9 fonte ibpt 9
+indefinido	bota dolo pvc bra cano m 9
+indefinido	rede futsal fio 9 pangue par 9 x 9
 indefinido	reparo cilindro da reduzida
-indefinido	9 u 9 9 b past freio
-indefinido	pastilha de freio traseiro
 indefinido	aplicador desc c 9 kgbrush fine
 indefinido	junta d carter d motor
+indefinido	pastilha freio diant
 conjunto	jg pastilha freio
-conjunto	jg pastilha freio traseiro
-indefinido	l 9 lona freio mb 9 vw 9/9 fd 9
 indefinido	tubo bomba de piston vacuo est de lav 9 mang
 indefinido	vela igni o
+kit	bucha kit mp prestolite m 9 r vw ford cummins
+indefinido	reparo cilindro compressor ar ii 9
 conjunto	jg pastilha freio
+indefinido	jta parcial do cabecote
 conjunto	oring grosso jg 9 unid fiat palio stillo gm zafira
 conjunto	jg de junta do motor do zafira
-indefinido	pastilha freio fiat 9 rcpt 9 trw
+conjunto	jg pastilha freio
 conjunto	jg lona d t 9/9 dm 9 dna 9 9 9
 kit	kit conector
 conjunto	jg pastilha freio dianteiro
-indefinido	tapete de borracha unicol c 9 pcs linhas ford gm
+indefinido	pastilha freio dianteira
 indefinido	b fixo 9 ks
+indefinido	b fixo 9 ks
+indefinido	cefalexina suspensao 9 mg lt 9
 indefinido	amoxicilina clav pot 9 9 mg c 9 ml san sandoz
-indefinido	bronqtrat xpe inf 9 ml lote 9 venc
-indefinido	alivium 9 ts 9 mg c 9 ml
+ml	bronqtrat xpe inf 9 ml lote 9 venc
+ml	alivium 9 ts 9 mg c 9 ml
 indefinido	acebrofilina xarope adulto
+ml	azitromicina 9 mg 9 ml
+ml	seki xpe 9 ml
 indefinido	eritromicina susp oral 9 mg lt 9
-indefinido	neolefrin xpe 9 ml
-indefinido	acebrofilina 9 mg ad 9 ml
-indefinido	amplictil 9 gts 9 ml c 9
-indefinido	neuleptil ad 9 gotas 9 ml
-indefinido	celestamine xpe 9 ml
-indefinido	flagass baby gts fr 9 ml
-indefinido	dexclofeniramina xarope 9 ml neo quimica
-indefinido	carbamazepina 9 9 ml uniao quimica
-indefinido	fluimucil xpe ped 9 ml
+ml	annita susp 9 ml
+ml	neolefrin xpe 9 ml
+ml	cetilplex 9 ml mg 9 ml g nq
+ml	amplictil 9 gts 9 ml c 9
+ml	neuleptil ad 9 gotas 9 ml
+ml	celestamine xpe 9 ml
+ml	hidroximed 9 ml medquimica
+ml	dexclofeniramina xarope 9 ml neo quimica
+ml	oleo mineral belfar 9 ml
+ml	carbamazepina 9 9 ml uniao quimica
+ml	fluimucil xpe ped 9 ml
 frasco	carbamazepina 9 c 9 fr 9 ml uniao quimica
-indefinido	emulsao scott mor 9 ml
+ml	emulsao scott mor 9 ml
 indefinido	clor bromexina xpe ad c mentol
-indefinido	amoxicilina 9 mg 9 ml 9 ml
-indefinido	amoxicilina 9 mg susp 9 ml s cx prati prati donaduzzi
-indefinido	albendazol susp 9 mg ml c 9 ml prati donaduzzi
-indefinido	ibuprofeno 9 mg gts 9 ml gen teuto generico
-indefinido	acido tricloroacetico 9 9 ml
-indefinido	cefalexina 9 mg 9 ml g
+ml	amoxicilina 9 mg 9 ml 9 ml
+ml	albendazol susp 9 mg ml c 9 ml prati donaduzzi
+ml	ibuprofeno 9 mg gts 9 ml gen teuto generico
+comp	artrosil 9 mg c 9 caps
+ml	acido tricloroacetico 9 9 ml
 grama	molho de alho 9 gr
 frasco	amoxacilina 9 mg susp fr 9 ml imposto ibpt nacional 9
-indefinido	albendazol 9 mg ml susp g rati
-indefinido	celestrat xpe 9 ml uniao quim
-indefinido	anel
+indefinido	cadeado papaiz 9 mm tetra chave
 indefinido	retentor
-indefinido	parafuso latao mq unc 9/9 x 9/9 completo
+indefinido	oleo engr 9 w 9
+indefinido	queijo tipo mussarela
 indefinido	oleo
 indefinido	correia dent 9
-indefinido	tijolos ceramico 9 furos 9 9 x 9
+indefinido	filtro sep agua
+indefinido	camisas personalizadas
 indefinido	retentor
 indefinido	fita cetim n 9 ph
 indefinido	sensor nivel combust kit t 9 tsa
-indefinido	filtro
 indefinido	martelo borracha c c 9 mm
 indefinido	ducha higienica branca fox viqua
 indefinido	elemento
-indefinido	filtro
+indefinido	tomada 9 x 9 ilumi safira 9 t 9 p t 9 a nova
 indefinido	tee sold 9 mm
-indefinido	oleo spray white lub anti ferr 9 ml
-indefinido	elemento
-metro	fita isolante tigre 9 x 9 mts
-indefinido	anel
-rolo	rolo de la 9 cm atlas
+indefinido	filtro
 indefinido	abracadeira tipo d cunha 9
 indefinido	retentor
 indefinido	trincha 9 9/9 cerda preta atlas
 indefinido	filtro
-indefinido	bucha fixdura d 9 fischer benfixa
-comp	cimetidina 9 mg cpr g
+comp	carbonato litio 9 mg c 9 g cx 9 comp hipolabor mg
 comp	dipirona 9 mg apres cx c 9 cpr sobral pi
 comp	nimesulida 9 mg cpr
 comp	santiazepam 9 mg diazepam cpr
+comp	halo 9 mg 9 cpr
+unidade	carvedilol 9 mg c 9 gen
+indefinido	enalapril 9 mg
+indefinido	amoxilina 9 mg
 comp	fluoxetina 9 mg cx 9 caps teuto go
-comp	carbamazepina 9 mg cpr brainfarma
-comp	metronidazol 9 mg generico cprs prati donaduzzi pr
 comp	paroxetina 9 mg c 9 cx 9 comp aurobindo pharma
+indefinido	ampicilina 9 mg
 indefinido	verapamil 9 mg
 comp	hidroclorotiazida 9 mg cx 9 comp pharlab
 comp	calcitriol caps 9 mg
-comp	metformina 9 mg cpr
+comp	captopril 9 mg cpr
 comp	fenocris 9 mg fenobarbital cp b 9
+comp	ibuprofeno 9 mg cpr teuto hospitalar
 comp	norfloxacino 9 mg cpr
 comp	alprazolam 9 mg cprs
-indefinido	ampicilina 9 mg
 comp	anlodipina 9 mg amlodil cpr
-comp	hioscina dipirona 9 mg cx 9 comp pharlab
-comp	sulfametoxazol trimetoprima 9/9 mg cx 9 cpr
+comp	captopril 9 mg cprs sanval
 comp	nimesulida 9 mg cx 9 comp vitamedic
-comp	metildopa 9 mg cpr
+comp	carbamazepina 9 mg c 9 cx 9 comp teuto
+comp	bromazepam 9 mg cprs b 9 gen teuto go
 comp	amitriptilina 9 mg via oral cpr brainfarma
 indefinido	digoxina 9 mg
 indefinido	almondegas ao molho 9 g
+litro	tecryl d 9 azul 9 l
 litro	pintalar 9 lt areia iquine
 litro	tinta luxcril 9 l branco neve lux
 litro	tinta lux luxcril acrilica 9 lts br gel
-litro	tinta lux luxcril acrilica 9 lt br neve
+litro	tinta luxcril 9 l branco gelo lux
 indefinido	formula infantil isenta de lactose para lactantes menores de 9 um ano de idade com intolerancia a lactos contendo vita
+indefinido	formula infantil elementar a base de aminoacidos em po para alimentacao oral elou enteral de lactentes desde o nascime
 indefinido	soda
 indefinido	selador acrilico coral
 indefinido	tinta delanil latao branco neve acrilica iquine
-grama	almondegas ao molho de tomate 9 g
-indefinido	azeite de oliva puro sem colesterol embal c 9 ml
+ml	azeite de oliva puro sem colesterol embal c 9 ml
 litro	tinta decora sb 9 lts branco gelo coral
-litro	tinta lux luxcril acrilica 9 lts azul p
-indefinido	massa corrida latao eucatex
+kg	milho verde em conserva com 9 kg
 indefinido	oleo de soja
-litro	veda bem impermeabilizante azul 9 lt
+litro	extralatex verde limao 9 l
 litro	hidrotintas demais int 9 l v primavera
-indefinido	milho verde
+litro	tinta luxcril 9 l branco neve lux
 litro	massa corri 9 lt diatex iquine
 litro	tinta rende muito 9 lts ceramica
 rolo	gaze em rolo 9 fios biotextil
-indefinido	fita adesiva para autoclave 9 x 9 m missner
-indefinido	esparadrapo imp 9 cmx 9 m cremer
+rolo	atadura crepom 9 x 9 9 fios pct 9 rls biote
+rolo	papel grau cirurgico 9 cmx 9 mt rl
 indefinido	fita 9 x 9 adelbras
 indefinido	cabo pp 9 x 9 mm 9 v preto 9 m
-metro	papel grau cir ph 9 mmx 9 mt
-metro	fita adesiva autoclave 9 mm x 9 m
-indefinido	fita adesiva crepe 9 mm x 9 mm imposto ibpt nacional 9
+indefinido	algodao hidrofilo 9 g natalia
+indefinido	fita adesiva crepe 9 x 9 msk 9 eurocel
 metro	fita cirurgica microporosa 9 mmx 9 m
+metro	papel grau cirurgico 9 mmx 9 m
 indefinido	fita micropore 9 x 9 c carr riasa
+grama	algodao hidrofilo 9 g nathalya
 indefinido	fita adesiva embalagem transparente
+rolo	papel grau cirurgico 9 cmx 9 mt rl
 metro	papel grau cirurgico 9 cm x 9 mt imposto ibpt nacional 9
-indefinido	papel p e c g 9 mm x 9 mm daru
+rolo	gaze rolo 9 x 9 9 f std
 metro	papel higienico 9 mts
 rolo	lencol descartavel de papel em rolo 9 x 9 m dumbo marca sapporo
-metro	cabo flexivel 9 mm c 9 m megacampos
+metro	esparadrapo tam 9 cm x 9 mt
 metro	gaze queijo 9 f 9 mts clean
-metro	fita adesiva autoclave 9 mm x 9 m
-indefinido	fita adesiva 9/9 mat crepe cor bege
 indefinido	papel grau add pack 9 x 9 lote 9
 metro	fita auto clave 9 mm x 9 m
-indefinido	manual de direito civil volume unico 9 ed 9
 indefinido	manual funcional de direitos humanos para concursos
-indefinido	novo codigo de processo civil comparado e anotado 9 edicao
 indefinido	conhecendo a cultura indigena 9 ano
 indefinido	oxigenio ppu
-indefinido	oxigenio ppu
 m3	oxigenio 9 m 9
-indefinido	oxigenio ppu
-cilindro	ar med cil 9 m 9 om 9 l onu 9 na 9 9
+m3	oxigenio 9 m 9
 indefinido	oxigenio samu
 indefinido	oxigenio samu
-cilindro	oxigenio med em cil 9 m 9 tg 9 na un 9
-m3	ar comprimido 9 m 9
+m3	oxigenio 9 m
 indefinido	oxigenio carga 9 m
 indefinido	oxigenio carga 9 m
 unidade	oxigenio med em cil 9 m 9 tg 9 na un 9
 m3	ar comprimido 9 m 9
 m3	ar comprimido 9 m 9
+m3	oxigenio 9 m 9
+cilindro	oxig nio med em cil 9 m 9 9 9 na 9 onu
 indefinido	oxigenio ppu
-m3	oxig nio med em cil 9 m 9 9 9 na 9 onu
-m3	oxig nio med cil om 9 m 9 onu 9 9 9 9
+cilindro	oxigenio ppu
 m3	oxigenio 9 m 9
 cilindro	oxigenio ppu
 m3	oxigenio 9 m 9
-grama	sab o em p guarani sach 9 x 9 g
+m3	oxigenio 9 m 9
 metro	papel higienico angel soft 9 x 9 9 m
 kg	arroz tipo 9 parborizado 9 x 9 kg
 metro	papel toalha fd c 9 pct c 9 und x 9 mt
-grama	flocao sao braz 9 x 9 g
-grama	leite em po integral italac 9 x 9 g
-indefinido	papel hig big rool 9 x 9 branco
+indefinido	leite em po integral fardo com 9 o pct
+indefinido	vassoura phenix santa maria
 grama	cafe em po 9 x 9 g
-kg	f trigo esp r branca 9 x 9 kg c ferm
-indefinido	caldo de galinha constitu do basicamente de
-indefinido	rapadura
+indefinido	papel toalha interfolhado 9 celulose 9 fls
+unidade	papel higienico folha dupla fardo com 9 pct com 9 und
+litro	desinfetante 9 lt max
 litro	detergente 9 l fd
-grama	leite em po italac int 9 x 9 gr
+indefinido	glicose a 9 9 ml isofarma
+unidade	toalha de papel folha 9 x 9 cm fardo com 9 und
 grama	leite em po italac int 9 x 9 gr
 grama	flocos de milho 9 g c 9 extramilho
 litro	detergente 9 l fd
+indefinido	dueto milho verde e ervilha em lata
+grama	cafe sb ef alm 9 x 9 g
 grama	sabao em po 9 g c 9 und mr marilux
-kg	feijao carioca tipo 9 9 x 9 kg
-indefinido	arroz parbolizado
-grama	leite em po italac 9 g
+grama	sabao em po 9 g fd 9 x 9 g
+indefinido	macarr o tipo espaguete
 grama	floco de milho 9 x 9 g
+indefinido	arroz cacarola ben parb 9 x 9 tp 9
 indefinido	a car cristal parari 9 x 9
-grama	leite em po integral saco 9 g
+indefinido	papel higi nico sublime 9 x 9
 metro	papel hig institu lorde verde bco 9 celulose c 9 m fd c 9 rl lorde
 indefinido	luvas luvas cir est 9
 indefinido	ref 9 c 9 fr zf cpap coturno bombeiro flame retardant cabedal couro hidrofugado 9 anti chamas preto solado preto
+indefinido	bota vulcabras pvc c curto bca 9
+indefinido	luva pvc aspera forrada
 indefinido	bota para const elastico hawai n 9
 indefinido	botina unisex preto
-indefinido	luvas em latex
-indefinido	luva cir esteril 9
-caixa	luva procedimento tam m cx 9 pares medix
+caixa	luva procedimento tam p cx 9 pares
+indefinido	past freio hda xre 9 s abs nx 9 cr r
+indefinido	luva cirurgica esteril n 9 new hand
 indefinido	luva super 9 cm s pvc 9 safety
-indefinido	luva cirurgica n 9 esteril marca mucambo
-indefinido	tornozeleira nylon emborrachado 9 kg
-indefinido	luva ciriugica est n 9 lt 9
+indefinido	luva de vaqueta c curto
 indefinido	luva vaqueta tam u
 indefinido	luva de borracha g
-indefinido	bota p const elastico hawai n 9 9 par
-indefinido	luva esteril n 9
-indefinido	meia esportiva masculina selene
-indefinido	luva latex ilado tricotada
 indefinido	luva cirurgica esteril 9 new hand cremer
 indefinido	ortese ortopedica articulado com solado antiderrapante
+indefinido	luva para limpeza latex
 indefinido	luva de raspa revestida p 9 ref 9
-indefinido	botina de seguranca confecc em couro n 9
 indefinido	bota preta amarela n 9 pega forte grendene
+indefinido	botas ref 9 pvc c m s f preta n 9
 indefinido	luva cirurgica esteril n 9 descartavel
 indefinido	luva cirurgica 9
 indefinido	t nis futsal finta
-indefinido	bota seg elastico 9 linha
 indefinido	apito plastico
 indefinido	luva pvc lisa 9 cm tam u
+indefinido	oximetro pulso de dedo md 9 c 9 marca choice mmed lote 9
 litro	diatex acrilico vanilla 9 l
 indefinido	coxim motor gol mb 9
 indefinido	trofeu artilheiro
 indefinido	lamina p laringoscopio 9 conv macintosh marca md
 indefinido	oximetro pulso de dedo md 9 c 9 marca choice mmed lote 9
+indefinido	doppler fetal mod fd 9 a portatil marca md lote mfd 9 a 9
 indefinido	palheta do limpador
+kg	halteres ginastica 9 kg emborrachado
+indefinido	tubo irrig agrop pn 9 9 coor plastik
 indefinido	coxim do amortecedor
-indefinido	pasta c grampo plast azul acp
+indefinido	tijolo de ceramica 9 furos
 indefinido	telha col 9
 indefinido	tijolos ceramica c 9 furos
-indefinido	tijolo 9 furos
-indefinido	tijolo de ceramica 9 furos
-indefinido	tijolos 9 furos
+indefinido	bucha plastica n 9
+indefinido	tijolos ceramica c 9 furos
 indefinido	telha colonial
 indefinido	tijolo ceramico de 9 furos
 indefinido	sacola imprensa mil
 indefinido	tijolos 9 furos
+indefinido	sacos 9 x 9 x 9
 indefinido	tijolos de 9 furos 9 x 9 x 9
-indefinido	tijolos de 9 furos 9 x 9 x 9
-indefinido	benzilpenicilina 9 ui im
 grama	cefalotina sodica 9 g 9 fa ceflen fab agila
-frasco	clor cefepima 9 g po p sol inj cx 9 f cefepima cloridrato aurobindo
-indefinido	sulfato de polimixina b 9 ui l 9 q 9 f v
-indefinido	soro glicosado 9 s f 9 ml cx c 9 sanob
-caixa	ceftriaxona 9 gr iv cx 9 fa celltriaxon fab cellofarm
-frasco	meropenem 9 g c 9 fa generico abl antibioticos do bras
-indefinido	fosfato mon sulf dissodico lote 9 valid 9
 unidade	teicoplanina 9 mg teiplan c 9 uniao
-indefinido	metilprednisolona 9 mg ml cx 9 fa 9 ml predi medrol
+indefinido	ampicilina sodica 9 mg l 9 q 9 f v
+frasco	teicoplanina 9 mg koplan cx 9 f a dil novafarma
+indefinido	soro fisiologico 9 9 ml sf
+indefinido	cetamina 9 mg ml dextro l 9 q 9 f v portaria 9/9 c 9
+frasco	meropenem 9 g c 9 fa generico abl antibioticos do bras
+ml	soro ringer c lactato bolsa 9 ml
+unidade	teicoplanina 9 mg teiplan c 9 uniao
+ml	metilprednisolona 9 mg ml cx 9 fa 9 ml predi medrol
 grama	ceftriaxona 9 g iv
+indefinido	la mollet circulo cor 9
 indefinido	ztam 9 anel
 indefinido	transferencia de saldo credor de icms
+indefinido	valvula sol p contr fluxo liqu
 indefinido	transferencia de saldo credor de icms
 indefinido	transferencia de saldo credor de icms
 indefinido	transferencia de saldo credor de icms
@@ -646,367 +650,372 @@ kit	kit pnld
 kit	kit pnld
 kit	kit pnld
 kit	kit pnld
-kit	kit pnld
-conjunto	coloracao panotico rapido conj 9 x 9 ml
 conjunto	conjunto para circulacao extracorporea neonato
 indefinido	ck mb liquiform ref 9 9/9
-indefinido	vdrl 9 testes 9 ml lote 9 d 9 validade
-indefinido	bilirrubina colorimetrica 9 9 testes 9 9 ml teste cat marca labtest
+kit	9 s 9 9 e kit alarme
+indefinido	calibradores controles solucao de lavagem e solucao substrato e todos os itens p realizacao testes
 indefinido	calibra h ref 9 9 lote 9 validade
 indefinido	glicose liquiform ref 9 9/9
-indefinido	glicose liquiform ref 9 9/9 lote 9 validade
-conjunto	coloracao panotico rapido conj 9 x 9 ml
+kit	toxoplasmose igm atraves da metodologia elisa kit
 indefinido	calcio liquiform ref 9 9/9
 indefinido	ck nac liquiform ref 9 9/9
-indefinido	rpr bras estab p vdrl 9 x 9 ml 9 testes
 indefinido	transaminase oxalacetica cinetica uv ast got liquiform 9 testes marca labtest
 indefinido	fosfatase alcalina liquiform ref 9 9/9 lote 9 validade
 indefinido	hidroxido de calcio hydro c
+conjunto	coloracao panotico rapido conj lote 9 validade
 indefinido	colesterol liquiform ref 9 9/9 lote 9 validade
-indefinido	colesterol hdl enzimatico 9 testes 9 ml teste cat 9 9 marca labtest imposto ibpt nacional 9
 indefinido	fosforo uv ref 9 9
+indefinido	dengue igm e igg 9 testes lote 9 ada 9 ad validade
 indefinido	alttgp cinetica c 9 ml bioclin lotes 9 9 9
 indefinido	glicose liquiform ref 9 9/9 lote 9 validade
-indefinido	creatinina ref 9 9 lote 9 validade
 indefinido	reparo parcial haste amortecedor fiat 9
-indefinido	acido urico liquiform ref 9 9/9 lote 9 validade
-indefinido	imunolatex aslo 9 ml lote 9 j 9 validade
-indefinido	oleo de soja 9 ml
-indefinido	vinagre figueira c alcool 9 ml
-indefinido	veja multiuso original 9 ml
-indefinido	vinagre molhito 9 ml
+indefinido	ast got liquiform ref 9 9/9 lote 9 validade
+ml	imunolatex aslo 9 ml lote 9 j 9 validade
+ml	oleo de soja 9 ml
+ml	vinagre figueira c alcool 9 ml
+ml	oleo de soja 9 ml
+ml	oleo de soja soya 9 ml
+ml	vinagre molhito 9 ml
+indefinido	silicone orbi alta temp black
 indefinido	filtro oleo hidra bt 9 mpg case randon carraro
 indefinido	girandola 9 tiros ouro
 indefinido	con fg 9 bsp bol x 9 x 9 prens
 indefinido	bucha estabilizadora
+metro	filtro oleo comb r 9 9 m
+indefinido	canaleta pvc 9 x 9 x 9 mm c div
+indefinido	bucha 9
 indefinido	bucha fx mola
-indefinido	fer n 9 zamac cr contra fech de abrir aba
+indefinido	disco de freio
 indefinido	parafuso p lamina 9/9
+indefinido	mola 9 fx diant mb 9
 indefinido	induzido mt partida perkins mwm waspsa
 indefinido	bucha de amotecedor
 caixa	giranda cx 9 tiros ouro
-indefinido	base do amortecedor
+indefinido	mangote sup radiador
+indefinido	bandeira da escola d pedro i ref 9 panos
+indefinido	tira de bronze
 indefinido	filtro ar
 indefinido	cabo rigido 9 mm azul
+indefinido	amortecedor dianteiro
 indefinido	eletroduto corrugado 9 mm 9 mt amarelo
 metro	oxigenio 9 mts
 metro	oxigenio 9 mts
-indefinido	tec percal aracaju tinto 9 larg 9 alg
+indefinido	cabo nambei f ac 9 mmx 9 vd
+indefinido	caibros
+metro	oxigenio 9 mts
 metro	oxigenio 9 mts
 indefinido	linha 9 x 9
 metro	oxigenio 9 mts
 indefinido	caibros
-indefinido	fio 9
 indefinido	ferro 9/9
-metro	oxigenio 9 mts
-indefinido	paroxetina c 9 9 mg
-indefinido	omeprazol 9 mg
-frasco	bio latex fr completo quibasa
-frasco	fr latex 9 ml marca biotecnica lote 9 h 9 a
+comp	fluoxetina 9 mg cx 9 caps g c 9
+ml	panotico rapido 9 x 9 ml
 indefinido	triglicerides liq estavel 9 bioclin
-conjunto	raio jg trazeiro 9
-indefinido	mastro em alum nio com ponteira cromada acompanhado de 9 base nica em madeira
-indefinido	acido urico 9 x 9 ml marca biotecnica lote 9 h 9 a
+kit	kit papa nicolau tam m
+indefinido	bomba de combustivel
 indefinido	colesterol enz liq ref a
 indefinido	acido urico enzimatico lt 9
-indefinido	mg color aa 9 x 9 ml c std
+ml	mg color aa 9 x 9 ml c std
+indefinido	bio latex aso completo quibasa
+indefinido	transaminase tgo
+indefinido	anel tampa valvula 9
 indefinido	pastilha freio fiat 9 pd 9 b fras le
 indefinido	psf tancredo neves farm cia
-indefinido	ureia uv quibasa
-indefinido	glicose 9 x 9 ml marca biotecnica lote 9 f 9 b
-indefinido	colesterol 9 x 9 ml marca biotecnica lote 9 a 9 a
+ml	amilasa 9 cinetica aa 9 x 9 ml
+ml	glicose 9 x 9 ml marca biotecnica lote 9 f 9 b
+ml	colesterol 9 x 9 ml marca biotecnica lote 9 a 9 a
 indefinido	bilirrubina quibasa
+indefinido	morteiros de 9 pol 9 turbos
+ml	desidrogenase lactica 9 x 9 ml marca biotecnica lote 9 m 9
+indefinido	rprtest sifilis vdrl
 indefinido	retentor 9 k sabo
-indefinido	triglicerides liquiform 9 testes 9 ml teste cat 9 9/9 marca labtest
-indefinido	glicose monoreagente quibasa
+ml	triglicerides liquiform 9 testes 9 ml teste cat 9 9/9 marca labtest
+ml	fosfatase alcalina liquiform cinetica 9 testes 9 ml teste cat marca labtest imposto ibpt nacional 9
 indefinido	maquiagem ruby rose deluxe make
+ml	glicose enzimatica pap liquiform 9 testes 9 ml teste cat 9 marca labtest
+ml	teste de gravidez em tiras betatest plus 9 mui ml sangue urina ca marca labtest imposto ibpt nacional 9
+comp	carbamazepina 9 mg 9 cp c 9
+indefinido	benzilp benz 9 ui inj 9 ml
 comp	ranitidina 9 mg 9 cp
 comp	levonorg etinilest 9 caps
 comp	acido folico 9 mg 9 cp
-indefinido	miconazol 9 loc 9 ml
 indefinido	folder informativo p fpb com logo
+ml	dexclorfeniramin 9 mg 9 ml 9 ml
+kg	argamassa quart aci 9 kg
 grama	metronidazol cvg 9 mg 9 g 9 g
-indefinido	valproato sd 9 mg ml 9 ml c 9
+comp	amiodarona 9 mg 9 cp
+comp	fluconazol 9 mg 9 cp
+comp	sulfa tri 9 mg 9 mg 9 cp
 comp	furosemida 9 mg 9 cp
 comp	levonorg etinilest 9 caps
 comp	diazepam 9 mg 9 cp b 9
 comp	amitriptilina 9 mg 9 cp c 9
-comp	fluoxetina 9 mg 9 caps
-indefinido	nistatina 9 ui ml sus 9 ml
+comp	acido folico 9 mg 9 cp
+comp	enalapril 9 mg 9 cp
+comp	amitriptilina 9 mg 9 cp c 9
 grama	neston 9 cereais lt 9 g
-comp	diazepam 9 mg 9 cp b 9
-indefinido	cartilha do ministerio da saude
+comp	ranitidina 9 mg 9 cp
 comp	metformina 9 mg 9 cp
-comp	albendazol 9 mg 9 cp
-kg	bolo sort kg
+comp	biperideno 9 mg 9 cp c 9
 comp	propranolol 9 mg 9 cp
 comp	captopril 9 mg 9 cp
+indefinido	ovo de galinha
 unidade	ovos c 9 und
 unidade	ovos brancos bandeja c 9 und
 unidade	ovos c 9 und
 indefinido	ovos de galinha
-unidade	ovo medio c 9 sonovo
+indefinido	ovo de galinha
 unidade	ovos de galinha bandeja c 9 unidades sao luis
 unidade	ovos bandeja com 9 und
-indefinido	ovos com 9 marca lourdes hortifrut
 unidade	ovos c 9 und
+unidade	bandeja de ovos c 9 und
 unidade	ovos c 9 und
 indefinido	ovos
 unidade	ovos c 9 und
 indefinido	ovos de granja
 unidade	ovos c 9 und
+unidade	hf ovo bco gd pvc bdj 9 x 9 9 und
+indefinido	ovo de galinha
 indefinido	lixa massa 9
-indefinido	papel camurca branco art floc
-grama	papel filipaper casca de ovo branco 9 g fl
 indefinido	papel camurca todas as cores
 indefinido	iso placa 9 mm
 indefinido	papel laminado cores
 indefinido	cartolina comum cores
-indefinido	papel 9 kg a 9 branco
-indefinido	papel camurca todas as cores
-indefinido	cartolina comum branca
-indefinido	folha de isopor 9 mm
-unidade	eva em folha c 9
 indefinido	papel camurca 9 x 9 diversas cores
-indefinido	cart 9 grs 9 x 9 mm 9 fls canario
+indefinido	cartolina guache cor var offpaper
+indefinido	cch 9 design matte 9 x 9
+indefinido	papel camurca todas as cores
+indefinido	papel camurca 9 x 9 diversas cores
+indefinido	papel foto glossy 9 g masterprint 9 tributos incidentes 9 r 9 fonte ibpt
 indefinido	papel crepom 9 x 9 m encerado
 indefinido	e v a em folha cor var offpaper
-indefinido	papel camurca todas as cores
+indefinido	papel celofane 9 x 9
 indefinido	folha de isopor 9 mm
 indefinido	maderite cola branca 9 mm 9 x 9
+indefinido	papel crepom cores
 indefinido	papel camurca todas as cores
-indefinido	folha eva 9 x 9 lisa
+indefinido	policor liso 9 x 9
 indefinido	papel cartao persico bc a 9 9 gr filipap
+indefinido	borracha e v a 9 x 9 bl c gliter cores diversas
 indefinido	cartolina laminada 9 x 9 diversas cores
 indefinido	e v a listras coloridas
 indefinido	presta o de servi o de internet
+indefinido	presta o de servi o de internet
 indefinido	presta o de servi os de internet
-indefinido	ovos de galinha
-kg	massa pva hidracor balde 9 kg
+indefinido	presta o de servi o de internet
+kg	dicloro tripla acao balde 9 kg
+litro	lubrax extra turbo 9 lt
 kg	liex mix 9 kg detergente em p p lavagem de tecidos
 indefinido	ovos de galinha
-indefinido	arla 9 9 lt
 indefinido	9 ps 9 g aditivo
 indefinido	chave cano 9 americana vonder
-kg	turbo massa acrilica 9 kg bd
+litro	oleo thf 9 lubrax 9 litros
+litro	tintas lux duramais bd 9 l branco gelo
 indefinido	brascom soft amaciante de roupas 9 x 9 brascom
+kg	versatil past bd 9 kg becker
 litro	arla 9 flua petrobras 9 l
+indefinido	alvecom 9 x 9 brascom
 litro	tinta acril int bd plast 9 l bco neve 9
 litro	oleo mobil mx 9 lt
 indefinido	ovos cascavel bd com 9
-litro	lubrax top turbo 9 w 9 9 l
+indefinido	mobil devalc mx c 9 9 w 9 bb
 kg	petrol carflex c 9 kg bd
-litro	massa corrida 9 l balde
-unidade	ovos granja mauricea c 9
+indefinido	brascom soft amaciante de roupas 9 x 9 brascom
+kg	graxa chassis golden 9 9 kg
+indefinido	ovos cascavel bd com 9
 litro	oleo hidraulico 9 c 9 lt
-litro	oleo 9 w 9 9 l brutu
-litro	massa corrida 9 l balde
+unidade	ovos de granja dm ovos c 9 unds
 indefinido	bomba sub tsm 9 9 cv m s bx tehebe
+indefinido	brascolam l 9 x 9 acidulante po brascom
 indefinido	piso iluminar 9 x 9 9 extra formigres
 indefinido	revest elizab c nevada acetinado 9 x 9
-indefinido	faixa em impress o digital lona 9 gr
-indefinido	piso cer porto rico 9 x 9 classic cinza atom 9
 indefinido	piso ceramico
-indefinido	piso form 9 x 9 bandeirante cz a 9 9 m 9
 indefinido	vidro temperado de face plana 9 mm incolor
 indefinido	adesivo impressao digital
+indefinido	placa em chapa de acm com aplica o de adesivo refletivo para sinaliza o
 indefinido	piso cerbras 9 x 9 pei 9 a neve plote
-indefinido	paver brick 9 cm natural 9 mpa
+indefinido	vidro incolor temperado 9 mm
+indefinido	piso borr tatil alerta preto 9 cmx 9 cm
+indefinido	banner impressao digital em alta resolucao
 indefinido	revest elizab a tela azul verao 9 x 9
 indefinido	placas de gesso
 indefinido	adesivo diverso colorido ou preto e branco com impress o digital
-indefinido	porta em madeira massaranduba
 metro	cerbras ceram 9 a 9 mt araripe cinza titanio
-indefinido	piso cerbras 9 x 9 pei 9 a neve plote
+metro	fio paralelo 9 x 9 9 m cobrecom
+indefinido	ceramica araripe cinza titanio c 9 x 9 cerbras
 indefinido	pelicula jateada listrada media
 kg	lona 9 x 9 9 kg preta
 indefinido	pedra granitica tipo rachinha nas cores diversas
 indefinido	placa em vidro de 9 mm com adesivo impresso e prolongadores
 indefinido	forro de gesso
 indefinido	piso ceramico 9 mmx 9 mm ondina a
+indefinido	granito verde perola polido
 indefinido	pano de prato grande dz
 indefinido	vassoura de nylon rainha 9 x 9
-indefinido	lustra moveis perfumado 9 ml
-indefinido	lapis de cor labra grande
 unidade	atadura de crepe de 9 cm c 9 neve
 indefinido	banana tipo pacovan
 indefinido	laranja
-unidade	atadura crepom 9 cm pct c 9
+indefinido	laranja
 indefinido	pa c cabo longo
-unidade	atadura de crepe de 9 cm c 9 neve
+unidade	sabonete infantil c 9
+indefinido	rodo duplo mundial 9 cm 9 x 9
 indefinido	ovo c 9 unid
 unidade	atadura de crepe de 9 cm c 9 unid 9 fios
-metro	atadura de crepom 9 f 9 cm x 9 m pct c 9 lote 9
-unidade	atadura de crepom 9 cm x 9 9 fios c 9
+metro	atadura crepon 9 cm x 9 m 9 f
 metro	atadura crepe 9 cm x 9 m ortoflex
-indefinido	banana in natura
-indefinido	atadura crepe 9 cm x 9 m ortoflex
-unidade	atadura de crepom 9 cm x 9 9 fios c 9
-indefinido	dreno penrose n 9 n esteril
-unidade	pano de prato c 9 ud
-unidade	atadura de crepon 9 cm 9 9 fios c 9 unid real
-unidade	atadura de crepom 9 cm x 9 9 fios c 9 imposto ibpt nacional 9
-indefinido	dreno penrose n 9
-indefinido	atadura crepe 9 cm x 9 m ortoflex
-indefinido	atadura de crepom 9 cm 9 alg 9 fios polar
+indefinido	banana pacovan
 unidade	atad de crepom 9 cm c 9
-kg	cal supercal 9 kg
+indefinido	dreno penrose n 9 n esteril
+unidade	atadura de crepon 9 cm 9 9 fios c 9 unid real
+indefinido	atadura crepe 9 cm x 9 m ortoflex
+unidade	atad de crepom 9 cm c 9
+indefinido	cimento elizabeth
+kg	cimento portlandcomum cp ii 9 sc 9 kg
 indefinido	cimento
-kg	feijao macassar 9 kg
 kg	tinta po cal megao 9 kg
 kg	cimento cimpor cpii z 9 sc 9 kg
-kg	cp ii z 9 cimpor uso geral saco 9 kg
 kg	cimento 9 kg
 kg	cimento 9 kg zebu cinza
-indefinido	cimento cpii z 9 rs nbr 9 nbr 9
 grama	extrato de tomate 9 g quero
+kg	cimento portland composto apodi cp ii e 9 9 kg
+kg	cimento elizabeth cp ii z 9 c 9 kg
 kg	cal supercal 9 kg
 kg	cimento cp ii z 9 cimpor 9 kg
 kg	cimento ligamax externo eliane 9 kg
-kg	cp ii z 9 cimpor uso geral saco 9 kg
+indefinido	cimento elizabeth
+indefinido	farelo de milho
 kg	filler textura rustica 9 kg
 kg	equinos durancho 9 9 kg
-kg	farelo de soja 9 kg
 kg	cal extra massa 9 kg
-indefinido	cimento elizabeth
 kg	cimento cpii z 9 rs nbr 9 nbr 9 9 kg cf 9
-kg	cimento 9 kg mizu cp ii
-kg	cimento 9 kg
+kg	argamassa colante tipo ac ii com 9 kg
+kg	cimento apodi cp ii z 9 kg
+kg	argamassa p uso int tipo aci 9 kg
 kg	cimento cpii z 9 saco 9 kg
 kg	massa acrilica colorplus 9 kg
 kg	cimento cpii 9 kg
 kg	cp ii z 9 cimpor uso geral saco 9 kg
-kg	argamassa unimassa ac 9 revestimento 9 kg
-litro	shine dry 9 lt
-litro	fixador p raio x automatico p 9 lt cx papelao
-litro	removed cera becker tira facil c 9 lt 9
+litro	detergente de piso sempre limpo 9 lt
 litro	sabonete liquido 9 lt
 litro	liex 9 9 l detergente neutro uso geral
 litro	liex 9 9 l detergente neutro uso geral
-litro	alcool 9 c 9 litros
+litro	primax dt 9 lt
+litro	liex soft 9 l amaciante base de quatern rio
+litro	becker clor ltq bb 9 lt becker
 litro	rev ch positivo c 9 lt 9
 litro	hand chc antiss ptico alco lico 9 l
-litro	letahcide plus bb 9 l
 litro	spar ht 9 bb 9 lts
-litro	saco para lixo preto 9 lt
-unidade	luva procedim top quality tam p 9 un medix
-unidade	pilha rayovac media c 9
+litro	saco p lixo infectante 9 lts
 unidade	ovos vermelho cascavel c 9
 caixa	metformina 9 mg cx 9
 indefinido	arruela lisa galvanizada 9/9
+litro	saco p lixo 9 lt c 9 ud
 indefinido	porca sext 9 mb travante nf
+indefinido	arruela lisa inox 9/9
 indefinido	paraf sext unc zinc 9/9 x 9 ciser
 indefinido	rebite de repuxo aluminio n 9
 comp	dorene 9 mg cps 9 x 9 c 9 etico pn
-indefinido	arruela lisa inox 9/9
-litro	saco lixo ultraplast 9 l preto
-litro	saco p lixo infectante 9 l 9 x 9 pct c 9
+indefinido	parafuso fenda cruz 9 x 9 ch
 litro	saco p lixo preto 9 lts
-indefinido	paraf 9 x 9 cabeca chata phs bicro 9 x 9 mdf
-indefinido	paraf allen s cab inox 9/9 x 9/9 ciser
 litro	saco lixo evaristo 9 super refo 9 l
 caixa	caldo knorr carne cxa 9 x 9 9 g
-indefinido	parafuso sext 9/9 x 9 c porca
-indefinido	carbocisteina xarope 9 mg ml
+unidade	luva procedim top quality tam p 9 un medix
+ml	carbocisteina xarope 9 mg ml
 m3	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio comprimido 9 9 9
-m3	ar comprimido cil linde 9 l 9 m 9 vz onu 9 ar comprimido 9 9
+m3	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio comprimido 9 9 9
 m3	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio comprimido 9 9 9
 m3	oxigenio med cil linde 9 l 9 m 9 vz onu 9 oxigenio comprimido 9 9 9
 ampola	gentamicina 9 mg 9 ml inj c 9 amp
-ampola	hyplex b inj cx 9 amp complexo b
-ampola	dipirona sodica injetavel cx 9 ampolas
+caixa	agulha 9 x 9 cx 9
+caixa	luva de procedimento g cx 9
+grama	ceftriaxona 9 g f a cx 9
 caixa	luva de procedimento p cx 9
+indefinido	filme raio x 9 x 9 cm
 caixa	diclofenaco sodico 9 mg 9 ml cx 9
 caixa	luva de procedimento p cx 9
 indefinido	filme raio x 9 x 9 cm
 comp	cabergolina 9 mg ct 9 fr c 9 cp
 indefinido	boldo
 grama	pastilha sanitaria disoflor lavanda 9 g
-litro	alcool gel 9 9 litros
-litro	massa acri 9 l hidrotintas
-litro	duramais 9 l branco neve lux
-galao	pinta piso azul gl gl 9 x 9
 litro	selador acrilico iquine delanil 9 l
+litro	dialine esm sec rap bco neve 9 l
 grama	esmal sintetico 9 g hidrotintas
-litro	tinta lux colorir 9 l azul turquesa
-kg	tinta esmalte branco gelo kg
-galao	dialine esmalt gl branco neve
-litro	tinta iquine pintalar vinil acr 9 l perola
-litro	oleo dulub hidraulico 9 9 lt
+litro	coralar acr gl 9 l branco
+litro	glutaron 9 dias 9 l inativador 9 g
 litro	fixador p raio x galao c 9 litros p preparar 9 l marca hexa fotoq
-galao	dialine esm platina gl gl 9 x 9
+litro	tinta lux colorir 9 l azul turquesa
+galao	dialine esmalt gl branco neve
+litro	iquine dialine esm 9 l cinza medio bri
+litro	tinta iquine pintalar vinil acr 9 l perola
+litro	fixador p raio x galao c 9 litros p preparar 9 l marca hexa fotoq
 litro	tinta esm sint cinza 9 l
-indefinido	esmalte sintetico latao
 litro	dialine esmalte sintetico 9 lt
-litro	esm extralux 9 l cinza medio
 galao	esm sint gl vermelho hidrotintas
 litro	thinner tempo 9 gl 9 l
-litro	extralatex branco neve 9 lt hidracor
+galao	thinner galao
+galao	esm sint gl azul del rey hidrotintas
 litro	solvente natrielli gl 9 lt
+litro	agua destilada 9 lt galao
+galao	esmalte extralux galao azul franca
+litro	thinner galao 9 lt 9
 litro	coralar esm vermelho 9 l sec rapida
-litro	tinta acril pintapiso 9 lt cz medio coral
-litro	esmalte sintetico 9 lt
-indefinido	preservativo nao lubrificado
-indefinido	saco plast transparente 9 x 9 micras
-indefinido	saco para lixo preto 9 lt
+indefinido	papel a 9 9 g 9 x 9 hp office 9 f
+ml	ambroxol xpe ped c 9 ml teuto teuto
 indefinido	tijolo 9 furo
-litro	saco p lixo comum 9 l pr
 indefinido	coentro mol
-indefinido	concentrado amarelo ox t n 9 ml coral
 litro	garrafa pet cp 9 l ct
-litro	saco para lixo branco hospitalar 9 lt
+indefinido	coentro mol
 indefinido	manjericao molho
 indefinido	tinta pigmentada prism color
-indefinido	gelnat 9 mg ml c 9 ml nativita nativita
-indefinido	cloreto de sodio solucao 9 c 9 ml fresenius
-indefinido	prednisolona fosf sod 9 mg ml 9 ml prati prati donaduzzi
-indefinido	prednisolona fosf sod 9 mg ml 9 ml prati prati donaduzzi
+ml	gelnat 9 mg ml c 9 ml nativita nativita
+litro	saco para lixo branco hospitalar 9 lt
+ml	prednisolona fosf sod 9 mg ml 9 ml prati prati donaduzzi
 litro	saco p lixo 9 lts inf
 indefinido	espinafre mol
 litro	creme protetor solar fps 9 9 l
 grama	margarina extra cremosa c sal embal 9 g
 comp	hidroxicloroquina 9 mg prednisona 9 mg 9 c psulas
 grama	doce de leite pastoso sem corante embal c 9 gr marca triangulo
-grama	margarina produzida excl de gordura vegetal adicao de sal com gordura trans embal c 9 gr marca deline
 indefinido	placa eva verde bandeira 9 x 9
-kg	gel ultrassonografia 9 kg vicpharma
-comp	fluxon 9 mg c 9 comp neo hosp neo hospitalar
 comp	tensioval 9 mg c 9 comp san sanval hosp
-comp	afolic 9 mg c 9 comp hosp natulab hosp
-comp	espironolactona 9 mg c 9 comp hip hipolabor hosp
-indefinido	caneta alta rotacao
+comp	finasterida 9 mg c 9 comp germed
+comp	predcort 9 mg c 9 comp vitapan
+unidade	lapis hidrocor c 9 neopen compactor
+unidade	lapis hidrocor c 9 neopen compactor
+kit	kit estabilizador diant 9
 unidade	abridor de boca adulto maquira 9 un
 indefinido	enf de festa 9 pcs 9
-indefinido	ar cond split 9 btus kos 9 fc princess komeco
 indefinido	9 face movel de modulo simples ou duplo
-indefinido	r 9 planetaria coniflex 9 d
-indefinido	tinta guache 9 ml
+indefinido	pilha aa peq c 9 comum
+indefinido	modulo tk 9 hs 9 digitos modul
+ml	tinta guache 9 ml
 conjunto	conj poa 9 pcs tw 9 9/9
-indefinido	terno completo kgs
 indefinido	fechadura pop wc 9/9 ip
-indefinido	alface crespa
+indefinido	f sforo
 indefinido	couve folha
 indefinido	fosforo
-indefinido	fosforo
-indefinido	leite de coco 9 ml granville
-indefinido	oleo de soja 9 ml
-indefinido	vinagre de alcool embal c 9 ml
-indefinido	vinagre de alcool para culinaria embal c 9 ml
-indefinido	vinagre de alcool embal c 9 ml
+unidade	fosforo maco c 9 cx
+indefinido	fosforo parana
+ml	leite de coco 9 ml granville
+indefinido	suco caju
+ml	oleo soja soya 9 ml
+ml	oleo de soja 9 ml
+ml	vinagre de alcool embal c 9 ml
+ml	leite de coco 9 ml granville
+frasco	metilprednisolona 9 mg f a dil 9 ml unimedrol
+ml	ipsilon 9 ml inj 9 gr
 indefinido	ceftriaxona 9 mg marca teuto
-indefinido	hidrocortisona gliocort 9 mg po inj novafarma
 unidade	hidrocortisona 9 mg c 9 inj
+frasco	penicilina 9 f a c 9 inj imposto ibpt nacional 9
+ml	metronidazol 9 mg ml 9 ml inj
 caixa	ceftriaxona 9 gr iv im s dil cx 9 f a biochimico
 frasco	lidocaina 9 s v cx c 9 f a
-indefinido	hidrocortisona 9 mg
-frasco	omeprazol 9 mg 9 ml dil cx 9 f a blausiegel
 grama	papel copimax a 9 9 g
-indefinido	papel oficio 9
-grama	papel oficio a 9 9 x 9 9 g copimax
-indefinido	papel a 9 rino rs
+unidade	papel sulfite a 9 c 9 fls
 unidade	papel sulfite a 9 bco c 9 fls
 indefinido	estileto lamina estreita
-grama	papel a 9 9 g
+unidade	papel sulfite a 9 bco c 9 fls
+unidade	papel ofic a 9 c 9 hp office
 indefinido	papel a 9 branco resma
 unidade	papel a 9 com 9 folhas rino
 indefinido	papel a 9 rino rs
@@ -1015,163 +1024,154 @@ indefinido	ciprobacter 9 mg bolsa injetavel ciprofloxacino
 indefinido	ciprobacter 9 mg bolsa injetavel ciprofloxacino
 comp	atenolol 9 mg cx 9 cps gen
 comp	nitrofurantoina 9 mg cx 9 caps gen
-comp	ampicilina 9 mg caps gen
+comp	amoxacilina 9 mg c 9 comp
 comp	cefalexina 9 mg c 9 cpr teuto teuto
 indefinido	moldado mdf 9 mm antiqua nat
-indefinido	mdf branco tx 9 f 9 x 9 x 9 mm
 indefinido	comp da leo 9 x 9 x 9 mm
-indefinido	avastin 9 mg 9 ml 9 vial br
+ml	avastin 9 mg 9 ml 9 vial br
 grama	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9
 grama	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9
 grama	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9
-indefinido	monarch cart p acrysof iib ms 9 lote 9 val 9 9
+grama	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9
 indefinido	monarch cart p acrysof iib ms 9 lote 9 val 9 9
 indefinido	revista dto ambiental vol 9 9 etq
 indefinido	semen nata 9 mg 9 9 raca go 9
-indefinido	mabthera 9 mg 9 ml 9 vial te br
-grama	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9
+ml	mabthera 9 mg 9 ml 9 vial te br
+kit	kit faco 9 mm laureate lote 9 h val 9 9
 indefinido	amoxicilina 9 mg l 9 l 9 q 9 f v
 metro	veda rosca 9 x 9 mts polytubes
+indefinido	vidrion c cimenta o
 unidade	caneta esferografica azul 9 c 9 und
-rolo	gase rolo 9 x 9 9 fios bio textil bio textil
-unidade	copo descart vel caixa c 9 unid copobras
-unidade	carbono 9 face cx c 9 fls
-grama	bombom sortidos garoto 9 gr
+unidade	caneta esferografica azul 9 c 9 und
+grama	papel a 9 9 g copimax
 indefinido	base p rele fotoeletrico tecnolinsa 9
 indefinido	eletroduto rosc 9/9 antichama krona tributos incidentes 9 r 9 fonte ibpt 9
-indefinido	armacao 9 x 9 nuclear tributos incidentes 9 r 9 fonte ibpt
+indefinido	base p rele fotoeletrico tecnolinsa tributos incidentes 9 r 9 fonte ibpt 9
 conjunto	cj 9 inter paralelo 9 a 9 v pl br prm 9 tributos incidentes 9 r 9 fonte ibpt prm 9
-unidade	caneta compactor 9 c 9 az
 grama	caldo arisco galinha 9 x 9 g
-grama	caldo arisco galinha 9 x 9 g
-indefinido	triage painel cardiaco testes lote w 9 rb validade
 indefinido	creatinina enzimatica lote 9 validade
+indefinido	triage painel cardiaco testes lote w 9 rb validade
 indefinido	triglicerides enzimatico
 indefinido	psa reagent 9 x 9 testes lote 9 validade
 indefinido	tgo com fosfato de peridural lote 9 validade
-caixa	omeprazol 9 mg injetavel cx 9 ampolas oprazon
 unidade	tubo plast p col a vacuo tp am 9 ml 9 x 9 mm c ativ coag gel sep rack c 9 und marca injex
 unidade	tubo p col a vacuo plast tp am 9 ml 9 x 9 mm c ativ coag gel sep rack c 9 und lote 9/9 marca injex
 ampola	furosemida 9 mg injetavel cx 9 ampolas
-indefinido	sais reidratante oral env
+unidade	papel oficio a 9 report 9 x 9 c 9 fls
 indefinido	papel oficio report a 9
 unidade	papel oficio a 9 report 9 x 9 c 9 fls
 indefinido	papel oficio 9 branco 9 gm 9 x 9 mm
 unidade	papel oficio a 9 report 9 x 9 c 9 fls
+unidade	papel oficio a 9 9 x 9 c 9 fls
 unidade	papel chamex mult a 9 c 9 fls 9 x 9
 unidade	papel oficio a 9 9 x 9 c 9 fls
 indefinido	papel recilado formato a 9
 grama	papel a 9 copimax branco 9 g 9 fls
 unidade	papel oficio a 9 report 9 x 9 c 9 fls
-indefinido	fardamento profissional
+grama	papel oficio 9 g m 9 p 9
+indefinido	papel a 9 colors 9 x 9 rosa
 conjunto	conjunto de caminh o tipo ca amba
-indefinido	ar condicionado tipo split de 9 btu s
 indefinido	avi o biplano de madeira
 indefinido	cabecote de corte craniotomia laminectomia panther
 indefinido	ficha de visita domiciliar
+indefinido	bloco post it 9 am 9 x 9 mm
 indefinido	gera
-indefinido	evolu o
-indefinido	ficha de fisioterapia
 indefinido	ficha de visita domiciliar
 indefinido	ficha h do caps
 kg	acido borico p a kg ref 9 marca isofar imposto ibpt nacional 9
-indefinido	soro anti a monoclonal 9 ml marca prothemo
-grama	marreta oitavada 9 g forjada ref 9/9
-indefinido	parafuso 9 f 9
+kit	copo caneca marca kit merenda
 indefinido	9 r 9 lamina retro 9 e amarela cat
 ampola	norepinefrina 9 mg ml cx c 9 amp
-ampola	hidrocortisona 9 mg injetavel cx 9 ampolas
 caixa	ocitocina inj cx 9
-ampola	butilescopolamina dipirona sodica 9 ml cx 9 amp
 grama	cefazolina sodica 9 g po liof inj cx 9
 ampola	dexametasona 9 mg ml amp x 9 ml cx 9 amp
-indefinido	metronidazol sol a 9 9 ml c 9 gen
-indefinido	casa grande de atividade 9 monte libano
-indefinido	azitromicina 9 mg ml 9 mg pharlab lote 9
-unidade	papel a 9 copimax 9 x 9 c 9 fls 9 x 9
+ampola	clindamicina fosfato 9 mg amp cx 9
+ml	levofloxacino dosagem 9 mg 9 ml gen c 9
+ml	vitamina do complexo b 9 ml solucao oral medquimica
+ml	azitromicina 9 mg 9 ml 9 mg pharlab
+ml	azitromicina 9 mg ml 9 mg pharlab lote 9
+indefinido	can esf bic cristal soft 9 az
 indefinido	singulair baby 9 mg 9 sac
 frasco	duovent aer fr 9 ml
-comp	venlaxin 9 mg com 9 cpr
-comp	reuquinol 9 mg com 9 cpr
-comp	gamax com 9 cpr
 comp	gamax com 9 cpr
 metro	tubo pvc 9 mm c 9 mts p bolsa classe a
+indefinido	canton 9/9 x 9/9
 kg	varao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+metro	barra chata 9/9 x 9/9 a 9 9 m
 indefinido	tubo de esgoto 9 mm classe a
-indefinido	cutenox sod 9 mg 9 ml c 9 seringas biochimico
 kg	creme de goiaba tambau 9 kg
 indefinido	ferro sinobras 9/9 const barra tributos incidentes 9 r 9 fonte ibpt 9 a
 indefinido	ferro gerdau 9/9 const barra tributos incidentes 9 r 9 fonte ibpt 9
-indefinido	ferro sinobras 9/9 const barra tributos incidentes 9 r 9 fonte ibpt 9
 indefinido	oleo motor
-indefinido	bio latex pcr 9 ml p 9 testes bioclin
+ml	lambelxi 9 ml
+ml	bio latex pcr 9 ml p 9 testes bioclin
 indefinido	tgp alt liquiform lab test
+indefinido	bilirrubina colorimetrica 9 bioclin
+metro	papel esteril bobina pgc petpp 9 mmx 9 mt
 metro	papel esteril bobina pgc petpp 9 mmx 9 mt lote 9
+indefinido	salgados diversos
 indefinido	toner samsung cltk 9 s preto
-grama	neomicina bacitracina pomada 9 g lote 9/9
-indefinido	veste para vel rio feminino
+litro	hipoclorito de sodio lt
 indefinido	miconazol creme vag 9 g aplic s cx hipola hipolabor
 caixa	nylon 9 9 c ag 9 cm cx 9
-caixa	nylon 9 9 c ag 9 cm cx 9
 indefinido	laranjas frescas
-indefinido	impressora lazer samsung sl m 9 w
-indefinido	w colcimentcolaintcinzaac 9 kgplh
+indefinido	bananas frescas
 m3	cilindro de oxig nio de 9 m 9
-m3	cilindro de oxig nio de 9 m
-m3	cilindro de oxig nio de 9 m 9
-indefinido	fluconazol 9 mg ml 9 ml sist fechado
-indefinido	coletor urina sist fechado fr 9 ml medsonda
-litro	lubrificante ursa super td sae 9 w 9 9 l
+ml	coletor urina sist fechado fr 9 ml medsonda
+indefinido	chassis ca 9 9/9
+litro	massa corrida 9 lts
 litro	tirreno arla 9 9 l
-indefinido	casinha divertida 9 monte libano
+litro	lubrificante ursa super td sae 9 w 9 9 l
 indefinido	batata inglesa da terra
 indefinido	gold elisa chagas
-kg	cimento de 9 kgs
+indefinido	coentro
 indefinido	coentro
 indefinido	alface
+indefinido	coentro
 indefinido	coentro
 indefinido	coentro
 indefinido	coentro
 indefinido	coentro
 indefinido	coentro
 unidade	pilha alcalina pequena aa lr 9 cartela c 9 und
-indefinido	verniz sparlack extra marit brilh 9 ml
 litro	desinfetante concentrado caravela 9 lt
 indefinido	ferro ca 9 9 mm 9/9 reto
-indefinido	ferro 9 mm 9/9 reto
 indefinido	varao de ferro 9/9 ca 9 gerdau
+indefinido	metronidazol susp 9 mg ml c 9 ml g vp s c pediatrico prati donaduzzi
 indefinido	ampicilina susp oral 9 mg vdr 9 ml prati
+litro	arla 9 ipi bd 9 l
+indefinido	alface crespa
+indefinido	rodo duplo espumado 9 cm com cabo
+grama	caldo carne caixa c 9 9 gr
+ml	seringa desc 9 ml c ag
+indefinido	contrat emp esp prest div serv manut prev corret aplic pecas gen orig mat nec perf func veic m obra na frota fms pmcg
+indefinido	filtro combustivel
 indefinido	bisacodil 9 mg
 indefinido	cefalexina 9 mg
-indefinido	regua lat gel cml h 9 9 mm sav
-indefinido	regua moldura cml h 9 9 mm fen
-indefinido	cartucho hp 9 c 9 bb preto
 indefinido	cartucho hp 9 xl cz 9 ab col
 indefinido	lampada economica de 9 w 9 br
 indefinido	cartucho hp 9 cz 9 ab preto
 kg	glp em botijao de gas de 9 kg
 indefinido	adaptador femea 9
 kg	glp em botijao de 9 kg
-indefinido	proteina total 9 ml in vitro lotes 9 9 9
-grama	pastilha sanitaria tri d lavanda 9 g
+indefinido	transaminase piruvica sistema para determinacao da
+ml	proteina total 9 ml in vitro lotes 9 9 9
 grama	caldo de carne galinha 9 x 9 gr knnor
-indefinido	enoxaparina sodica 9 mg 9 ml cx 9
 indefinido	cateter o 9 tipo oculos n 9 pct 9
-unidade	caldo de galinha e carne knor tira c 9
 indefinido	caldo de galinha
-conjunto	cj potes de vidro 9 pcs
-indefinido	barra de direcao palio 9
-indefinido	servico de suporte tecnico operacional e
+indefinido	filtro anti polen
+indefinido	bateria unipower 9 v 9 ah f 9 up 9
 indefinido	alface
 indefinido	cabo flex 9 kv 9 mm corfio pr
 indefinido	cabo pp 9 x 9 mm 9 kv corfio
 indefinido	luva cirurgica 9 esteril
 indefinido	luva cirurgica 9 esteril
 indefinido	dob silvana d canto 9 x 9/9 pol dzp
-grama	caldo de galinha 9 x 9 g
-indefinido	fita adesiva 9 x 9 acrifit transp
+ampola	sulfato de magnesio a 9 9 ml cx c 9 amp plast
 indefinido	conector de perfuracao cdp 9
+litro	lava roupas conc tradicional 9 lt
 litro	oleo 9 9 lts
+indefinido	voice panel 9 portas cat 9
 grama	maionese arisco 9 x 9 gr
 unidade	esponja multiuso unid 9 x 9
 grama	macarrao tipo espaquete 9 g

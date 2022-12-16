@@ -1,0 +1,17 @@
+﻿
+ML ml
+COMP comp
+G grama
+UND unidade
+L litro
+KG kg
+m metro
+m3 m3
+CX caixa
+AMP ampola
+FR frasco
+CONJ conjunto
+KIT kit
+CIL cilindro
+ROL rolo
+GL galao
