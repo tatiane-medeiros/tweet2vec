@@ -1,0 +1,785 @@
+metro	metro,indefinido,litro,ml,ampola,grama,kit,m3,rolo,frasco	fita adesiva autoclave 9 mm x 9 m
+indefinido	indefinido,indefinido,kg,metro,ml,frasco,grama,litro,kit,comp	areia
+indefinido	indefinido,metro,ml,kit,comp,conjunto,caixa,rolo,grama,unidade	placa isopor 9 mm
+comp	comp,caixa,unidade,indefinido,grama,m3,kg,frasco,litro,ampola	diazepam 9 mg 9 cp b 9
+indefinido	indefinido,indefinido,grama,kg,metro,kit,caixa,rolo,ml,frasco	banana
+comp	comp,indefinido,caixa,unidade,grama,kg,litro,frasco,metro,m3	gardenal 9 mg 9 cp
+kg	kg,grama,unidade,indefinido,metro,litro,comp,rolo,conjunto,kit	polpa cong de frutas canaa caja 9 kg
+grama	comp,grama,caixa,indefinido,unidade,ampola,metro,frasco,kg,litro	ceftriaxona 9 g po sol inj im iv cx 9
+indefinido	indefinido,grama,litro,indefinido,ml,conjunto,metro,unidade,rolo,frasco	hemstab ref 9 9 lote 9 validade
+indefinido	indefinido,unidade,grama,caixa,metro,litro,ml,comp,rolo,frasco	luva ciriugica est n 9 lt 9
+comp	comp,indefinido,unidade,caixa,grama,kg,frasco,metro,cilindro,ml	levonorg etinilest 9 caps
+unidade	ml,indefinido,ampola,frasco,grama,caixa,comp,unidade,rolo,litro	nutrison 9 energy tetra 9 ml cx c 9 lot 9 fab val
+litro	indefinido,grama,litro,ml,metro,indefinido,rolo,unidade,frasco,conjunto	extralatex branco neve 9 lt hidracor
+comp	comp,caixa,indefinido,frasco,ml,unidade,metro,ampola,kg,cilindro	alivium 9 ts 9 mg c 9 comp
+kit	kit,indefinido,litro,rolo,kg,caixa,ml,unidade,metro,indefinido	kit pnld
+indefinido	indefinido,unidade,metro,ml,grama,comp,litro,indefinido,frasco,kg	preservativo nao lubrificado
+indefinido	indefinido,metro,ml,unidade,rolo,caixa,kit,conjunto,frasco,m3	a plasticos saco impr a d ne 9 x 9 x 9 mh
+litro	unidade,indefinido,grama,kg,caixa,rolo,litro,metro,comp,ml	removed cera becker tira facil c 9 lt 9
+comp	indefinido,comp,grama,frasco,metro,ml,caixa,kg,unidade,ampola	carbamazepina 9 mg cpr brainfarma
+indefinido	indefinido,metro,grama,unidade,litro,kg,conjunto,rolo,comp,kit	papel a 9 rino rs
+indefinido	indefinido,comp,ml,metro,frasco,unidade,grama,ampola,caixa,m3	paraf cortical 9 x 9 mm iol ropm 9
+grama	indefinido,grama,litro,unidade,kg,ml,metro,indefinido,frasco,caixa	proteina texturizada de soja supresoy carne 9 g
+unidade	unidade,indefinido,grama,litro,comp,ml,caixa,kg,frasco,conjunto	pilha media c 9 und
+indefinido	indefinido,comp,metro,grama,kg,ml,m3,indefinido,frasco,caixa	ampicilina 9 mg
+m3	indefinido,m3,grama,caixa,conjunto,kg,ampola,unidade,metro,ml	cilindro de oxig nio de 9 m 9
+ml	ml,frasco,ampola,unidade,indefinido,caixa,comp,litro,grama,metro	glicosado 9 sol inj 9 ml sist fechado
+indefinido	indefinido,grama,indefinido,conjunto,litro,ml,metro,ampola,kg,unidade	cartilha do ministerio da saude
+indefinido	indefinido,grama,unidade,caixa,litro,metro,kg,conjunto,comp,m3	luva cirurgica esteril no 9 9 9
+kit	kit,indefinido,litro,grama,conjunto,metro,kg,ml,rolo,indefinido	kit cor pin corr yam xtz 9 lander
+indefinido	indefinido,litro,metro,kg,unidade,indefinido,kit,ml,rolo,grama	aso latex direto 9 testes
+ml	ml,indefinido,litro,frasco,metro,rolo,unidade,grama,indefinido,kit	alphagan p col 9 ml
+kg	indefinido,comp,kg,grama,conjunto,caixa,rolo,unidade,kit,ampola	cimento sc 9 k cimpor
+indefinido	unidade,metro,indefinido,kg,grama,litro,comp,rolo,conjunto,frasco	papel cart o filiper a 9 bc
+litro	litro,ml,indefinido,frasco,metro,grama,indefinido,m3,unidade,rolo	tirreno arla 9 9 l
+litro	indefinido,litro,ml,unidade,grama,indefinido,rolo,kg,frasco,kit	massa corrida 9 l balde
+indefinido	indefinido,unidade,metro,grama,rolo,caixa,kg,conjunto,indefinido,litro	papel hig big rool 9 x 9 branco
+indefinido	indefinido,ml,caixa,metro,grama,rolo,conjunto,kit,unidade,kg	placa em t peq frag ang reto 9 x 9 f iol lote iol 9/9 iol 9/9 ropm 9
+comp	comp,indefinido,caixa,grama,unidade,kg,conjunto,rolo,metro,frasco	engov c 9 x 9 cpr
+indefinido	cilindro,comp,m3,metro,caixa,indefinido,unidade,frasco,ampola,rolo	oxigenio medicinal cil pp
+indefinido	indefinido,litro,grama,kg,metro,kit,rolo,conjunto,indefinido,ml	fita kraft 9 sleeve 9 x 9 9 adelbra
+indefinido	indefinido,unidade,frasco,ml,caixa,metro,litro,ampola,grama,rolo	luva cirurgica esteril n 9 imposto ibpt nacional 9
+comp	comp,indefinido,unidade,caixa,kg,conjunto,grama,rolo,metro,ml	gamax com 9 cpr
+indefinido	indefinido,unidade,metro,litro,rolo,ml,frasco,kg,grama,caixa	paraf 9 x 9 cabeca chata phs bicro 9 x 9 mdf
+indefinido	indefinido,metro,kit,rolo,caixa,ml,kg,grama,comp,unidade	almo o
+indefinido	indefinido,grama,ml,unidade,litro,metro,frasco,kg,comp,conjunto	cabo flexivel 9 mm 9/9 kv
+ml	indefinido,comp,grama,caixa,frasco,ml,unidade,metro,kg,ampola	ambroxol infantil xpe c 9 ml lote 9
+ml	ml,indefinido,frasco,litro,grama,metro,indefinido,ampola,cilindro,unidade	metoclopramida 9 mg ml
+indefinido	indefinido,litro,unidade,kit,rolo,kg,metro,ml,caixa,conjunto	baton bastao choc leite
+indefinido	indefinido,ml,unidade,litro,grama,frasco,rolo,indefinido,kg,metro	oleo diesel b s 9 original
+indefinido	unidade,metro,indefinido,kg,comp,caixa,ml,rolo,grama,kit	pds plus vlt 9 ct c ag 9 cm 9/9 cil cod pdp 9 h marca ethicon
+comp	comp,ampola,indefinido,ml,caixa,frasco,kg,grama,metro,unidade	fluxon 9 mg c 9 comp neo hosp neo hospitalar
+indefinido	indefinido,grama,unidade,litro,ml,frasco,kg,metro,rolo,indefinido	porca sext 9/9 unc galv
+indefinido	grama,litro,ml,indefinido,caixa,m3,unidade,metro,ampola,frasco	dialine esm platina gl gl 9 x 9
+litro	unidade,caixa,indefinido,grama,metro,litro,ampola,kg,rolo,comp	saco p lixo infectante 9 l 9 x 9 pct c 9
+comp	comp,indefinido,caixa,metro,grama,unidade,ampola,ml,frasco,m3	baclofeno 9 mg c 9 comp lote 9
+indefinido	indefinido,metro,ml,kit,m3,caixa,rolo,unidade,conjunto,cilindro	folha de isopor 9 mm
+indefinido	indefinido,metro,unidade,comp,grama,indefinido,litro,ml,ampola,rolo	pasta c grampo plast azul acp
+indefinido	indefinido,litro,unidade,indefinido,grama,ml,kg,kit,metro,rolo	sais reidratante oral env
+metro	indefinido,metro,rolo,unidade,litro,ampola,ml,grama,kit,caixa	esparadrapo impermeavel 9 cm x 9 mt
+indefinido	ml,frasco,indefinido,metro,litro,ampola,grama,indefinido,comp,kit	nistatina 9 ui ml sus 9 ml
+indefinido	litro,grama,indefinido,metro,ml,rolo,kit,unidade,kg,frasco	saco para lixo preto 9 lt
+kit	kit,indefinido,litro,rolo,kg,caixa,ml,unidade,metro,indefinido	kit pnld
+indefinido	unidade,indefinido,ml,litro,metro,grama,frasco,cilindro,caixa,ampola	oxacilina sodica 9 mg inj
+indefinido	indefinido,comp,grama,ml,frasco,unidade,kg,metro,caixa,m3	paroxetina c 9 9 mg
+indefinido	indefinido,metro,ml,kit,indefinido,rolo,cilindro,m3,litro,unidade	diesel comum
+grama	caixa,indefinido,unidade,grama,kg,ampola,ml,rolo,litro,kit	kollagenase c cloraf bisn 9 g cx 9
+unidade	unidade,indefinido,caixa,comp,m3,kg,grama,metro,cilindro,kit	ovos granja mauricea c 9
+ml	indefinido,ml,litro,metro,grama,ampola,kit,rolo,conjunto,frasco	lustra moveis perfumado 9 ml
+conjunto	indefinido,litro,kg,metro,unidade,caixa,kit,conjunto,rolo,grama	jogo junta superior c ret
+kg	indefinido,ml,kg,metro,grama,litro,frasco,unidade,indefinido,kit	argamassa unimassa ac 9 revestimento 9 kg
+indefinido	ml,indefinido,unidade,frasco,metro,ampola,comp,litro,grama,caixa	acido urico 9 x 9 ml marca biotecnica lote 9 h 9 a
+indefinido	indefinido,grama,litro,indefinido,ml,conjunto,comp,kg,unidade,rolo	macaranduba madeira serrada ripa
+grama	grama,indefinido,ml,unidade,comp,frasco,kg,litro,conjunto,caixa	cetoconazol creme 9 g sobral
+indefinido	indefinido,kg,metro,caixa,rolo,kit,grama,indefinido,ml,comp	coentro
+indefinido	indefinido,ml,comp,unidade,caixa,grama,frasco,ampola,cilindro,m3	amoxicilina 9 mg prati l 9 v 9/9
+litro	litro,indefinido,ml,grama,frasco,metro,unidade,rolo,cilindro,indefinido	letahcide plus bb 9 l
+indefinido	indefinido,ml,grama,metro,unidade,caixa,frasco,cilindro,comp,rolo	protese cabeca de radio 9 mm lote l 9
+indefinido	indefinido,grama,ml,litro,indefinido,conjunto,metro,kg,frasco,ampola	creatinina ref 9 9 lote 9 validade
+kg	kg,grama,indefinido,caixa,conjunto,litro,comp,unidade,rolo,metro	sal campeao 9 kg
+indefinido	indefinido,unidade,litro,metro,comp,kit,ml,kg,grama,frasco	ar condicionado tipo split de 9 btu s
+grama	unidade,indefinido,grama,metro,comp,frasco,kg,caixa,rolo,ampola	papel oficio a 9 9 x 9 9 g copimax
+indefinido	indefinido,conjunto,grama,litro,metro,unidade,caixa,ampola,ml,rolo	cart 9 grs 9 x 9 mm 9 fls canario
+frasco	ml,frasco,ampola,comp,indefinido,litro,metro,caixa,m3,grama	cefalexina 9 ml ml po o susp oral fr 9 ml
+unidade	unidade,indefinido,kit,litro,indefinido,ml,cilindro,rolo,m3,metro	ovos c 9 und
+grama	grama,indefinido,unidade,ml,ampola,comp,frasco,litro,metro,conjunto	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9
+unidade	unidade,grama,indefinido,metro,kg,comp,rolo,frasco,litro,caixa	papel oficio a 9 report 9 x 9 c 9 fls
+m3	m3,indefinido,metro,cilindro,ml,caixa,comp,indefinido,conjunto,litro	oxigenio 9 m 9
+ml	ml,comp,frasco,ampola,indefinido,metro,unidade,caixa,grama,m3	azitromicina 9 mg ml 9 mg pharlab lote 9
+ml	ml,indefinido,litro,frasco,unidade,rolo,cilindro,grama,metro,kit	oleo de soja soya 9 ml
+indefinido	indefinido,litro,unidade,frasco,ml,grama,metro,indefinido,kit,rolo	omeprazol 9 mg injet vel
+indefinido	indefinido,unidade,conjunto,litro,grama,metro,indefinido,ml,kit,kg	tule ilusao nude
+indefinido	indefinido,indefinido,conjunto,metro,rolo,ml,grama,unidade,kit,cilindro	papel madeira
+indefinido	indefinido,indefinido,conjunto,ml,litro,rolo,cilindro,caixa,kg,unidade	laranja pera
+ml	grama,ml,litro,frasco,indefinido,kg,metro,ampola,caixa,unidade	cefalexina 9 mg 9 ml g
+indefinido	indefinido,indefinido,unidade,litro,grama,kg,metro,kit,conjunto,frasco	massa corrida latao eucatex
+unidade	unidade,grama,indefinido,metro,kg,comp,rolo,frasco,litro,caixa	papel oficio a 9 report 9 x 9 c 9 fls
+m3	m3,indefinido,metro,cilindro,ml,caixa,comp,indefinido,conjunto,litro	oxigenio 9 m 9
+ml	ml,ampola,unidade,indefinido,frasco,metro,comp,caixa,grama,litro	furosemida 9 mg ml 9 ml sol inj
+unidade	indefinido,comp,unidade,grama,caixa,kg,litro,kit,metro,cilindro	pino tramontina femea 9 p pote c 9
+litro	unidade,indefinido,grama,caixa,comp,ml,kg,frasco,ampola,litro	carrinho metalosa 9 x 9 verm 9 l c 9 un
+comp	comp,grama,frasco,indefinido,ml,unidade,ampola,kg,caixa,metro	metronidazol 9 mg generico cprs prati donaduzzi pr
+indefinido	indefinido,metro,kit,conjunto,unidade,litro,ampola,m3,frasco,rolo	tom 9 pt 9 a claris c pl prm 9 tributos incidentes 9 r 9 fonte ibpt prm 9
+indefinido	indefinido,grama,metro,litro,kg,kit,conjunto,indefinido,rolo,unidade	cenouras e nabos frescos ou refrigerados
+metro	unidade,indefinido,frasco,litro,metro,comp,kg,caixa,ml,grama	gaze hidrofila 9 cmx 9 m 9 fios stander nataly
+m3	m3,indefinido,comp,caixa,frasco,unidade,ml,metro,grama,cilindro	ar comprimido 9 m 9
+indefinido	indefinido,unidade,litro,grama,kit,frasco,kg,ml,metro,rolo	bota p const elastico hawai n 9 9 par
+kg	kg,grama,indefinido,comp,litro,conjunto,caixa,ml,unidade,indefinido	sal mimosal 9 kg
+indefinido	ml,indefinido,ampola,caixa,grama,frasco,comp,m3,unidade,metro	dexclorfeniramina 9 mg maleato l 9 q 9 f v l 9 q 9 f 9/9
+indefinido	indefinido,m3,indefinido,kit,caixa,ml,kg,rolo,conjunto,metro	gripee 9/9
+litro	litro,ml,indefinido,conjunto,kit,grama,unidade,rolo,frasco,caixa	iguatemi floral bb 9 l desinfetante liquido
+litro	litro,grama,ml,indefinido,frasco,unidade,metro,ampola,rolo,cilindro	desinfetante novo brilho caravela 9 l
+litro	litro,ml,indefinido,frasco,metro,grama,unidade,m3,ampola,comp	refrigerante lim o peti c 9 l
+indefinido	unidade,indefinido,caixa,comp,grama,kg,ml,frasco,metro,m3	algodao hidrofilo 9 g pct 9
+unidade	grama,unidade,indefinido,caixa,litro,kg,comp,metro,frasco,conjunto	carbono 9 face cx c 9 fls
+indefinido	indefinido,kg,unidade,grama,litro,kit,caixa,metro,rolo,indefinido	saco plast transparente 9 x 9 micras
+indefinido	indefinido,grama,litro,comp,ml,indefinido,metro,kg,frasco,unidade	sifao univ ssum br 9 astra
+comp	comp,grama,kg,indefinido,caixa,unidade,frasco,ampola,conjunto,m3	cimetidina 9 mg cpr g
+ml	ml,ampola,indefinido,metro,kit,caixa,conjunto,frasco,cilindro,litro	soro anti a monoclonal 9 ml marca prothemo
+ampola	ml,frasco,indefinido,unidade,rolo,metro,grama,litro,caixa,conjunto	agua bidestilada cx c 9 amp x 9 ml farmace lt 9 e 9 fab val
+indefinido	indefinido,comp,ml,indefinido,grama,frasco,litro,ampola,metro,unidade	nitrogenio liq caminhao tanque
+ml	ml,frasco,metro,ampola,grama,litro,indefinido,cilindro,rolo,unidade	levofloxacino 9 mg ml 9 ml
+indefinido	indefinido,grama,indefinido,metro,conjunto,rolo,kit,caixa,kg,unidade	escova de robson
+frasco	comp,indefinido,grama,ml,caixa,metro,frasco,unidade,ampola,kg	paracetamol 9 mg fr c 9 ml lote g 9
+indefinido	indefinido,grama,kg,unidade,caixa,conjunto,ml,rolo,metro,comp	base do amortecedor
+indefinido	indefinido,grama,comp,kg,unidade,conjunto,metro,caixa,ml,ampola	cola silicone 9 gr polystic
+ml	metro,indefinido,ml,frasco,caixa,unidade,rolo,litro,ampola,grama	agua destilada 9 ml cx c 9 lote 9
+indefinido	indefinido,indefinido,grama,kg,metro,kit,caixa,rolo,ml,frasco	banana
+indefinido	indefinido,litro,indefinido,unidade,metro,conjunto,grama,rolo,kit,ml	luvas em latex
+indefinido	indefinido,metro,kit,caixa,kg,litro,rolo,grama,m3,unidade	fio 9
+unidade	unidade,indefinido,caixa,litro,ml,grama,conjunto,cilindro,m3,rolo	ovos bandeja c 9 und
+comp	unidade,indefinido,comp,caixa,litro,kg,grama,metro,ampola,rolo	halo 9 mg haloperidol 9 cpr c 9
+indefinido	indefinido,metro,litro,grama,indefinido,kg,comp,rolo,kit,conjunto	fer n 9 zamac cr contra fech de abrir aba
+indefinido	indefinido,grama,kg,unidade,caixa,litro,metro,rolo,kit,conjunto	fita dupla face eurocel 9 x 9 sf 9
+ampola	indefinido,grama,ml,comp,frasco,ampola,unidade,indefinido,rolo,metro	omeprazol 9 mg injetavel cx 9 ampolas cristalia
+litro	litro,indefinido,grama,metro,unidade,kit,ml,rolo,kg,frasco	saco para lixo branco hospitalar 9 lt
+ml	unidade,ampola,frasco,indefinido,ml,caixa,grama,comp,cilindro,metro	soro glicosado 9 s f 9 ml cx c 9 sanob
+litro	indefinido,litro,ml,unidade,grama,indefinido,rolo,kg,frasco,kit	massa corrida 9 l balde
+ml	ml,indefinido,frasco,metro,grama,unidade,litro,cilindro,rolo,m3	benzilp benz 9 ui inj 9 ml
+caixa	indefinido,ml,frasco,grama,ampola,metro,comp,caixa,conjunto,cilindro	ceftriaxona 9 gr iv cx 9 fa celltriaxon fab cellofarm
+indefinido	indefinido,metro,comp,unidade,ml,kg,rolo,grama,frasco,caixa	parafuso latao mq unc 9/9 x 9/9 completo
+litro	litro,indefinido,indefinido,metro,ml,grama,rolo,kit,conjunto,kg	shine dry 9 lt
+indefinido	indefinido,ml,unidade,metro,kit,rolo,indefinido,kg,cilindro,litro	papel filme
+frasco	indefinido,grama,ml,unidade,kg,conjunto,caixa,metro,kit,rolo	actilyse 9 mg cx 9 f a dil 9 ml canu alteplase boehringer
+caixa	caixa,comp,indefinido,unidade,grama,kg,metro,frasco,conjunto,ml	nylon 9 9 c ag 9 cm cx 9
+indefinido	indefinido,metro,unidade,grama,comp,ml,frasco,rolo,conjunto,ampola	papel p e c g 9 mm x 9 mm daru
+litro	litro,indefinido,unidade,grama,kg,metro,rolo,indefinido,kit,ml	blue amaciante bactericida p roupas 9 lts
+grama	grama,indefinido,kg,unidade,ml,conjunto,cilindro,litro,caixa,comp	biscoito doce maria 9 gr
+ml	ml,indefinido,frasco,litro,unidade,cilindro,metro,grama,indefinido,rolo	albumina humana 9 9 ml
+grama	grama,indefinido,kg,litro,metro,unidade,ml,caixa,rolo,indefinido	leite em po integral saco 9 g
+indefinido	indefinido,ml,litro,unidade,metro,grama,conjunto,frasco,kg,kit	tijolos de lajota com oito furos
+ml	indefinido,metro,grama,ml,frasco,conjunto,unidade,litro,ampola,caixa	celestrat xpe 9 ml uniao quim
+metro	indefinido,unidade,grama,metro,ml,conjunto,litro,ampola,caixa,m3	sapucaia serr em linha 9 m 9/9
+litro	indefinido,litro,metro,grama,unidade,ml,rolo,ampola,cilindro,kit	base coralservice coralmur 9 lt t
+litro	litro,indefinido,kit,metro,ml,kg,rolo,unidade,indefinido,grama	arla 9 9 lt
+unidade	indefinido,ml,litro,metro,kit,unidade,rolo,indefinido,frasco,conjunto	sonda de aspiracao traqueal n 9 pct c 9 medsonda
+indefinido	indefinido,ml,comp,grama,unidade,frasco,litro,ampola,caixa,metro	dobradica 9 x 9 chumbar
+unidade	indefinido,grama,unidade,kg,litro,comp,ml,metro,caixa,frasco	caldo de galinha e carne knor tira c 9
+indefinido	indefinido,indefinido,metro,conjunto,litro,grama,ml,kit,unidade,kg	flores naturais
+indefinido	unidade,indefinido,ml,grama,frasco,metro,rolo,ampola,litro,cilindro	atadura de crepom 9 cm 9 alg 9 fios polar
+indefinido	indefinido,unidade,ml,comp,frasco,ampola,metro,litro,kg,caixa	transaminase tgo colorimetrico bioclin
+metro	indefinido,ml,unidade,metro,frasco,caixa,litro,kit,m3,conjunto	bobina p ester 9 mm x 9 m vedamax l 9 val 9/9
+unidade	unidade,indefinido,grama,litro,caixa,metro,ml,cilindro,kg,m3	ovos brancos bandeja c 9 und
+metro	unidade,metro,rolo,indefinido,caixa,ml,frasco,grama,comp,kg	atadura de crepom 9 f 9 cm x 9 m pct c 9 lote 9
+conjunto	indefinido,metro,ml,rolo,unidade,grama,conjunto,kit,litro,frasco	jogo de juntas parcial do motor
+frasco	indefinido,ampola,frasco,ml,comp,metro,unidade,grama,caixa,conjunto	vitamina c 9 mg f a 9 ml farmace
+comp	ml,comp,grama,unidade,indefinido,metro,frasco,litro,ampola,caixa	paracetamol 9 mg tylalgin cpr
+indefinido	ml,indefinido,ampola,frasco,rolo,grama,litro,metro,unidade,conjunto	concentrado amarelo ox t n 9 ml coral
+indefinido	indefinido,metro,comp,kit,caixa,kg,rolo,grama,indefinido,ml	reparo
+indefinido	indefinido,kit,ml,rolo,litro,unidade,comp,grama,conjunto,metro	9 neuroestimulador implantavel activa pc canal duplo
+grama	indefinido,unidade,ml,grama,caixa,litro,rolo,comp,kg,kit	babymed rosa 9 g cimed
+indefinido	metro,indefinido,unidade,ml,litro,grama,caixa,rolo,frasco,comp	atadura crepe 9 cm x 9 m ortoflex
+conjunto	conjunto,indefinido,kit,kg,litro,rolo,metro,grama,caixa,unidade	jg pastilha freio traseiro
+indefinido	indefinido,metro,caixa,grama,unidade,ml,frasco,conjunto,rolo,ampola	cabo duplex 9/9 kv 9 x 9 x 9 mm
+indefinido	indefinido,litro,grama,conjunto,indefinido,kit,ml,metro,kg,rolo	batata inglesa da terra
+indefinido	indefinido,kit,conjunto,kg,grama,metro,indefinido,litro,rolo,caixa	ficha de fisioterapia
+unidade	comp,unidade,indefinido,caixa,grama,metro,ampola,ml,frasco,rolo	haloperidol 9 mg cx 9 halo c 9
+comp	comp,caixa,metro,frasco,indefinido,unidade,kg,ampola,ml,grama	carbamazepina 9 mg c 9 cx 9 comp medley
+indefinido	indefinido,litro,grama,unidade,metro,caixa,kit,conjunto,m3,kg	telhas colonial tipo 9
+ml	indefinido,unidade,comp,ml,grama,litro,rolo,indefinido,ampola,frasco	albendazol 9 mg ml susp g rati
+indefinido	indefinido,metro,grama,ml,litro,caixa,unidade,frasco,kg,m3	pinta piso azul gl gl 9 x 9
+grama	grama,indefinido,litro,ml,unidade,rolo,metro,kit,conjunto,kg	doce de leite pastoso sem corantes embal c 9 gr marca triangulo
+grama	grama,kg,indefinido,caixa,litro,unidade,m3,conjunto,rolo,metro	cafe nordestino 9 g
+kg	indefinido,caixa,frasco,kg,metro,rolo,grama,kit,litro,indefinido	gel ultrassonografia 9 kg vicpharma
+grama	grama,indefinido,kg,unidade,caixa,comp,ml,litro,metro,m3	vaselina pomada 9 g
+indefinido	ml,unidade,indefinido,caixa,comp,litro,m3,ampola,grama,frasco	lorazepam 9 mg l 9 q 9 f v portaria 9/9 b 9
+indefinido	indefinido,ml,unidade,frasco,grama,metro,caixa,comp,kg,litro	alcool etilico 9 9 ml ricie
+grama	grama,indefinido,kg,comp,unidade,ml,litro,frasco,metro,indefinido	neomicina bacit pom nebactrina 9 gr
+m3	m3,indefinido,metro,cilindro,ml,caixa,comp,indefinido,conjunto,litro	oxigenio 9 m 9
+unidade	comp,grama,indefinido,unidade,caixa,ampola,conjunto,frasco,metro,kg	captopril 9 mg g cx c 9 mario
+kg	kg,grama,indefinido,unidade,caixa,metro,litro,rolo,ampola,conjunto	feijao carioca tipo 9 9 x 9 kg
+frasco	comp,frasco,metro,unidade,indefinido,grama,caixa,ml,ampola,rolo	omeprazol 9 mg c 9 fr c dil oprazon
+unidade	unidade,grama,indefinido,caixa,litro,kg,comp,ml,indefinido,frasco	esponja de aco c 9 und
+conjunto	indefinido,kg,kit,conjunto,grama,rolo,caixa,ml,litro,metro	conj pagao para maternidade 9 par de sapato 9 par de luvas 9 pano de chupeta e 9 lencol de xixi 9 algodao
+indefinido	indefinido,comp,metro,grama,litro,indefinido,ml,ampola,kit,frasco	fita adesiva 9 x 9 acrifit transp
+litro	litro,metro,indefinido,grama,ml,rolo,frasco,unidade,cilindro,indefinido	detergente concentrado neutro 9 lt
+frasco	indefinido,ml,litro,ampola,metro,comp,m3,caixa,grama,indefinido	fr latex 9 ml marca biotecnica lote 9 h 9 a
+kg	kg,grama,indefinido,caixa,conjunto,indefinido,unidade,litro,rolo,metro	maca gala grande kg
+indefinido	indefinido,ml,indefinido,litro,grama,frasco,metro,rolo,comp,conjunto	metildopa 9 mg sanval tensioval
+ml	ml,indefinido,litro,frasco,metro,unidade,kit,rolo,grama,m3	azopt susp oft 9 ml
+rolo	rolo,ml,litro,metro,frasco,kg,indefinido,conjunto,caixa,kit	gase rolo 9 x 9 9 fios bio textil bio textil
+indefinido	indefinido,ampola,metro,grama,ml,litro,comp,unidade,frasco,caixa	regua lat gel cml h 9 9 mm sav
+indefinido	indefinido,grama,ml,conjunto,metro,kit,unidade,litro,rolo,caixa	psf tancredo neves sanit rio consult rio 9
+cilindro	unidade,grama,ampola,m3,ml,caixa,indefinido,cilindro,frasco,comp	oxigenio med em cil 9 m 9 tg 9 na un 9
+frasco	indefinido,caixa,grama,kg,conjunto,unidade,litro,ml,metro,comp	clor cefepima 9 g po p sol inj cx 9 f cefepima cloridrato aurobindo
+kg	kg,grama,unidade,caixa,indefinido,comp,litro,ampola,rolo,metro	cimento elizabeth cp ii z 9 c 9 kg
+ampola	ml,frasco,indefinido,comp,caixa,ampola,indefinido,unidade,grama,metro	lidocaina 9 s v amp 9 ml hypocaina
+conjunto	conjunto,indefinido,kit,litro,caixa,metro,rolo,kg,grama,indefinido	jg junta completo
+litro	litro,indefinido,ml,metro,indefinido,unidade,grama,frasco,rolo,conjunto	esm extralux 9 l cinza medio
+ml	ml,indefinido,grama,frasco,metro,litro,comp,indefinido,conjunto,ampola	ecofilm col 9 ml latinofar
+kg	kg,grama,unidade,indefinido,caixa,litro,comp,frasco,metro,ml	argamassa itatiunga aci 9 kg
+kg	kg,indefinido,grama,conjunto,m3,comp,metro,cilindro,indefinido,caixa	cimento 9 kg
+metro	indefinido,rolo,kg,grama,metro,caixa,kit,litro,conjunto,ml	gaze em rolo tipo queijo 9 dobras de 9 cmx 9 m megatex
+comp	comp,indefinido,unidade,caixa,grama,frasco,kg,m3,ml,ampola	amiodarona 9 mg 9 cp
+frasco	ml,indefinido,litro,metro,frasco,rolo,grama,cilindro,unidade,kit	annita 9 mg sus fr 9 ml
+grama	indefinido,frasco,comp,caixa,unidade,ml,grama,ampola,metro,kg	metronidazol 9 g 9 mg 9 g creme
+indefinido	m3,indefinido,comp,caixa,unidade,grama,metro,frasco,cilindro,litro	oxcarbazepina 9 mg c 9
+comp	comp,ampola,indefinido,frasco,metro,cilindro,unidade,grama,caixa,ml	dipirona sodica 9 mg comp hosp
+indefinido	indefinido,metro,conjunto,unidade,rolo,kg,indefinido,grama,comp,ml	papel higienico
+grama	indefinido,ml,grama,metro,litro,frasco,ampola,rolo,unidade,cilindro	nebaciderme 9 g pomada mult
+unidade	indefinido,grama,unidade,rolo,litro,ml,kg,conjunto,indefinido,caixa	lamina de bisturi c 9 9 labor
+indefinido	indefinido,unidade,grama,comp,frasco,metro,kg,ml,caixa,rolo	parafuso sext 9/9 x 9 c porca
+indefinido	indefinido,indefinido,grama,conjunto,unidade,metro,ml,litro,kit,rolo	ovos de galinha
+indefinido	indefinido,caixa,ml,metro,rolo,kit,kg,comp,grama,unidade	fosforo
+litro	indefinido,grama,litro,indefinido,metro,kg,unidade,rolo,frasco,comp	massa acri 9 l hidrotintas
+ml	ml,indefinido,grama,frasco,ampola,unidade,metro,conjunto,rolo,caixa	prednisolona fosf sod 9 mg ml 9 ml prati prati donaduzzi
+caixa	caixa,indefinido,unidade,comp,grama,metro,kg,rolo,kit,conjunto	luva de procedimento p cx 9
+comp	comp,indefinido,unidade,ml,caixa,grama,metro,frasco,cilindro,kg	venlaxin 9 mg com 9 cpr
+comp	comp,unidade,indefinido,ml,ampola,frasco,caixa,metro,grama,kg	atenolol 9 mg cx 9 comp vitamedic
+indefinido	litro,indefinido,kit,metro,ml,kg,rolo,unidade,indefinido,grama	arla 9 9 lt
+unidade	indefinido,unidade,comp,grama,litro,caixa,metro,kit,kg,frasco	dipirona envelope c 9 dipimed n 9
+unidade	unidade,indefinido,grama,kg,caixa,litro,rolo,conjunto,metro,comp	pano de prato c 9 ud
+indefinido	indefinido,ml,metro,unidade,cilindro,m3,grama,indefinido,conjunto,caixa	oleo diesel s 9
+kg	indefinido,grama,unidade,litro,metro,ml,caixa,kg,rolo,indefinido	fecula de mandioca lopes 9 kg qtd 9 un
+indefinido	indefinido,conjunto,kit,rolo,metro,grama,litro,kg,caixa,indefinido	9 ps 9 g aditivo
+indefinido	indefinido,metro,ml,indefinido,conjunto,kit,caixa,rolo,cilindro,comp	gasolina comum
+unidade	indefinido,comp,unidade,ml,frasco,grama,metro,ampola,rolo,indefinido	papel linho tam a 9 c 9 und bco offpaper
+frasco	indefinido,litro,conjunto,kit,comp,metro,indefinido,grama,ml,ampola	bio latex fr completo quibasa
+indefinido	indefinido,comp,ampola,unidade,conjunto,metro,frasco,caixa,litro,ml	luva cirurgica n 9 esteril marca mucambo
+indefinido	indefinido,unidade,caixa,ml,conjunto,ampola,grama,comp,litro,rolo	gasolina tipo c no onu 9 cl 9 grp emb ii
+unidade	indefinido,comp,unidade,metro,grama,caixa,conjunto,ml,kg,rolo	papel oficio c 9
+indefinido	indefinido,kit,litro,indefinido,rolo,ml,caixa,conjunto,unidade,metro	ficha laudo
+conjunto	indefinido,grama,litro,conjunto,kit,metro,kg,unidade,ml,comp	filtro cj cabine carvao ativado
+indefinido	indefinido,ml,unidade,litro,metro,kg,ampola,indefinido,frasco,grama	vdrl 9 testes 9 ml lote 9 d 9 validade
+grama	grama,indefinido,kg,unidade,litro,caixa,metro,conjunto,ampola,ml	caldo arisco galinha 9 x 9 g
+caixa	unidade,metro,indefinido,kit,ml,rolo,ampola,caixa,frasco,litro	luva procedimento tam m cx 9 pares medix
+grama	grama,indefinido,unidade,litro,kg,ml,metro,frasco,indefinido,ampola	pastilha sanitaria tri d lavanda 9 g
+grama	grama,kg,indefinido,unidade,litro,caixa,metro,rolo,frasco,ml	caldo de galinha 9 x 9 g
+indefinido	indefinido,ml,ampola,frasco,caixa,comp,grama,metro,kit,conjunto	hidrocortisona gliocort 9 mg po inj novafarma
+indefinido	caixa,indefinido,rolo,kg,metro,kit,litro,grama,conjunto,indefinido	kronel gel ginecologico
+indefinido	unidade,litro,indefinido,grama,metro,indefinido,ml,kit,rolo,kg	tampa lateral comp c titan 9/9 pintada s ad
+grama	indefinido,grama,metro,indefinido,ml,kg,litro,unidade,comp,caixa	neomicina bacitracina 9 g sobral neo
+indefinido	indefinido,kg,metro,caixa,rolo,kit,grama,indefinido,ml,comp	coentro
+caixa	caixa,unidade,comp,indefinido,grama,frasco,metro,m3,kg,cilindro	tenoxican 9 mg inj cx 9
+indefinido	indefinido,frasco,ml,metro,unidade,comp,litro,indefinido,grama,ampola	tenoxicam inj uniao quimica
+indefinido	indefinido,indefinido,metro,litro,kit,ml,kg,rolo,grama,frasco	meia esportiva masculina selene
+grama	grama,kg,indefinido,litro,metro,caixa,unidade,rolo,frasco,cilindro	dexa 9 g creme 9 mg g
+indefinido	indefinido,ml,grama,conjunto,ampola,metro,kit,indefinido,unidade,rolo	colesterol liquiform ref 9 9 lote 9 validade
+kg	kg,grama,litro,indefinido,unidade,metro,rolo,indefinido,caixa,kit	tinta esmalte branco gelo kg
+grama	grama,kg,indefinido,litro,conjunto,unidade,caixa,metro,frasco,comp	cafe santa clara 9 g
+m3	m3,indefinido,metro,cilindro,ml,caixa,comp,indefinido,conjunto,litro	oxigenio 9 m 9
+caixa	indefinido,caixa,unidade,grama,m3,cilindro,comp,frasco,metro,ml	benzilpenicilina 9 cx 9
+indefinido	indefinido,unidade,kg,grama,litro,indefinido,rolo,kit,metro,conjunto	lapis de cor labra grande
+grama	unidade,indefinido,litro,metro,rolo,kg,grama,ml,frasco,kit	papel filipaper casca de ovo branco 9 g fl
+indefinido	indefinido,litro,conjunto,indefinido,unidade,caixa,grama,rolo,metro,kg	luva cirurgica de latex 9 maxitex
+indefinido	indefinido,unidade,grama,kg,metro,comp,ml,caixa,rolo,litro	paraf allen s cab inox 9/9 x 9/9 ciser
+indefinido	indefinido,grama,metro,conjunto,kg,litro,unidade,rolo,ml,indefinido	pastilha de freio traseiro
+unidade	unidade,indefinido,metro,caixa,litro,ml,grama,m3,cilindro,indefinido	ovos granja cascavel bd c 9 un
+m3	m3,ml,metro,frasco,indefinido,unidade,comp,caixa,cilindro,grama	ar medicinal cil k 9 m 9
+indefinido	grama,indefinido,ml,unidade,litro,ampola,metro,comp,frasco,indefinido	impressora lazer samsung sl m 9 w
+grama	indefinido,grama,metro,kg,unidade,comp,litro,rolo,conjunto,indefinido	papel a 9 9 g
+indefinido	indefinido,litro,indefinido,ml,unidade,metro,rolo,kit,grama,caixa	ovos com 9 marca lourdes hortifrut
+indefinido	indefinido,metro,ml,unidade,rolo,frasco,kg,litro,grama,kit	piso cerbras 9 x 9 pei 9 a neve plote
+metro	metro,indefinido,m3,litro,cilindro,kit,indefinido,ml,rolo,conjunto	oxigenio 9 mts
+indefinido	indefinido,metro,ml,grama,unidade,caixa,conjunto,m3,rolo,frasco	gnaisse po de pedra 9 x 9 mm
+grama	grama,indefinido,kg,unidade,litro,ml,caixa,rolo,metro,frasco	leite em po italac int 9 x 9 gr
+kg	kg,unidade,indefinido,litro,grama,metro,caixa,indefinido,rolo,frasco	torta de caro o de algod o sc 9 kg
+metro	indefinido,metro,caixa,ml,rolo,kit,kg,litro,unidade,indefinido	filme para ultrasom typi i normal upp 9 s 9 mm 9 m cx com 9 sony lote 9
+indefinido	indefinido,ml,ampola,caixa,grama,litro,unidade,metro,conjunto,rolo	sulfato de polimixina b 9 ui l 9 q 9 f v
+indefinido	indefinido,conjunto,grama,litro,metro,unidade,caixa,ampola,ml,rolo	cart 9 grs 9 x 9 mm 9 fls canario
+unidade	comp,caixa,unidade,indefinido,frasco,metro,grama,ml,m3,ampola	algodao 9 9 c ag 9 cm cx c 9
+rolo	indefinido,litro,ml,grama,indefinido,kit,ampola,unidade,metro,conjunto	rolo de la 9 cm atlas
+indefinido	metro,indefinido,kg,kit,rolo,frasco,unidade,caixa,comp,ml	reparo cabecote comp ar wabco vw 9 contellation
+indefinido	cilindro,comp,m3,metro,caixa,indefinido,unidade,frasco,ampola,rolo	oxigenio medicinal cil pp
+indefinido	indefinido,frasco,ml,comp,unidade,metro,ampola,litro,grama,indefinido	biperideno 9 mg uniao quimica
+indefinido	indefinido,unidade,grama,kg,indefinido,caixa,conjunto,rolo,kit,comp	envelope carta pequeno
+caixa	ampola,metro,frasco,comp,ml,indefinido,caixa,grama,unidade,conjunto	ceftriaxona 9 g iv im s dil cx 9 amplospec
+comp	comp,frasco,indefinido,caixa,metro,unidade,grama,ml,ampola,rolo	metildopa 9 mg c 9 comp imposto ibpt nacional 9
+comp	comp,unidade,indefinido,caixa,grama,m3,frasco,ml,kg,litro	albendazol 9 mg 9 cp
+litro	litro,grama,indefinido,metro,rolo,ml,kit,frasco,kg,unidade	saco para lixo preto 9 l
+indefinido	metro,indefinido,unidade,grama,litro,rolo,ml,kit,comp,conjunto	papel camurca branco art floc
+grama	grama,indefinido,unidade,litro,ml,kg,ampola,frasco,comp,metro	metronidazol gel vaginal 9 mg g
+litro	litro,indefinido,rolo,metro,indefinido,ml,unidade,kit,frasco,kg	agua mineral 9 litros
+ampola	kit,indefinido,grama,litro,ampola,metro,unidade,rolo,kg,frasco	dipirona sodica injetavel cx 9 ampolas
+indefinido	comp,indefinido,grama,ml,unidade,frasco,metro,caixa,kg,ampola	cabo flex 9 kv 9 mm corfio pr
+litro	litro,indefinido,unidade,metro,grama,kit,kg,rolo,ml,cilindro	viapol ecoprimer manta barrica 9 l
+indefinido	indefinido,grama,kg,conjunto,comp,unidade,caixa,indefinido,kit,metro	macho 9/9 rosca gas
+unidade	unidade,grama,indefinido,metro,kg,comp,rolo,frasco,litro,caixa	papel oficio a 9 report 9 x 9 c 9 fls
+indefinido	indefinido,ml,grama,conjunto,litro,unidade,frasco,rolo,kit,kg	blocos receitu rio de controle especial
+ml	indefinido,ml,metro,caixa,litro,conjunto,kit,kg,unidade,frasco	cloreto de sodio solucao 9 c 9 ml fresenius
+comp	comp,frasco,ml,caixa,indefinido,metro,unidade,ampola,cilindro,kg	azitromicina 9 mg c 9 comp medquimica medquimica
+kit	litro,kit,ml,indefinido,frasco,grama,conjunto,rolo,indefinido,metro	kit andamento titan 9 riffel
+indefinido	indefinido,ml,litro,grama,metro,conjunto,rolo,kit,kg,cilindro	filtro bacteriologico umidificador hmef adulto tubo extensor flexivel gvs do brasil
+indefinido	indefinido,grama,ml,conjunto,kit,ampola,kg,rolo,indefinido,frasco	glicose liquiform ref 9 9/9 lote 9 validade
+unidade	indefinido,grama,unidade,caixa,kg,metro,conjunto,comp,m3,litro	pilha rayovac media c 9
+indefinido	indefinido,metro,ml,cilindro,unidade,rolo,frasco,caixa,grama,indefinido	oleo diesel b s 9 comum
+conjunto	indefinido,unidade,conjunto,grama,litro,indefinido,caixa,ml,kg,metro	jogo de cabo de vela de ignicao
+grama	grama,indefinido,unidade,kg,frasco,ml,litro,comp,metro,ampola	metronidazol gel vag 9 mg g
+indefinido	indefinido,metro,comp,ml,caixa,m3,unidade,kit,litro,frasco	ferro sinobras 9/9 const barra tributos incidentes 9 r 9 fonte ibpt 9
+indefinido	metro,unidade,comp,indefinido,caixa,frasco,ml,ampola,rolo,grama	pds ii vlt 9 9 9 cm ps 9 z 9 g marca ethicon
+indefinido	indefinido,indefinido,grama,metro,litro,conjunto,kg,ml,kit,rolo	ureia uv quibasa
+ampola	indefinido,ml,ampola,frasco,kit,caixa,metro,comp,unidade,cilindro	butilescopolamina dipirona sodica 9 ml cx 9 amp
+indefinido	indefinido,litro,conjunto,kit,indefinido,grama,kg,frasco,rolo,unidade	luva latex ilado tricotada
+indefinido	indefinido,unidade,ml,conjunto,grama,comp,metro,caixa,indefinido,cilindro	mangote succao 9
+indefinido	indefinido,metro,ml,ampola,frasco,indefinido,litro,unidade,grama,kit	vassoura piacava vila limpa tam m
+conjunto	indefinido,grama,conjunto,kg,caixa,kit,litro,metro,unidade,ml	raio jg trazeiro 9
+indefinido	indefinido,unidade,metro,ml,indefinido,frasco,litro,kit,comp,caixa	transferencia de saldo credor de icms
+indefinido	indefinido,unidade,metro,conjunto,rolo,kit,ml,comp,kg,caixa	papel oficio
+indefinido	indefinido,metro,unidade,comp,conjunto,rolo,ml,grama,cilindro,caixa	papel oficio 9
+indefinido	indefinido,metro,ml,litro,kit,indefinido,grama,conjunto,unidade,frasco	fita adesiva para autoclave 9 x 9 m missner
+litro	indefinido,ml,indefinido,litro,grama,metro,ampola,comp,cilindro,frasco	plaxmatic 9 9 l detergente umectante p roupas
+comp	comp,unidade,caixa,indefinido,kg,grama,frasco,metro,ml,rolo	albendazol 9 mg c 9 cpr gen
+litro	litro,grama,metro,indefinido,ml,indefinido,rolo,frasco,unidade,kg	esmalte sintetico 9 lt
+unidade	unidade,comp,indefinido,metro,caixa,m3,frasco,ml,kg,rolo	atadura crepom 9 cm pct c 9
+indefinido	indefinido,unidade,grama,kg,rolo,litro,metro,indefinido,kit,frasco	lampada compacta espiral 9 w golden
+indefinido	indefinido,ml,kit,litro,kg,rolo,cilindro,conjunto,indefinido,metro	coentro mol
+ml	ml,indefinido,indefinido,litro,grama,frasco,unidade,ampola,cilindro,metro	oleo mineral 9 ml natulab
+indefinido	indefinido,grama,indefinido,litro,conjunto,kg,metro,kit,unidade,rolo	banana in natura
+indefinido	indefinido,metro,unidade,grama,comp,kg,caixa,ampola,frasco,kit	papel oficio a 9 caixa c 9 resmas
+indefinido	indefinido,metro,ml,cilindro,unidade,rolo,frasco,caixa,grama,indefinido	oleo diesel b s 9 comum
+indefinido	ml,ampola,frasco,indefinido,metro,unidade,grama,litro,rolo,caixa	spectaban t col b m fps 9 9 ml
+grama	grama,indefinido,kg,conjunto,comp,litro,metro,caixa,m3,ml	clips n 9/9 9 g
+indefinido	indefinido,kg,grama,ml,unidade,litro,indefinido,conjunto,caixa,rolo	amortecedor dianteiro
+indefinido	indefinido,conjunto,kit,grama,litro,unidade,kg,ml,comp,indefinido	cartolina laminada verde
+indefinido	indefinido,comp,grama,caixa,unidade,m3,kg,frasco,conjunto,ampola	ciprofibrato 9 mg c 9
+indefinido	indefinido,conjunto,kit,rolo,grama,kg,litro,caixa,metro,indefinido	9 u 9 9 b past freio
+ml	caixa,indefinido,grama,metro,unidade,ampola,frasco,ml,cilindro,comp	enoxaparina sodica 9 mg 9 ml cx 9
+conjunto	indefinido,ampola,ml,kg,caixa,grama,conjunto,frasco,unidade,litro	coloracao panotico rapido conj 9 x 9 ml
+indefinido	grama,indefinido,litro,kg,comp,conjunto,ml,rolo,unidade,frasco	miconazol 9 p creme vaginal
+indefinido	indefinido,unidade,grama,metro,kg,comp,rolo,conjunto,caixa,ml	papel 9 kg a 9 branco
+indefinido	indefinido,litro,unidade,ml,grama,frasco,metro,kg,rolo,ampola	fita adesiva 9 x 9 dupla face 9 adel
+m3	m3,ml,metro,frasco,indefinido,unidade,comp,caixa,cilindro,grama	ar medicinal cil k 9 m 9
+conjunto	indefinido,grama,conjunto,caixa,litro,unidade,kg,metro,kit,cilindro	jg lona freio diant tras vw 9 9 9
+indefinido	indefinido,metro,ml,litro,kg,rolo,conjunto,caixa,indefinido,grama	monarch cart p acrysof iib ms 9 lote 9 val 9 9
+m3	indefinido,cilindro,metro,indefinido,ml,m3,kit,conjunto,frasco,caixa	oxigenio samu
+litro	indefinido,ml,indefinido,litro,grama,metro,ampola,comp,cilindro,frasco	plaxmatic 9 9 l detergente umectante p roupas
+unidade	unidade,indefinido,grama,kg,caixa,metro,comp,rolo,litro,frasco	atadura de crepe de 9 cm c 9 neve
+indefinido	indefinido,kg,indefinido,caixa,metro,ml,frasco,grama,rolo,kit	goiaba
+litro	indefinido,ml,grama,litro,unidade,metro,indefinido,ampola,comp,caixa	plaxmatic 9 9 l alvejante l quido
+indefinido	indefinido,unidade,metro,kg,comp,grama,rolo,frasco,caixa,kit	padrao placar estampado com 9 cmisas
+caixa	grama,indefinido,comp,kg,metro,frasco,unidade,indefinido,ml,rolo	pentasa 9 mg cx 9 cpr mesalazina ferring
+indefinido	grama,indefinido,unidade,metro,kg,rolo,comp,conjunto,litro,ml	papel contact transp 9 cm larg
+indefinido	indefinido,ml,kit,litro,kg,rolo,cilindro,conjunto,indefinido,metro	coentro mol
+indefinido	indefinido,metro,ml,cilindro,unidade,rolo,frasco,caixa,grama,indefinido	oleo diesel b s 9 comum
+m3	m3,cilindro,ml,metro,ampola,unidade,indefinido,caixa,frasco,grama	oxigenio medicinal cil t 9 m 9
+indefinido	indefinido,indefinido,unidade,metro,conjunto,ml,grama,litro,kit,cilindro	ovo de galinha
+indefinido	indefinido,metro,unidade,indefinido,litro,ml,grama,cilindro,frasco,m3	oxigenio liquido caminh tanque
+indefinido	indefinido,metro,unidade,grama,indefinido,rolo,litro,kg,conjunto,comp	papel camurca todas as cores
+indefinido	indefinido,ml,rolo,litro,indefinido,metro,frasco,conjunto,grama,kit	luva cirurgica 9 esteril
+ml	unidade,indefinido,comp,ampola,litro,kg,grama,ml,metro,m3	soro fisiologico 9 9 ml fresenius 9 k 9
+caixa	caixa,indefinido,unidade,metro,comp,grama,rolo,kit,kg,litro	luva de procedimento m cx 9
+indefinido	metro,indefinido,comp,unidade,caixa,ampola,frasco,ml,rolo,grama	esparadrapo imp 9 cmx 9 m cremer
+indefinido	indefinido,unidade,grama,conjunto,ml,metro,kit,kg,ampola,litro	copo descartavel copobras 9 ml
+indefinido	metro,indefinido,unidade,ml,rolo,kit,frasco,grama,kg,caixa	papel kraft ouro madeira 9 g m 9 9 x 9 cm
+kg	kg,grama,indefinido,conjunto,caixa,litro,comp,unidade,metro,rolo	cal supercal 9 kg
+ml	ml,frasco,indefinido,litro,grama,ampola,caixa,metro,m3,comp	miconazol 9 loc 9 ml
+indefinido	indefinido,litro,ml,unidade,grama,metro,kit,frasco,indefinido,comp	bota elast s cadarco 9 crival
+ml	indefinido,metro,ml,ampola,grama,unidade,caixa,cilindro,frasco,litro	ocitocina sol inj 9 ui 9 ml iv im
+cilindro	indefinido,cilindro,m3,metro,indefinido,kit,conjunto,caixa,kg,ml	oxigenio ppu
+indefinido	indefinido,comp,caixa,grama,kg,unidade,kit,metro,conjunto,rolo	luva sold 9 mm corr plastik
+ml	indefinido,ml,caixa,ampola,kit,comp,frasco,metro,litro,unidade	lugol forte 9 ml marca renylab lote 9
+unidade	unidade,indefinido,kit,litro,indefinido,ml,cilindro,rolo,m3,metro	ovos c 9 und
+litro	litro,ml,unidade,indefinido,metro,frasco,rolo,indefinido,grama,caixa	iquine delanil acril fo 9 lt bco gelo
+comp	comp,indefinido,grama,caixa,kg,unidade,conjunto,ml,metro,frasco	metildopa 9 mg cpr
+indefinido	indefinido,litro,unidade,ml,metro,indefinido,grama,rolo,frasco,kit	bota seg elastico 9 linha
+unidade	comp,indefinido,caixa,unidade,cilindro,frasco,metro,grama,kg,ml	lacto purga env c 9 comp
+m3	m3,indefinido,comp,caixa,frasco,unidade,ml,metro,grama,cilindro	ar comprimido 9 m 9
+indefinido	indefinido,grama,caixa,unidade,conjunto,rolo,kit,kg,cilindro,litro	l 9 lona freio mb 9 vw 9/9 fd 9
+indefinido	indefinido,litro,metro,indefinido,ml,kg,unidade,rolo,caixa,kit	fita adesiva 9/9 mat crepe cor bege
+grama	ml,indefinido,unidade,rolo,metro,kit,caixa,frasco,litro,ampola	algodao em rolo hidrofilo 9 gr marca melhor med
+indefinido	indefinido,unidade,grama,metro,caixa,ml,comp,kg,rolo,litro	papel guache 9 x 9
+indefinido	indefinido,grama,kg,rolo,unidade,ml,metro,caixa,conjunto,kit	9 sulfato ferroso 9 mg
+indefinido	indefinido,metro,comp,ml,unidade,grama,litro,conjunto,m3,indefinido	parafuso 9 f 9
+ml	caixa,ampola,indefinido,comp,grama,unidade,frasco,ml,metro,conjunto	clorpromazina gotas 9 mg 9 ml c 9 lote 9
+caixa	frasco,ml,unidade,metro,grama,indefinido,caixa,ampola,rolo,cilindro	ocitocina 9 ui inj 9 ml cx 9 oxiton
+indefinido	indefinido,metro,kit,caixa,rolo,kg,litro,ml,grama,comp	filtro
+indefinido	indefinido,ml,ampola,conjunto,metro,litro,grama,frasco,caixa,kit	junta retificacao valv fiat 9 9 flex sabo
+indefinido	indefinido,metro,kit,ml,litro,unidade,rolo,indefinido,conjunto,grama	tubo esg 9 mm plastubos
+m3	unidade,cilindro,grama,caixa,indefinido,ampola,frasco,ml,metro,litro	oxig nio med em cil 9 m 9 9 9 na 9 onu
+indefinido	indefinido,unidade,caixa,grama,kg,litro,conjunto,metro,cilindro,ml	tijolos ceramico 9 furos 9 9 x 9
+indefinido	indefinido,unidade,metro,ml,litro,kit,frasco,comp,grama,kg	fio de sutura de uso medico hospitalar tipo absorvivel em catgut simples 9 fio de 9 a 9 cm com agulha cilindric
+comp	comp,indefinido,unidade,kg,grama,frasco,caixa,metro,ml,indefinido	ampicilina 9 mg caps gen
+indefinido	indefinido,metro,conjunto,unidade,rolo,kg,indefinido,grama,comp,ml	papel higienico
+indefinido	indefinido,caixa,grama,unidade,m3,litro,comp,ml,kg,conjunto	flanela media 9 x 9
+indefinido	kit,litro,indefinido,metro,grama,conjunto,unidade,rolo,kg,caixa	r 9 planetaria coniflex 9 d
+ml	litro,indefinido,ml,grama,rolo,caixa,metro,unidade,conjunto,kg	corante amarelo 9 ml globo
+indefinido	litro,grama,unidade,indefinido,kg,metro,rolo,ml,indefinido,kit	tec percal aracaju tinto 9 larg 9 alg
+indefinido	indefinido,kg,ml,kit,caixa,grama,indefinido,metro,rolo,litro	laranja
+litro	indefinido,grama,litro,ml,unidade,metro,comp,rolo,cilindro,frasco	saco p lixo comum 9 l pr
+metro	indefinido,grama,unidade,litro,metro,caixa,kg,ampola,ml,kit	fita isolante tigre 9 x 9 mts
+comp	comp,indefinido,caixa,metro,unidade,frasco,ml,kg,grama,litro	loratadina 9 mg comprimidos
+indefinido	indefinido,grama,litro,metro,unidade,ml,indefinido,kg,conjunto,caixa	casinha divertida 9 monte libano
+indefinido	indefinido,caixa,litro,metro,unidade,comp,ml,kit,indefinido,rolo	luva algodao mesclada pigmento preto
+comp	indefinido,ml,ampola,caixa,comp,unidade,grama,litro,indefinido,frasco	sulfametoxazol trimetoprima 9/9 mg cx 9 cpr
+litro	litro,indefinido,indefinido,ml,metro,unidade,kit,kg,rolo,grama	tinta rende muito 9 lts verde kiwi
+m3	m3,indefinido,metro,cilindro,ml,caixa,comp,indefinido,conjunto,litro	oxigenio 9 m 9
+unidade	indefinido,unidade,caixa,conjunto,rolo,grama,ml,comp,metro,kg	ovo medio c 9 sonovo
+indefinido	indefinido,kit,conjunto,kg,ml,litro,grama,caixa,unidade,metro	arroz parbolizado
+indefinido	indefinido,grama,caixa,conjunto,unidade,ml,litro,comp,metro,cilindro	ginkobiloba 9 mg zydus
+ml	indefinido,ml,metro,unidade,frasco,litro,grama,rolo,cilindro,kit	bio latex pcr 9 ml p 9 testes bioclin
+caixa	ml,frasco,indefinido,ampola,comp,metro,caixa,cilindro,unidade,indefinido	ranitidina 9 mg ml 9 ml cx c 9 hypofarma
+indefinido	indefinido,ml,unidade,metro,kit,rolo,indefinido,kg,cilindro,litro	papel filme
+indefinido	caixa,grama,indefinido,unidade,frasco,ml,comp,m3,rolo,ampola	levomepromazina 9 mg 9 cp c 9 lote 9 valid 9
+ml	indefinido,litro,indefinido,metro,grama,ml,frasco,ampola,unidade,kg	seringa desc 9 ml c ag ls descarpack cirurgica fernandes
+indefinido	indefinido,kit,caixa,metro,rolo,kg,grama,ml,litro,unidade	evolu o
+indefinido	indefinido,kg,ml,caixa,metro,kit,grama,unidade,frasco,indefinido	abacaxi
+indefinido	indefinido,kg,metro,caixa,rolo,kit,grama,indefinido,ml,comp	coentro
+indefinido	metro,indefinido,ml,unidade,rolo,frasco,kit,grama,kg,litro	tapete de borracha unicol c 9 pcs linhas ford gm
+indefinido	indefinido,ml,litro,metro,indefinido,kit,m3,conjunto,comp,grama	frioasfalto 9
+m3	indefinido,ml,m3,unidade,ampola,comp,caixa,frasco,metro,kit	ar comprimido cil linde 9 l 9 m 9 vz onu 9 ar comprimido 9 9
+conjunto	indefinido,conjunto,kit,kg,indefinido,metro,caixa,comp,unidade,cilindro	jg reparo pinca
+litro	litro,ml,indefinido,metro,unidade,frasco,kit,ampola,indefinido,grama	tinta lux luxcril acrilica 9 lts azul p
+comp	comp,indefinido,unidade,caixa,frasco,ml,ampola,metro,grama,cilindro	reuquinol 9 mg com 9 cpr
+comp	litro,ampola,grama,ml,comp,indefinido,frasco,unidade,metro,conjunto	sinvastatina sinvaston 9 mg comp sanval
+indefinido	indefinido,metro,unidade,grama,conjunto,comp,rolo,litro,kg,indefinido	papel a 9 branco
+ampola	ampola,indefinido,frasco,ml,unidade,comp,metro,grama,rolo,conjunto	heparina sodica 9 ui 9 ml inj sub 9 amp
+ml	ml,indefinido,grama,frasco,ampola,unidade,caixa,comp,metro,cilindro	amoxicilina 9 mg susp 9 ml s cx prati prati donaduzzi
+indefinido	indefinido,unidade,grama,comp,caixa,ampola,frasco,kg,ml,conjunto	carbamazepina 9 mg teuto l 9 f 9/9 v 9/9
+ml	comp,ampola,frasco,indefinido,unidade,ml,grama,caixa,metro,cilindro	nidazofarma 9 inj c 9 ml farmace farmace
+indefinido	indefinido,m3,kit,indefinido,litro,ml,kg,caixa,metro,rolo	diesel s 9
+grama	grama,comp,unidade,indefinido,frasco,ml,caixa,ampola,litro,kg	metronidazol 9 mg g gel vaginal 9 bg 9
+indefinido	indefinido,grama,caixa,m3,ml,unidade,litro,kg,conjunto,metro	arruela lisa inox 9/9
+indefinido	indefinido,litro,unidade,grama,metro,rolo,kit,conjunto,caixa,kg	barra de direcao palio 9
+indefinido	indefinido,unidade,comp,grama,ml,kg,metro,caixa,frasco,m3	amilase cinetica cnpg 9 testes 9 ml teste cat 9 9/9 marca labtest imposto ibpt nacional 9
+unidade	unidade,indefinido,metro,grama,caixa,rolo,kg,comp,conjunto,frasco	papel a 9 copimax 9 x 9 c 9 fls 9 x 9
+ml	ampola,ml,comp,caixa,indefinido,unidade,frasco,metro,litro,grama	fluconazol 9 mg ml 9 ml sist fechado
+indefinido	indefinido,grama,unidade,litro,ml,indefinido,kg,comp,frasco,metro	benzilpenicilina benzatina 9 ui
+kit	kit,indefinido,litro,rolo,kg,caixa,ml,unidade,metro,indefinido	kit pnld
+indefinido	indefinido,litro,rolo,ml,indefinido,kit,metro,unidade,conjunto,grama	fardamento profissional
+ml	ml,indefinido,litro,rolo,metro,frasco,unidade,grama,kit,kg	verniz sparlack extra marit brilh 9 ml
+frasco	frasco,indefinido,ml,metro,indefinido,rolo,unidade,litro,cilindro,grama	agua bidestilada f a 9 ml isofarma
+ml	ml,indefinido,litro,metro,rolo,frasco,grama,unidade,cilindro,kg	flagass baby gts fr 9 ml
+unidade	indefinido,kg,grama,unidade,metro,caixa,comp,rolo,conjunto,cilindro	caneta compactor 9 c 9 az
+grama	indefinido,litro,grama,comp,ml,metro,frasco,unidade,kg,indefinido	marreta oitavada 9 g forjada ref 9/9
+indefinido	grama,indefinido,kg,caixa,comp,m3,frasco,ml,unidade,metro	hidrocortisona 9 mg
+indefinido	indefinido,ml,frasco,ampola,grama,unidade,comp,litro,conjunto,indefinido	divisoria em madeira naval semi oca com revestimento laminado na cor cinza
+indefinido	indefinido,litro,grama,metro,kg,kit,unidade,indefinido,ml,frasco	servico de suporte tecnico operacional e
+indefinido	indefinido,grama,unidade,litro,metro,kg,ml,comp,ampola,rolo	pastilha freio fiat 9 rcpt 9 trw
+indefinido	indefinido,metro,ml,m3,frasco,kit,caixa,comp,grama,conjunto	vidro incolor 9 mm
+indefinido	indefinido,metro,kit,caixa,rolo,kg,litro,ml,grama,comp	filtro
+indefinido	indefinido,comp,grama,ml,frasco,litro,metro,conjunto,indefinido,ampola	mastro em alum nio com ponteira cromada acompanhado de 9 base nica em madeira
+ml	ml,indefinido,grama,frasco,ampola,unidade,caixa,comp,metro,cilindro	amoxicilina 9 mg susp 9 ml s cx prati prati donaduzzi
+grama	grama,unidade,kg,indefinido,caixa,litro,metro,rolo,cilindro,frasco	sab o em p guarani sach 9 x 9 g
+litro	litro,indefinido,rolo,metro,indefinido,ml,unidade,kit,frasco,kg	agua mineral 9 litros
+unidade	unidade,indefinido,caixa,conjunto,grama,litro,ml,rolo,indefinido,cilindro	ovo bandeja c 9 unds
+metro	indefinido,grama,litro,comp,ampola,metro,unidade,kit,conjunto,ml	fita isolante 9 m display amanco
+litro	indefinido,litro,ml,grama,rolo,metro,caixa,unidade,indefinido,kg	alcool gel 9 9 litros
+metro	ampola,comp,unidade,indefinido,caixa,grama,metro,frasco,ml,kit	cabo flexivel 9 mm c 9 m megacampos
+indefinido	indefinido,conjunto,indefinido,grama,kg,cilindro,unidade,ml,metro,rolo	coentro verde
+conjunto	indefinido,litro,metro,indefinido,kit,unidade,ml,kg,rolo,conjunto	jogo de pastilhas do freio diant
+ampola	comp,indefinido,metro,grama,unidade,rolo,caixa,ampola,litro,kg	hyplex b inj cx 9 amp complexo b
+unidade	unidade,indefinido,kit,litro,indefinido,ml,cilindro,rolo,m3,metro	ovos c 9 und
+grama	grama,kg,unidade,indefinido,comp,metro,caixa,frasco,rolo,conjunto	pao tipo hot dog pct 9 g
+litro	litro,cilindro,m3,ml,frasco,metro,rolo,indefinido,grama,unidade	oxig nio med cil om 9 l
+kg	kg,grama,indefinido,caixa,litro,unidade,metro,comp,indefinido,cilindro	feijao macassar 9 kg
+m3	unidade,m3,caixa,indefinido,metro,cilindro,ampola,frasco,grama,litro	oxig nio med cil om 9 m 9 onu 9 9 9 9
+indefinido	indefinido,unidade,litro,kit,rolo,frasco,ml,grama,caixa,conjunto	luva soldavel 9 mm krona
+unidade	indefinido,grama,metro,unidade,caixa,comp,ml,indefinido,rolo,conjunto	eva em folha c 9
+indefinido	indefinido,ml,indefinido,kit,rolo,kg,litro,comp,grama,metro	rapadura
+indefinido	indefinido,kg,metro,grama,indefinido,rolo,litro,caixa,kit,unidade	canela
+indefinido	indefinido,metro,grama,caixa,comp,ml,rolo,kg,conjunto,indefinido	requeij o cremoso
+unidade	unidade,indefinido,metro,comp,caixa,frasco,grama,ml,litro,rolo	atadura de crepom 9 cm x 9 9 fios c 9
+indefinido	indefinido,unidade,metro,ml,indefinido,frasco,litro,kit,comp,caixa	transferencia de saldo credor de icms
+kg	kg,grama,indefinido,comp,caixa,unidade,litro,conjunto,frasco,metro	equinos 9 ma 9 kg
+ml	ml,metro,litro,indefinido,frasco,rolo,grama,unidade,m3,kit	addera d 9 sol or fr gts 9 ml
+indefinido	indefinido,metro,ml,comp,frasco,ampola,unidade,grama,rolo,litro	paver brick 9 cm natural 9 mpa
+indefinido	indefinido,grama,unidade,kit,litro,conjunto,kg,rolo,ml,metro	cap soldavel 9 mm tigre
+indefinido	indefinido,comp,caixa,conjunto,ml,metro,m3,unidade,rolo,kit	grampo 9 com 9
+indefinido	indefinido,metro,litro,conjunto,kit,unidade,indefinido,kg,ml,grama	tijolos 9 furos
+indefinido	indefinido,litro,grama,rolo,indefinido,conjunto,metro,kg,ml,unidade	esmalte sintetico latao
+kg	kg,grama,indefinido,unidade,comp,litro,caixa,ml,metro,frasco	versatil clor bd 9 kg
+grama	comp,unidade,indefinido,kg,grama,caixa,frasco,ml,metro,indefinido	ampicilina 9 g c 9 gen
+indefinido	indefinido,metro,unidade,indefinido,litro,ml,grama,cilindro,frasco,m3	oxigenio liquido caminh tanque
+indefinido	indefinido,ml,unidade,litro,conjunto,ampola,frasco,grama,metro,indefinido	clips niquelado mat metal tamanho 9/9
+unidade	unidade,comp,indefinido,metro,caixa,m3,frasco,ml,kg,rolo	atadura crepom 9 cm pct c 9
+indefinido	indefinido,metro,caixa,comp,unidade,litro,grama,ml,kg,kit	luva de cromo cano curto tributos incidentes 9 r 9 fonte ibpt
+indefinido	indefinido,grama,metro,litro,unidade,kg,conjunto,rolo,ml,ampola	caldo de galinha constitu do basicamente de
+caixa	indefinido,ml,unidade,grama,ampola,comp,indefinido,frasco,caixa,metro	omeprazol 9 mg injetavel cx 9 ampolas oprazon
+m3	m3,indefinido,unidade,litro,metro,cilindro,caixa,kit,ampola,grama	oxido nitroso cil linde 9 l 9 kg vz onu 9 oxido nitroso comprimido 9 9 9
+unidade	indefinido,metro,grama,rolo,litro,unidade,frasco,ml,comp,conjunto	papel a 9 9 x 9 c 9 fls report
+indefinido	indefinido,unidade,grama,ampola,caixa,litro,comp,cilindro,ml,metro	w colcimentcolaintcinzaac 9 kgplh
+indefinido	indefinido,indefinido,litro,metro,ml,conjunto,grama,kit,kg,rolo	batata inglesa
+ml	indefinido,grama,comp,unidade,litro,ml,caixa,metro,ampola,kg	dermaid locao oleosa corp 9 ml do 9
+unidade	unidade,indefinido,metro,ml,grama,frasco,comp,caixa,litro,kg	atadura de crepom 9 cm x 9 9 fios c 9 imposto ibpt nacional 9
+indefinido	indefinido,unidade,grama,metro,rolo,litro,comp,kg,ml,kit	papel dobradura espelho brilho 9 x 9
+comp	comp,caixa,unidade,indefinido,grama,m3,kg,frasco,litro,ampola	diazepam 9 mg 9 cp b 9
+metro	metro,indefinido,unidade,ml,rolo,grama,litro,frasco,comp,ampola	papel grau cir ph 9 mmx 9 mt
+ampola	grama,indefinido,ampola,kg,caixa,unidade,comp,litro,ml,frasco	ceftriaxona sodica 9 g inj amp g
+metro	metro,indefinido,unidade,caixa,comp,kit,frasco,litro,ampola,ml	tubo pvc 9 mm pn 9 c 9 mts er met
+unidade	unidade,indefinido,metro,comp,caixa,frasco,grama,ml,litro,rolo	atadura de crepom 9 cm x 9 9 fios c 9
+indefinido	indefinido,caixa,ml,metro,rolo,kit,kg,comp,grama,unidade	fosforo
+indefinido	indefinido,caixa,kg,metro,grama,kit,unidade,comp,rolo,indefinido	chuchu
+metro	metro,rolo,indefinido,unidade,ml,litro,grama,caixa,frasco,conjunto	tecido tnt cor div 9 x 9 m 9 p polipropilento
+indefinido	indefinido,comp,conjunto,grama,kg,kit,unidade,caixa,ml,metro	cartolina comum branca
+ml	indefinido,metro,ml,litro,unidade,grama,comp,kit,caixa,conjunto	tinta esm sec rap 9 ml branco
+unidade	indefinido,unidade,metro,grama,indefinido,kg,caixa,rolo,comp,conjunto	noex 9 mcg c 9 doses
+indefinido	indefinido,cilindro,m3,metro,indefinido,kit,conjunto,caixa,kg,ml	oxigenio ppu
+indefinido	indefinido,kit,rolo,kg,unidade,caixa,conjunto,ml,litro,metro	lava pisos
+comp	comp,ampola,caixa,indefinido,unidade,frasco,ml,metro,grama,cilindro	sulfato ferroso 9 mg c 9 comp
+conjunto	indefinido,ampola,ml,kg,caixa,grama,conjunto,frasco,unidade,litro	coloracao panotico rapido conj 9 x 9 ml
+indefinido	indefinido,grama,indefinido,conjunto,ml,litro,metro,kit,comp,unidade	porta em madeira massaranduba
+indefinido	indefinido,grama,unidade,metro,comp,rolo,kg,conjunto,caixa,frasco	papel lencol 9 x 9 cm saporro
+indefinido	indefinido,metro,kit,caixa,rolo,kg,litro,ml,grama,comp	filtro
+indefinido	indefinido,metro,kit,unidade,ml,conjunto,frasco,ampola,comp,rolo	tubo plastubos agua sold pb de 9 mm
+comp	comp,ampola,frasco,metro,indefinido,grama,caixa,ml,rolo,cilindro	decnazol 9 mg c 9 comp pharla pharlab hosp
+litro	litro,indefinido,unidade,grama,rolo,metro,ml,frasco,kg,kit	veda bem impermeabilizante azul 9 lt
+indefinido	indefinido,conjunto,kit,rolo,metro,litro,kg,caixa,ml,indefinido	jg de pcs do elemento
+comp	comp,indefinido,grama,caixa,frasco,unidade,ampola,ml,kg,metro	metformina 9 mg 9 cp
+indefinido	indefinido,kg,grama,caixa,conjunto,metro,litro,unidade,kit,comp	terno completo kgs
+litro	indefinido,grama,litro,kg,metro,rolo,caixa,unidade,kit,ml	alcool 9 c 9 litros
+ml	indefinido,comp,litro,indefinido,ampola,grama,unidade,metro,ml,kg	histamin liq 9 ml sabor cereja 9
+grama	indefinido,metro,grama,rolo,litro,ml,unidade,kit,conjunto,indefinido	papel a 9 9 9 9 g amarelo
+comp	comp,indefinido,unidade,ampola,caixa,metro,grama,cilindro,frasco,kg	9 amitripitilina 9 mg comprimido
+unidade	unidade,indefinido,grama,ml,metro,litro,cilindro,comp,caixa,kg	ovos de galinha emb c 9 und
+kg	indefinido,unidade,metro,comp,caixa,grama,kg,litro,rolo,ampola	varao ferro 9/9 sinobras 9 kg 9 mm ca 9 9
+caixa	ampola,comp,caixa,frasco,ml,unidade,indefinido,metro,cilindro,rolo	loratadina 9 mg 9 bl x 9 comp cx c 9 comp
+indefinido	indefinido,ml,metro,litro,caixa,frasco,kg,indefinido,comp,kit	armacao 9 x 9 nuclear tributos incidentes 9 r 9 fonte ibpt
+ml	ml,metro,litro,frasco,indefinido,rolo,unidade,grama,kit,ampola	veja multiuso original 9 ml
+indefinido	indefinido,kit,metro,conjunto,kg,grama,litro,rolo,m3,ml	cimento endodontico sealer 9
+metro	metro,indefinido,rolo,kit,caixa,unidade,conjunto,kg,comp,ml	papel grau cirurgico medio 9 mm x 9 m lote 9
+indefinido	indefinido,unidade,metro,ml,indefinido,frasco,litro,kit,comp,caixa	transferencia de saldo credor de icms
+grama	grama,indefinido,kg,litro,metro,unidade,conjunto,comp,kit,rolo	macarrao tipo espaquete 9 g
+indefinido	grama,indefinido,litro,unidade,ml,metro,comp,kg,frasco,rolo	faixa em impress o digital lona 9 gr
+comp	comp,indefinido,frasco,grama,ml,kg,caixa,metro,ampola,unidade	cetoconazol 9 mg comp prati donaduzzi
+indefinido	indefinido,grama,caixa,unidade,m3,comp,conjunto,kg,ml,metro	dreno penrose n 9
+ampola	ampola,comp,frasco,metro,unidade,indefinido,grama,cilindro,litro,caixa	ondansetrona 9 mg 9 ml sol inj cx 9 ampolas
+litro	indefinido,grama,litro,comp,caixa,ml,indefinido,metro,conjunto,kg	extralux 9 l branco
+unidade	indefinido,frasco,grama,ml,litro,rolo,unidade,kg,conjunto,comp	compressa 9 x 9 9 fios c 9 esteril
+indefinido	indefinido,ml,grama,indefinido,metro,comp,litro,ampola,conjunto,unidade	polivitamina gotas dt validade 9
+ml	ml,frasco,indefinido,grama,metro,unidade,litro,ampola,comp,m3	acebrofilina 9 mg ad 9 ml
+indefinido	indefinido,conjunto,grama,litro,kg,metro,kit,caixa,ml,comp	retentor traseiro
+indefinido	litro,unidade,indefinido,ml,frasco,grama,rolo,metro,kg,kit	oleo spray white lub anti ferr 9 ml
+indefinido	indefinido,metro,litro,grama,ml,conjunto,indefinido,kit,comp,rolo	ceram eliz 9 a cristal vermelho
+indefinido	indefinido,metro,litro,conjunto,kit,unidade,indefinido,kg,ml,grama	tijolo 9 furos
+indefinido	indefinido,grama,litro,metro,ml,caixa,kg,indefinido,rolo,comp	ferro 9 mm 9/9 reto
+indefinido	indefinido,ml,caixa,comp,litro,grama,ampola,unidade,metro,indefinido	sertralina 9 mg aurobindo l xt 9 a f 9/9 v 9/9
+indefinido	indefinido,caixa,kg,unidade,comp,conjunto,metro,kit,grama,ml	novo codigo de processo civil comparado e anotado 9 edicao
+indefinido	indefinido,ml,grama,ampola,indefinido,metro,litro,conjunto,comp,frasco	polivitamina solucao oral natulab
+litro	litro,grama,indefinido,ml,unidade,metro,frasco,caixa,rolo,conjunto	lubrax top turbo 9 w 9 9 l
+frasco	indefinido,grama,ampola,unidade,conjunto,kit,ml,metro,frasco,rolo	compexo b liquido fr 9 ml medqu
+frasco	comp,frasco,ampola,indefinido,ml,grama,metro,caixa,cilindro,kg	azitromicina 9 mg susp fr 9 ml pharlab
+indefinido	indefinido,unidade,grama,caixa,litro,metro,kg,conjunto,ml,kit	tijolos de 9 furos 9 x 9 x 9
+ml	ml,indefinido,ampola,metro,unidade,frasco,comp,caixa,grama,m3	valproato sd 9 mg ml 9 ml c 9
+comp	comp,ampola,indefinido,caixa,frasco,unidade,grama,ml,cilindro,metro	hioscina dipirona 9 mg cx 9 comp pharlab
+indefinido	indefinido,m3,litro,caixa,kit,ml,conjunto,indefinido,kg,unidade	linha 9 x 9
+kit	kit,indefinido,litro,rolo,kg,caixa,ml,unidade,metro,indefinido	kit pnld
+ml	ml,indefinido,litro,metro,rolo,indefinido,kit,frasco,unidade,grama	artelac col 9 ml
+indefinido	indefinido,metro,ml,kg,litro,indefinido,rolo,unidade,frasco,grama	anel
+indefinido	comp,ampola,grama,indefinido,ml,frasco,unidade,litro,metro,caixa	suxametonio 9 mg marca blau
+ampola	comp,grama,ampola,indefinido,unidade,ml,caixa,frasco,cilindro,kg	butilbrometo escop 9 mg ml amp g
+litro	litro,indefinido,grama,metro,unidade,kit,ml,rolo,kg,frasco	saco para lixo branco hospitalar 9 lt
+indefinido	indefinido,unidade,grama,ampola,kg,litro,m3,caixa,ml,comp	piso form 9 x 9 bandeirante cz a 9 9 m 9
+kit	indefinido,litro,kit,grama,ml,indefinido,unidade,metro,rolo,conjunto	kit embreagem fiorino 9/9 fire
+indefinido	ml,indefinido,frasco,metro,grama,comp,litro,ampola,rolo,cilindro	neutrogena hid corporal 9 ml
+ml	indefinido,ml,grama,conjunto,kit,unidade,rolo,metro,ampola,caixa	colesterol monoreag liq estavel 9 ml bioclin
+m3	m3,cilindro,ml,metro,ampola,unidade,indefinido,caixa,frasco,grama	oxigenio medicinal cil t 9 m 9
+unidade	indefinido,unidade,comp,kg,metro,rolo,grama,frasco,indefinido,conjunto	papel toalha c 9 caprice
+indefinido	indefinido,grama,conjunto,kg,litro,kit,indefinido,metro,ml,rolo	cimento elizabeth
+ml	ml,caixa,ampola,frasco,metro,comp,unidade,indefinido,conjunto,litro	cutenox sod 9 mg 9 ml c 9 seringas biochimico
+ml	ampola,ml,indefinido,grama,unidade,caixa,frasco,comp,metro,litro	furosemida 9 mg 9 ml l 9 q 9 f v
+litro	litro,indefinido,ml,metro,indefinido,frasco,unidade,kit,caixa,kg	tinta lux luxcril acrilica 9 lt br neve
+kg	kg,grama,indefinido,metro,unidade,litro,comp,conjunto,rolo,kit	cp ii z 9 cimpor uso geral saco 9 kg
+ml	indefinido,ml,ampola,unidade,litro,frasco,cilindro,metro,grama,kit	soro fisiologico 9 sist fec 9 ml
+indefinido	indefinido,comp,caixa,ml,grama,unidade,conjunto,kg,litro,frasco	nitrofurasona pomada prati l 9 v 9/9
+kit	indefinido,litro,kit,indefinido,conjunto,grama,ml,metro,rolo,kg	kit urina 9 areas lote 9 validade
+grama	grama,indefinido,kg,litro,metro,unidade,conjunto,comp,kit,rolo	macarrao tipo espaquete 9 g
+indefinido	indefinido,metro,ml,indefinido,kg,kit,caixa,rolo,m3,frasco	refeicoes
+grama	indefinido,grama,litro,unidade,metro,ml,rolo,kit,caixa,ampola	kolagenase c cloraf pom 9 gr f
+indefinido	indefinido,ml,indefinido,kit,kg,cilindro,litro,rolo,frasco,caixa	milho verde
+metro	indefinido,metro,grama,unidade,comp,litro,rolo,kg,conjunto,ml	papel higienico personal lavanda 9 r 9 m
+unidade	indefinido,grama,unidade,metro,rolo,conjunto,kg,kit,frasco,ampola	copo descart vel caixa c 9 unid copobras
+grama	grama,kg,indefinido,litro,metro,frasco,caixa,unidade,ml,m3	leite em po italac 9 g
+indefinido	indefinido,litro,kg,conjunto,grama,rolo,indefinido,unidade,kit,ml	gama gt lote 9 validade
+indefinido	comp,indefinido,metro,grama,kg,ampola,frasco,caixa,unidade,ml	cartolina guache fosco 9 x 9 cores vmp
+indefinido	indefinido,caixa,grama,metro,litro,unidade,kg,m3,rolo,ml	grelha quadrada br 9 x 9 cm gr 9
+indefinido	indefinido,grama,conjunto,kg,litro,comp,metro,indefinido,caixa,kit	caneta alta rotacao
+indefinido	indefinido,kit,ml,indefinido,kg,metro,cilindro,m3,caixa,litro	leite em p
+unidade	indefinido,unidade,metro,caixa,comp,frasco,rolo,grama,ampola,kg	luva de procedimento p cx c 9 embramac
+indefinido	indefinido,metro,ml,m3,conjunto,caixa,rolo,unidade,kit,ampola	oximetro pulso de dedo md 9 c 9 marca choice mmed lote 9
+indefinido	indefinido,unidade,metro,ml,indefinido,frasco,litro,kit,comp,caixa	transferencia de saldo credor de icms
+conjunto	indefinido,unidade,grama,kg,conjunto,comp,caixa,metro,cilindro,kit	cj potes de vidro 9 pcs
+indefinido	indefinido,grama,metro,unidade,kg,litro,ml,rolo,indefinido,frasco	pastilha freio fiat 9 p 9 lonaflex
+indefinido	indefinido,metro,ml,unidade,grama,comp,litro,caixa,conjunto,indefinido	parafuso 9 x 9
+indefinido	indefinido,litro,metro,unidade,rolo,ml,indefinido,grama,kit,conjunto	veste para vel rio feminino
+indefinido	indefinido,kg,caixa,metro,comp,grama,rolo,conjunto,ml,litro	cartucho hp 9 c 9 bb preto
+indefinido	indefinido,ml,indefinido,kg,litro,grama,conjunto,metro,frasco,ampola	creatinina enzimatica lote 9 validade
+ml	ml,frasco,indefinido,litro,ampola,m3,unidade,grama,cilindro,metro	soro fisiolog 9 9 ml
+indefinido	indefinido,litro,indefinido,ml,unidade,kit,grama,frasco,rolo,metro	sais p reidratacao oral envel natulab
+indefinido	indefinido,metro,ml,frasco,caixa,kit,kg,unidade,litro,rolo	rpr bras estab p vdrl 9 x 9 ml 9 testes
+ml	frasco,indefinido,comp,ml,ampola,grama,unidade,metro,caixa,conjunto	alcool 9 gel 9 ml vic pharma
+metro	litro,indefinido,metro,grama,ml,kit,rolo,unidade,indefinido,kg	fita 9 x 9 carvalho 9 m r
+ml	ml,litro,indefinido,frasco,metro,ampola,cilindro,grama,indefinido,unidade	soro ringer lactato 9 ml
+indefinido	indefinido,caixa,kg,metro,grama,kit,unidade,comp,rolo,indefinido	chuchu
+grama	grama,indefinido,kg,caixa,unidade,litro,metro,frasco,ml,rolo	flocao sao braz 9 x 9 g
+kit	indefinido,kit,metro,conjunto,litro,ml,caixa,frasco,grama,cilindro	kit contrato 9 am
+unidade	unidade,indefinido,kit,litro,indefinido,ml,cilindro,rolo,m3,metro	ovos c 9 und
+indefinido	indefinido,unidade,litro,grama,indefinido,rolo,metro,kit,kg,caixa	reps estamparia chitao
+unidade	unidade,indefinido,grama,comp,litro,kg,caixa,metro,cilindro,ml	bot o bonor ny pol 9/9 9 pto c 9 und
+kg	kg,indefinido,litro,grama,unidade,metro,ml,indefinido,rolo,caixa	arroz cacarola parbolizado 9 kg
+ml	ml,metro,frasco,ampola,indefinido,grama,unidade,litro,rolo,comp	paracetamol 9 mg ml gts 9 ml
+litro	litro,indefinido,metro,ampola,grama,comp,caixa,ml,unidade,kg	fixador p raio x automatico p 9 lt cx papelao
+indefinido	metro,indefinido,rolo,unidade,caixa,kg,kit,cilindro,conjunto,m3	piso cer porto rico 9 x 9 classic cinza atom 9
+indefinido	indefinido,grama,ml,caixa,unidade,m3,metro,conjunto,cilindro,comp	oleo diesel b s 9
+kg	unidade,indefinido,litro,metro,grama,kg,kit,ml,caixa,rolo	turbo massa acrilica 9 kg bd
+kg	kg,grama,indefinido,unidade,caixa,litro,comp,metro,m3,ml	farelo de soja 9 kg
+indefinido	indefinido,kit,indefinido,litro,ml,kg,metro,cilindro,rolo,conjunto	ripa mista
+grama	grama,unidade,litro,kg,indefinido,metro,caixa,frasco,rolo,ml	leite em po integral italac 9 x 9 g
+caixa	indefinido,unidade,litro,metro,caixa,grama,rolo,kg,conjunto,kit	luva cirurgica esteril n 9 c inmetro antiderrapante cx c 9 marca maxitex
+litro	litro,unidade,indefinido,metro,ml,grama,rolo,frasco,indefinido,cilindro	oleo dulub hidraulico 9 9 lt
+indefinido	indefinido,grama,kg,unidade,rolo,litro,conjunto,kit,caixa,metro	luva rosc correr 9/9 tigre
+comp	caixa,comp,grama,kg,indefinido,ml,metro,frasco,unidade,rolo	clonazepam 9 mg c 9 cpr s zilepam b 9 geolab go
+indefinido	indefinido,caixa,ml,metro,rolo,kit,kg,comp,grama,unidade	fosforo
+indefinido	indefinido,grama,kg,comp,caixa,conjunto,unidade,metro,cilindro,m3	cimento cpii z 9 rs nbr 9 nbr 9
+indefinido	indefinido,indefinido,litro,ml,kit,cilindro,conjunto,kg,rolo,metro	sorda preta
+indefinido	indefinido,metro,ml,kg,litro,indefinido,rolo,unidade,frasco,grama	anel
+grama	indefinido,grama,comp,metro,kg,ml,caixa,frasco,conjunto,unidade	neomicina bacitracina pomada 9 g lote 9/9
+indefinido	indefinido,ml,grama,indefinido,litro,ampola,conjunto,kit,metro,rolo	fosfatase alcalina liquiform ref 9 9/9 lote 9 validade
+indefinido	indefinido,metro,ml,indefinido,conjunto,kit,caixa,rolo,cilindro,comp	gasolina comum
+indefinido	indefinido,ml,metro,m3,unidade,indefinido,litro,comp,rolo,grama	bateria dtz 9
+indefinido	indefinido,metro,ml,indefinido,kit,kg,frasco,rolo,caixa,litro	tomate
+conjunto	indefinido,litro,grama,ml,unidade,metro,caixa,comp,rolo,m3	alavanca seldin jogo adulto c 9
+litro	litro,ml,indefinido,metro,indefinido,grama,frasco,m3,rolo,caixa	refrigerante 9 lt
+m3	m3,indefinido,metro,cilindro,ml,caixa,comp,indefinido,conjunto,litro	oxigenio 9 m 9
+cilindro	unidade,cilindro,ml,ampola,grama,frasco,indefinido,caixa,m3,metro	oxigenio med em cil 9 m 9 tq 9 na 9 onu
+kit	kit,indefinido,frasco,ml,conjunto,grama,litro,cilindro,indefinido,metro	kit polimento de amalgama
+m3	indefinido,metro,grama,kg,caixa,conjunto,m3,litro,ml,unidade	cilindro de oxig nio de 9 m
+unidade	unidade,indefinido,grama,metro,frasco,kg,rolo,caixa,comp,cilindro	papel oficio a 9 9 x 9 c 9 fls
+comp	comp,indefinido,grama,caixa,unidade,ml,frasco,kg,conjunto,metro	metformina 9 mg cpr
+indefinido	indefinido,rolo,indefinido,litro,grama,unidade,metro,ml,kit,kg	esm sint gl marrom conhaque hidro
+indefinido	indefinido,metro,conjunto,rolo,caixa,kit,kg,litro,unidade,grama	carne com osso
+indefinido	indefinido,metro,grama,unidade,litro,kg,conjunto,rolo,comp,kit	papel a 9 rino rs
+indefinido	indefinido,ml,indefinido,metro,litro,kg,kit,frasco,rolo,caixa	beterraba
+indefinido	indefinido,litro,grama,kit,indefinido,unidade,metro,ml,kg,frasco	saco 9 lts infectante c registro anvisa
+ml	indefinido,grama,ml,conjunto,caixa,metro,unidade,ampola,m3,kg	brometo de ipatropio 9 9 ml lote 9 l 9 valid 9
+indefinido	indefinido,ml,litro,m3,grama,ampola,caixa,frasco,conjunto,unidade	curva soldavel 9 mm 9
+indefinido	litro,metro,indefinido,unidade,ml,frasco,comp,caixa,cilindro,ampola	fita adesiva pvc 9 x 9 color pp 9 pp 9 eurocel
+unidade	indefinido,unidade,comp,caixa,grama,m3,metro,kg,rolo,conjunto	papel higienico c 9
+ml	ampola,metro,ml,indefinido,frasco,comp,litro,unidade,grama,cilindro	fentanila citr 9 ug ml 9 ml hipolabor a 9
+grama	grama,indefinido,kg,unidade,caixa,litro,metro,rolo,conjunto,ml	bolacha crean ckacer 9 gr
+indefinido	indefinido,metro,ml,litro,kit,rolo,cilindro,ampola,indefinido,conjunto	bilirrubina colorimetrica 9 9 testes 9 9 ml teste cat marca labtest
+litro	litro,indefinido,ml,grama,metro,indefinido,kit,rolo,caixa,kg	liex soft 9 l amaciante a base de quatern rio
+indefinido	indefinido,ml,metro,ampola,unidade,litro,frasco,comp,rolo,grama	regua moldura cml h 9 9 mm fen
+unidade	indefinido,unidade,grama,comp,ml,kg,litro,caixa,indefinido,conjunto	mebendazol susp und
+caixa	indefinido,grama,conjunto,caixa,kg,unidade,m3,comp,cilindro,metro	cx gordura tigre dn 9
+ampola	ampola,indefinido,grama,litro,unidade,frasco,comp,rolo,cilindro,metro	hidrocortisona 9 mg injetavel cx 9 ampolas
+indefinido	indefinido,kg,grama,unidade,ml,caixa,metro,comp,conjunto,litro	amortecedor tras esq
+indefinido	indefinido,metro,unidade,grama,indefinido,rolo,litro,kg,conjunto,comp	papel camurca todas as cores
+indefinido	indefinido,grama,conjunto,ml,kit,unidade,rolo,litro,ampola,caixa	fosfato mon sulf dissodico lote 9 valid 9
+ml	indefinido,litro,ml,metro,rolo,grama,conjunto,comp,kg,indefinido	claril 9 ml col
+indefinido	unidade,metro,indefinido,litro,grama,ml,rolo,indefinido,frasco,kit	heparina sodica 9 ui sol inj
+indefinido	grama,indefinido,kg,caixa,comp,unidade,m3,frasco,ml,litro	algodao hidrof 9 g
+indefinido	ml,indefinido,ampola,unidade,frasco,metro,grama,caixa,kit,conjunto	fita adesiva crepe 9 mm x 9 mm imposto ibpt nacional 9
+indefinido	indefinido,indefinido,grama,kg,metro,kit,caixa,rolo,ml,frasco	banana
+litro	litro,indefinido,unidade,ml,indefinido,metro,grama,frasco,kg,kit	tinta luxcril 9 l azul profundo lux
+unidade	comp,grama,indefinido,ampola,frasco,caixa,ml,metro,cilindro,unidade	prometazina 9 mg c 9 cristalia sp
+indefinido	unidade,grama,indefinido,comp,ampola,ml,frasco,caixa,cilindro,rolo	oleo diesel b s 9 no onu 9 cl 9 grp
+indefinido	indefinido,litro,indefinido,grama,comp,metro,ml,frasco,kg,unidade	madeira mirindiba serrada em tabua
+indefinido	indefinido,caixa,unidade,grama,comp,conjunto,kg,indefinido,metro,ml	luvas cirurgicas 9
+indefinido	indefinido,ml,kg,kit,metro,rolo,unidade,conjunto,grama,frasco	acido urico liquiform ref 9 9/9 lote 9 validade
+kg	comp,indefinido,kg,grama,conjunto,caixa,metro,cilindro,frasco,unidade	cimento 9 kg mizu cp ii
+indefinido	indefinido,metro,litro,rolo,conjunto,indefinido,grama,ml,kit,kg	elemento filtro
+indefinido	indefinido,cilindro,metro,indefinido,ml,m3,kit,conjunto,frasco,caixa	oxigenio samu
+kg	kg,indefinido,grama,conjunto,caixa,litro,metro,comp,indefinido,cilindro	cimento de 9 kgs
+m3	m3,cilindro,ml,metro,ampola,unidade,indefinido,caixa,frasco,grama	oxigenio medicinal cil t 9 m 9
+indefinido	indefinido,comp,ml,grama,conjunto,kg,metro,caixa,unidade,litro	cloridrato de ciprofloxacino 9 mg prati donaduzzi
+indefinido	indefinido,metro,indefinido,grama,kit,unidade,ml,rolo,litro,kg	estagio supervisionado o cortez
+indefinido	indefinido,indefinido,unidade,metro,conjunto,ml,grama,litro,kit,cilindro	ovo de galinha
+indefinido	indefinido,metro,ml,unidade,frasco,grama,comp,kit,caixa,conjunto	cabo multiplex mono 9 mm
+indefinido	indefinido,conjunto,grama,kit,unidade,litro,kg,rolo,metro,comp	pd 9 pastilha freio ecosport fiesta pd 9
+indefinido	indefinido,ml,caixa,frasco,unidade,metro,kg,grama,comp,rolo	aceclofenaco 9 mg creme
+indefinido	indefinido,comp,unidade,metro,litro,kg,caixa,conjunto,kit,grama	formula didatico polipac
+grama	ml,comp,indefinido,frasco,ampola,unidade,caixa,litro,cilindro,metro	hidrocortisona 9 mg creme 9 g uniao quimica
+grama	grama,indefinido,kg,caixa,unidade,litro,metro,frasco,ml,rolo	flocao sao braz 9 x 9 g
+indefinido	indefinido,indefinido,unidade,metro,conjunto,ml,grama,litro,kit,cilindro	ovo de galinha
+indefinido	indefinido,ml,litro,comp,frasco,caixa,ampola,grama,m3,unidade	grafite mina 9 mm hb
+ml	ml,metro,indefinido,frasco,litro,m3,ampola,unidade,cilindro,rolo	vinagre de alcool embal c 9 ml
+indefinido	indefinido,ml,grama,metro,unidade,conjunto,caixa,cilindro,m3,indefinido	oleo diesel bs 9
+indefinido	metro,indefinido,frasco,caixa,grama,m3,ampola,ml,unidade,conjunto	mdf branco tx 9 f 9 x 9 x 9 mm
+indefinido	indefinido,metro,kit,grama,indefinido,litro,ml,kg,rolo,unidade	ficha de acompanhamento pedag do diretor
+indefinido	indefinido,metro,kit,caixa,rolo,kg,litro,ml,grama,comp	filtro
+grama	indefinido,ml,grama,frasco,comp,unidade,ampola,indefinido,caixa,metro	metronidazol 9 mg gel vag apl bisn 9 gr prati donaduzzi
+indefinido	indefinido,litro,ml,indefinido,grama,conjunto,metro,frasco,unidade,kit	bilirrubina ref 9 lote 9 validade
+indefinido	indefinido,unidade,litro,grama,metro,cilindro,kg,ml,caixa,conjunto	tijolo de ceramica 9 furos
+indefinido	indefinido,litro,metro,conjunto,grama,rolo,ml,kit,unidade,kg	tecido brim prof 9 algodao amarelo
+indefinido	ampola,indefinido,comp,unidade,ml,grama,caixa,m3,frasco,litro	colesterol mon 9 ml bioclin lotes 9 9 9
+comp	comp,metro,indefinido,ml,unidade,frasco,ampola,rolo,caixa,kg	afolic 9 mg c 9 comp hosp natulab hosp
+comp	comp,indefinido,caixa,ml,metro,grama,unidade,ampola,rolo,frasco	baclofeno 9 mg c 9 comp teuto teuto
+indefinido	metro,unidade,comp,indefinido,caixa,frasco,ml,ampola,rolo,grama	pds ii vlt 9 9 9 cm ps 9 z 9 g marca ethicon
+indefinido	indefinido,unidade,grama,ml,litro,ampola,indefinido,comp,caixa,kit	escopolamina dipirona sodica inj
+indefinido	indefinido,grama,caixa,conjunto,litro,kit,unidade,kg,ml,metro	luva cir esteril 9
+indefinido	indefinido,grama,ml,litro,unidade,kg,metro,indefinido,conjunto,rolo	casa grande de atividade 9 monte libano
+indefinido	indefinido,litro,ml,grama,ampola,rolo,metro,comp,conjunto,indefinido	sulfa trimetropina 9 ml sobral
+indefinido	indefinido,kg,indefinido,caixa,metro,ml,frasco,grama,rolo,kit	goiaba
+grama	indefinido,ml,litro,grama,unidade,kg,metro,comp,indefinido,ampola	almondegas ao molho de tomate 9 g
+indefinido	indefinido,cilindro,m3,metro,indefinido,kit,conjunto,caixa,kg,ml	oxigenio ppu
+comp	comp,indefinido,caixa,grama,frasco,ampola,unidade,metro,kg,ml	meclin 9 mg c 9 comp
+ampola	ml,indefinido,ampola,frasco,metro,comp,cilindro,indefinido,grama,unidade	atropina 9 mg sol inj amp 9 ml isofarma p
+grama	grama,indefinido,unidade,ml,ampola,comp,frasco,litro,metro,conjunto	acrysof sa 9 at 9 g ms 9 lote 9 val 9 9
+kg	indefinido,comp,grama,caixa,unidade,conjunto,metro,rolo,kg,litro	sal campeao 9 kg comum iodado
+caixa	caixa,indefinido,ml,grama,unidade,frasco,comp,ampola,metro,m3	lidocaina a 9 s v 9 ml gen cx 9
+comp	comp,indefinido,caixa,unidade,ampola,grama,cilindro,kg,metro,frasco	fluoxetina 9 mg 9 caps
+grama	grama,indefinido,unidade,ml,comp,kg,litro,metro,caixa,frasco	bombom sortidos garoto 9 gr
+indefinido	indefinido,kg,metro,grama,indefinido,caixa,rolo,kit,ml,frasco	cenoura
+indefinido	metro,frasco,indefinido,ml,comp,unidade,ampola,cilindro,caixa,grama	mangueira cristal 9 x 9 mm plastiman
+indefinido	indefinido,metro,kit,unidade,ml,comp,litro,caixa,frasco,rolo	ar cond split 9 btus kos 9 fc princess komeco
+litro	litro,grama,indefinido,unidade,kg,comp,metro,kit,ampola,indefinido	duramais 9 l branco neve lux
+metro	metro,indefinido,litro,ml,ampola,grama,kit,m3,rolo,frasco	fita adesiva autoclave 9 mm x 9 m
+comp	comp,indefinido,grama,unidade,caixa,kg,conjunto,metro,ml,ampola	captopril 9 mg cpr
+indefinido	indefinido,indefinido,litro,ml,kit,metro,conjunto,rolo,grama,unidade	suco de fruta
+litro	indefinido,litro,metro,ml,grama,unidade,indefinido,kit,rolo,caixa	saco lixo ultraplast 9 l preto
+indefinido	indefinido,metro,ml,ampola,unidade,litro,frasco,caixa,cilindro,kit	tubo sul minas pvc sold 9 mm 9 mt
+indefinido	litro,unidade,grama,indefinido,kg,ml,rolo,metro,kit,caixa	sais para reidratacao oral 9 g lt 9 d
+unidade	comp,caixa,unidade,kg,indefinido,grama,ampola,cilindro,frasco,metro	nylon mon preto 9 9 c ag 9/9 9 cm cx c 9
+indefinido	kg,indefinido,unidade,grama,litro,ampola,ml,comp,indefinido,conjunto	tornozeleira nylon emborrachado 9 kg
+indefinido	metro,indefinido,unidade,ml,frasco,comp,grama,caixa,ampola,kg	piperacilina sod 9 g tazobactam sodico 9 g po p sol inj
+comp	comp,indefinido,metro,ml,caixa,unidade,frasco,grama,ampola,kg	prometazina 9 mg comp teuto
+grama	grama,unidade,kg,indefinido,caixa,litro,metro,rolo,cilindro,frasco	sab o em p guarani sach 9 x 9 g
+indefinido	indefinido,litro,ml,grama,metro,frasco,ampola,kit,conjunto,kg	saco p lixo 9 lt dona limpa
+comp	comp,frasco,indefinido,metro,ampola,ml,indefinido,kit,cilindro,kg	dipirona 9 mg c 9 comp greenpharma greenpharma
+indefinido	indefinido,ampola,grama,litro,caixa,ml,comp,metro,unidade,indefinido	clindamicina 9 mg fosfato item generico l aa 9/9 q 9 f v
+kg	indefinido,kg,grama,ml,conjunto,unidade,cilindro,caixa,metro,indefinido	bolo sort kg
+comp	comp,indefinido,unidade,frasco,metro,grama,caixa,ml,kg,ampola	metronidazol 9 mg comp gen
+indefinido	indefinido,litro,conjunto,kit,indefinido,ml,grama,metro,kg,rolo	junta tpa valvula
+m3	m3,indefinido,metro,cilindro,ml,caixa,comp,indefinido,conjunto,litro	oxigenio 9 m 9
+kg	kg,grama,indefinido,litro,unidade,indefinido,metro,rolo,conjunto,kit	massa pva hidracor balde 9 kg
+kg	kg,grama,indefinido,metro,unidade,litro,comp,conjunto,rolo,kit	cp ii z 9 cimpor uso geral saco 9 kg
+indefinido	indefinido,m3,kit,indefinido,litro,ml,kg,caixa,metro,rolo	diesel s 9
+comp	comp,indefinido,unidade,grama,kg,metro,caixa,frasco,ml,ampola	cefalexina 9 mg comp gen
+indefinido	indefinido,metro,kit,rolo,ml,kg,caixa,indefinido,litro,grama	elemento
+indefinido	indefinido,indefinido,grama,conjunto,unidade,metro,ml,litro,kit,rolo	ovos de galinha
+kg	metro,indefinido,caixa,kg,unidade,grama,frasco,comp,rolo,kit	f trigo esp r branca 9 x 9 kg c ferm
+indefinido	indefinido,indefinido,metro,ml,cilindro,rolo,kg,unidade,conjunto,caixa	alface crespa
+indefinido	indefinido,ml,ampola,unidade,grama,metro,caixa,litro,comp,m3	colesterol hdl enzimatico 9 testes 9 ml teste cat 9 9 marca labtest imposto ibpt nacional 9
+comp	comp,caixa,indefinido,metro,unidade,frasco,ampola,m3,grama,kg	diazepam 9 mg cx 9 comp b 9
+litro	litro,metro,indefinido,ml,frasco,indefinido,grama,kit,rolo,unidade	tinta acril pintapiso 9 lt cz medio coral
+indefinido	indefinido,caixa,kg,grama,unidade,metro,comp,kit,frasco,ml	acucar
+unidade	unidade,indefinido,caixa,litro,conjunto,kg,metro,frasco,grama,ampola	luva procedim top quality tam p 9 un medix
+unidade	indefinido,ml,metro,litro,caixa,unidade,m3,kit,cilindro,grama	triglicerideo enzimatico c 9 testes lt 9
+indefinido	indefinido,ml,rolo,grama,frasco,metro,caixa,unidade,conjunto,litro	almotolia plast bico reto 9 ml j prolab l 9 val indet
+indefinido	indefinido,metro,unidade,ml,m3,litro,grama,caixa,kit,rolo	botina de seguranca confecc em couro n 9
+indefinido	unidade,grama,litro,indefinido,ml,comp,frasco,caixa,indefinido,kg	dexametasona 9 mg inj
+unidade	indefinido,grama,ml,comp,ampola,unidade,metro,litro,frasco,indefinido	syphilis ice c 9 t lote d 9 marca diasorin
+indefinido	indefinido,metro,unidade,indefinido,litro,ml,grama,cilindro,frasco,m3	oxigenio liquido caminh tanque
+indefinido	indefinido,litro,grama,ml,indefinido,kg,caixa,metro,unidade,conjunto	folha eva 9 x 9 lisa
+indefinido	indefinido,grama,caixa,ml,unidade,litro,conjunto,metro,indefinido,comp	luva esteril n 9
+grama	grama,indefinido,unidade,litro,kg,ml,metro,ampola,frasco,caixa	estriol creme vaginal 9 mg 9 g
+metro	indefinido,ml,metro,rolo,grama,conjunto,frasco,comp,kit,caixa	eletroduto corrugado 9 mm 9 mt amarelo
+frasco	metro,indefinido,ml,comp,caixa,grama,unidade,frasco,litro,ampola	ceftriaxona amplospec 9 g f a biochimico
+indefinido	grama,kg,indefinido,litro,metro,comp,frasco,caixa,unidade,ml	extrato de tomate 9 g
+comp	comp,ml,ampola,caixa,frasco,unidade,indefinido,metro,cilindro,grama	espironolactona 9 mg c 9 comp hip hipolabor hosp
+ml	unidade,indefinido,grama,frasco,ml,comp,ampola,metro,litro,indefinido	metronidazol sol a 9 9 ml c 9 gen
+cilindro	unidade,indefinido,frasco,metro,comp,ml,grama,ampola,caixa,litro	ar med cil 9 m 9 om 9 l onu 9 na 9 9
+indefinido	indefinido,metro,kit,caixa,kg,litro,rolo,grama,m3,unidade	fio 9
+grama	grama,indefinido,kg,unidade,rolo,ml,litro,caixa,frasco,metro	algodao hidrofilo 9 gr
+indefinido	indefinido,metro,ml,grama,conjunto,caixa,kg,indefinido,comp,litro	vitamina k inj im
+indefinido	indefinido,grama,comp,metro,ml,kg,indefinido,m3,conjunto,unidade	omeprazol 9 mg
+indefinido	indefinido,metro,ml,frasco,cilindro,unidade,grama,indefinido,rolo,caixa	benzilpenicilina 9 ui im
+ml	comp,ampola,unidade,caixa,indefinido,metro,grama,frasco,ml,litro	ciprofloxacina 9 mg 9 ml ciprobacter cx 9
+indefinido	indefinido,indefinido,litro,metro,rolo,kit,conjunto,cilindro,kg,ml	banana prata
+indefinido	indefinido,grama,conjunto,indefinido,kg,kit,ml,caixa,litro,comp	glicose monoreagente quibasa
+grama	indefinido,unidade,litro,kg,ml,metro,indefinido,kit,caixa,rolo	margarina produzida excl de gordura vegetal adicao de sal com gordura trans embal c 9 gr marca deline
+comp	comp,grama,indefinido,frasco,kg,metro,caixa,unidade,ampola,ml	metildopa 9 mg cx 9 comp g
+indefinido	indefinido,metro,ml,indefinido,conjunto,kit,caixa,rolo,cilindro,comp	gasolina comum
+litro	indefinido,grama,litro,ml,kit,unidade,kg,rolo,conjunto,indefinido	oleo 9 w 9 9 l brutu
+metro	metro,indefinido,frasco,ml,caixa,rolo,unidade,cilindro,grama,kit	tubo de latex n 9 pct c 9 m 9 r latex lote 9
+indefinido	indefinido,grama,conjunto,kg,rolo,caixa,litro,metro,unidade,kit	cano tubo de 9 esgoto
+ml	ml,indefinido,rolo,litro,grama,frasco,metro,ampola,conjunto,cilindro	hidroxido de aluminio 9 ml sobral
+indefinido	indefinido,litro,ml,unidade,ampola,grama,caixa,rolo,kg,indefinido	manual de direito civil volume unico 9 ed 9
+ml	indefinido,litro,grama,ml,unidade,comp,kg,caixa,kit,ampola	dimorf 9 mg ml inj
+ml	ml,litro,metro,indefinido,frasco,unidade,rolo,m3,kit,kg	vinagre de alcool para culinaria embal c 9 ml
+litro	litro,grama,indefinido,metro,ml,rolo,kit,unidade,kg,frasco	saco para lixo preto 9 lt
+indefinido	indefinido,kit,metro,caixa,kg,grama,ml,indefinido,litro,rolo	brita 9
+frasco	ml,frasco,ampola,indefinido,litro,metro,grama,unidade,caixa,comp	omeprazol 9 mg 9 ml dil cx 9 f a blausiegel
+comp	comp,ampola,indefinido,caixa,unidade,kit,ml,kg,frasco,grama	fluconazol 9 mg cmp medqu
+indefinido	indefinido,litro,indefinido,ml,grama,unidade,caixa,metro,rolo,kit	bucha fixdura d 9 fischer benfixa
+ml	ml,indefinido,frasco,comp,grama,unidade,metro,litro,ampola,caixa	ibuprofeno xpe inf ibuprotrat 9 ml
